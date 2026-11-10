@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Degrees of Truth — Greenhouse Gas Emissions</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="data.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <a class="brand" href="#"
+        >DEGREES OF TRUTH<span>CMSC471 / ASSIGNMENT 02</span></a
+      >
+      <nav aria-label="Main">
+        <a href="#evidence">The evidence</a><a href="#framing">The framing</a
+        ><a href="#method">Method & sources</a>
+      </nav>
+    </header>
+    <main>
+      <section class="intro">
+        <p class="eyebrow">ONE DATASET. TWO PERSPECTIVES.</p>
+        <h1>The numbers are real.<br />The story is a choice.</h1>
+        <p class="lede">
+          How much progress have countries made on greenhouse gas emissions?
+          Change the comparison, and the same data can tell a very different
+          story.
+        </p>
+        <div class="meta">
+          <span>OECD EMISSIONS INVENTORIES</span><span>1990—2018</span
+          ><span>6 COUNTRIES</span>
+        </div>
+      </section>
+      <section id="evidence" class="panel">
+        <div class="section-head">
+          <span class="badge">01 / WHITE HAT</span>
+          <p>Context before conclusions</p>
+        </div>
+        <h2>Progress is uneven.</h2>
+        <p class="description">
+          Compare annual greenhouse gas emissions across six selected countries.
+          A common baseline reveals change; absolute values reveal scale.
+        </p>
+        <div class="controls">
+          <label
+            >Show emissions as
+            <select id="metric">
+              <option value="index">Change since 1990 (%)</option>
+              <option value="absolute">Annual total (Mt CO₂e)</option>
+            </select></label
+          >
+          <fieldset id="countries">
+            <legend>Countries to compare</legend>
+          </fieldset>
+        </div>
+        <div id="white-chart" class="chart"></div>
+        <p id="white-caption" class="caption"></p>
+        <div class="stats" id="stats"></div>
+        <details>
+          <summary>View the annual values and observation status</summary>
+          <div class="table-wrap" id="data-table"></div>
+        </details>
+        <article class="writeup">
+          <p class="eyebrow">DESIGN EXPLANATION / WHITE HAT</p>
+          <h3>Making the comparison visible</h3>
+          <p>
+            This visualization uses the user-provided OECD Air emissions —
+            Greenhouse gas emissions Inventories export. It shows aggregate
+            greenhouse gases for the United States, United Kingdom, Germany,
+            Canada, Australia, and Japan between 1990 and 2018. These six
+            countries were selected to compare contrasting trajectories among
+            major industrial economies with complete annual records. They are a
+            purposive sample, not a representative sample of the world or a
+            ranking of all OECD members.
+          </p>
+          <p>
+            The default view computes each annual value as a percentage change
+            from that country’s own 1990 emissions: (annual emissions / 1990
+            emissions − 1) × 100. This common baseline makes relative changes
+            comparable despite differences in national size. A second view shows
+            absolute annual emissions in million tonnes of carbon-dioxide
+            equivalent (Mt CO₂e), with a zero-based vertical axis. Switching
+            between the views exposes the difference between relative progress
+            and the scale of emissions. Neither measure establishes per-person
+            responsibility, efficiency, or historical cumulative contribution.
+          </p>
+          <p>
+            Lines preserve chronological order, a dashed reference marks the
+            baseline, and the country controls let readers reduce overlap. Each
+            selected country also has a labeled endpoint summary, so the chart
+            does not rely on color alone. The annual data table exposes exact
+            values and the source’s observation status. All available years in
+            the stated interval remain visible; the countries share one vertical
+            scale within each view. That scale stays fixed when countries are
+            hidden, preventing selection from silently magnifying changes.
+          </p>
+          <p>
+            All observations use total emissions excluding land use, land-use
+            change and forestry (LULUCF). Source unit multipliers are applied
+            before conversion to Mt CO₂e. We do not sum regional aggregates, mix
+            individual gases with their aggregate, or substitute zeros for
+            missing values. These are inventory observations from a newer export
+            and may differ from earlier OECD releases. National inventories also
+            omit some dimensions of climate responsibility, including emissions
+            embodied in imported goods. The chart describes reported
+            trajectories; it does not attribute changes to a particular policy.
+          </p>
+        </article>
+      </section>
+      <section id="framing" class="panel dark">
+        <div class="section-head">
+          <span class="badge">02 / BLACK HAT</span>
+          <p>A deliberately misleading presentation</p>
+        </div>
+        <div class="campaign">
+          <p class="eyebrow">AMERICAN CLIMATE PROGRESS</p>
+          <h2>A decisive turn<br />toward a cleaner future.</h2>
+          <p class="description">
+            U.S. greenhouse gas emissions are down more than 10%.
+          </p>
+          <div class="big-number">−10.3%<span>2007 → 2018</span></div>
+          <div id="black-chart" class="chart"></div>
+          <p class="caption">
+            U.S. annual greenhouse gas emissions · Mt CO₂e · OECD inventories
+          </p>
+        </div>
+        <details class="reveal" open>
+          <summary>Behind the framing: inspect the manipulation</summary>
+          <p>
+            The campaign above is intentionally misleading. Its numbers are
+            genuine. Its framing is selective.
+          </p>
+          <div class="techniques">
+            <div>
+              <strong>01 / Select the starting point</strong>
+              <p>
+                2007 is the U.S. peak within 1990–2018. Starting there
+                highlights a 10.3% decline; the full period shows a 3.3%
+                increase.
+              </p>
+            </div>
+            <div>
+              <strong>02 / Magnify the slope</strong>
+              <p>
+                The vertical axis starts at 6,000 Mt instead of zero. This makes
+                the decline occupy much more of the chart’s height.
+              </p>
+            </div>
+            <div>
+              <strong>03 / Broaden the claim</strong>
+              <p>
+                “A cleaner future” implies durable success beyond what a
+                selected historical emissions interval can establish.
+              </p>
+            </div>
+          </div>
+          <button id="restore" type="button" aria-pressed="false">
+            Restore the full context
+          </button>
+          <p id="restore-status" aria-live="polite">
+            Showing the selective 2007–2018 window with a truncated axis.
+          </p>
+        </details>
+        <article class="writeup">
+          <p class="eyebrow">DESIGN EXPLANATION / BLACK HAT</p>
+          <h3>True values, inflated reassurance</h3>
+          <p>
+            This presentation uses the same OECD aggregate greenhouse gas series
+            and the same definition of total emissions excluding LULUCF as the
+            white hat visualization. No observation is fabricated or numerically
+            altered. Instead, the campaign constructs a reassuring account of
+            American climate progress through three coordinated decisions:
+            selective filtering, a compressed vertical range, and an
+            overconfident headline.
+          </p>
+          <p>
+            First, it begins in 2007 rather than 1990. In this export, 2007 is
+            the highest U.S. annual total within the assignment’s 1990–2018
+            interval. Comparing that peak with 2018 produces a decline of about
+            10.3%. This is a valid calculation, but it favors the desired
+            narrative: comparing 1990 with 2018 instead produces an increase of
+            about 3.3%. The visible date label gives the presentation surface
+            credibility while leaving readers to discover why that particular
+            starting point matters. Isolating one country also removes the
+            contrasting trajectories visible in the comparative view.
+          </p>
+          <p>
+            Second, the vertical scale starts at 6,000 Mt CO₂e rather than zero.
+            A nonzero baseline is not inherently inappropriate for a line chart,
+            particularly when examining small fluctuations. Here it is
+            deliberately combined with a progress narrative and a filled area to
+            enlarge the visual impression of improvement. The axis remains
+            labeled, making the tactic detectable through careful reading
+            without presenting an obviously broken chart. The filled region
+            represents height above the truncated baseline, not the full
+            quantity of emissions.
+          </p>
+          <p>
+            Third, the headline turns a historical change into a broad claim
+            about a cleaner future. Neither this interval nor this inventory
+            establishes future emissions, policy effectiveness, or comprehensive
+            environmental improvement. The large percentage, green palette, and
+            restrained typography make the message feel confident and
+            authoritative. These choices mislead through data transformation,
+            visual encoding, and titles. The separate explanation and
+            context-restoration control expose the tactics for this educational
+            exercise. Restoring the full period and a zero baseline demonstrates
+            that the evidence supports a more qualified conclusion than the
+            campaign suggests.
+          </p>
+        </article>
+      </section>
+      <section id="method" class="method">
+        <p class="eyebrow">METHOD & PROVENANCE</p>
+        <h2>What sits behind the lines.</h2>
+        <div class="method-grid">
+          <div>
+            <h3>Data and scope</h3>
+            <p>
+              Source:
+              <a href="https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG"
+                >OECD greenhouse gas inventories</a
+              >. Dataflow: OECD.ENV.EPI:DSD_AIR_GHG@DF_AIR_GHG(1.0).
+              User-supplied export filename timestamp: November 9, 2026; this is
+              not a verified release date.
+            </p>
+            <p>
+              Filters: POLLUTANT=GHG, MEASURE=_T, UNIT_MEASURE=T_CO2E, years
+              1990–2018. Conversion: OBS_VALUE × 10<sup>UNIT_MULT</sup> /
+              1,000,000. CO₂e combines gases using the source’s equivalence
+              methodology; this project does not recompute those factors.
+            </p>
+            <p>
+              <a href="totals_1990_2018.csv" download
+                >Download prepared totals (all available areas)</a
+              >. Includes regional aggregates; do not sum every row as if every
+              area were an independent country.
+            </p>
+          </div>
+          <div>
+            <h3>Development process</h3>
+            <p>
+              Team members: <strong>TODO</strong><br />Responsibilities:
+              <strong>TODO</strong><br />People-hours: <strong>TODO</strong
+              ><br />Most time-consuming aspects: <strong>TODO</strong>
+            </p>
+            <p>
+              Process: inspect the source schema and coverage; normalize units;
+              compare complete country trajectories; implement contrasting SVG
+              views and document the framing choices.
+            </p>
+            <h3>AI usage</h3>
+            <p>
+              Codex assisted with data inspection, preparation code, comparison
+              selection, webpage implementation, and draft explanations. Team
+              review and reflections: <strong>TODO</strong>. No external
+              visualization example was adapted.
+            </p>
+          </div>
+        </div>
+        <p class="caption">
+          Assignment brief:
+          <a
+            href="https://zcliu.github.io/teaching/CMSC471/assignments/A2-hat.html"
+            >CMSC471 Assignment 2</a
+          >
+          · Deadline: November 13, 2026.
+        </p>
+      </section>
+    </main>
+    <footer>
+      DEGREES OF TRUTH <span>An exercise in reading data critically.</span>
+    </footer>
+  </body>
+</html>

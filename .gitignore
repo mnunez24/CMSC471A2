@@ -1,0 +1,6 @@
+data/raw/*.csv
+__pycache__/
+
+README.md
+data/README.md
+scripts/

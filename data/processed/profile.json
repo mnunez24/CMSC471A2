@@ -1,0 +1,1135 @@
+{
+  "source_rows": 649251,
+  "source_years": [
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "source_missing_values": 556,
+  "source_observation_status": {
+    "Normal value": 645437,
+    "Estimated value": 3665,
+    "Not significant": 149
+  },
+  "total_rows": 2281,
+  "sector_rows": 8996,
+  "total_coverage": {
+    "Algeria": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Argentina": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Australia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Austria": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Azerbaijan": {
+      "years": 1,
+      "first": 1990,
+      "last": 1990,
+      "missing_years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Barbados": {
+      "years": 11,
+      "first": 2000,
+      "last": 2010,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Belgium": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Brazil": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Brunei Darussalam": {
+      "years": 9,
+      "first": 2010,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "Bulgaria": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Cameroon": {
+      "years": 2,
+      "first": 1994,
+      "last": 2000,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Canada": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Chile": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "China (People\u2019s Republic of)": {
+      "years": 1,
+      "first": 2005,
+      "last": 2005,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Colombia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Costa Rica": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Croatia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Cuba": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Cyprus": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Czechia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "C\u00f4te d\u2019Ivoire": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Denmark": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Egypt": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Estonia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "European Union (27 countries from 01/02/2020)": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Finland": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "France": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Georgia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Germany": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Ghana": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Greece": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Guatemala": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Guinea-Bissau": {
+      "years": 9,
+      "first": 2010,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "Guyana": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Holy See": {
+      "years": 8,
+      "first": 2011,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "Hungary": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Iceland": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "India": {
+      "years": 5,
+      "first": 1994,
+      "last": 2016,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2006,
+        2007,
+        2008,
+        2009,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017,
+        2018
+      ]
+    },
+    "Indonesia": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Iran": {
+      "years": 2,
+      "first": 1994,
+      "last": 2000,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Ireland": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Israel": {
+      "years": 18,
+      "first": 1996,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002
+      ]
+    },
+    "Italy": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Japan": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Kazakhstan": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Kenya": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Korea": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Latvia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Lebanon": {
+      "years": 1,
+      "first": 2011,
+      "last": 2011,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Liechtenstein": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Lithuania": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Luxembourg": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Malaysia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Maldives": {
+      "years": 8,
+      "first": 2011,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "Malta": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Mauritius": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Mexico": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Moldova": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Monaco": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Morocco": {
+      "years": 5,
+      "first": 2010,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2011,
+        2013,
+        2015,
+        2017
+      ]
+    },
+    "Namibia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Nepal": {
+      "years": 25,
+      "first": 1994,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "Netherlands": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "New Zealand": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Nigeria": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Norway": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "OECD": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "OECD America": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "OECD Asia Oceania": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "OECD Europe": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Panama": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Peru": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Philippines": {
+      "years": 2,
+      "first": 1994,
+      "last": 2000,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Poland": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Portugal": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Romania": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Rwanda": {
+      "years": 13,
+      "first": 2006,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "Serbia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Singapore": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Slovak Republic": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Slovenia": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Solomon Islands": {
+      "years": 12,
+      "first": 1994,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "South Africa": {
+      "years": 19,
+      "first": 2000,
+      "last": 2018,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "Spain": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Sweden": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Switzerland": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Thailand": {
+      "years": 14,
+      "first": 2000,
+      "last": 2013,
+      "missing_years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "T\u00fcrkiye": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Ukraine": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "United Kingdom": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "United States": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Uruguay": {
+      "years": 1,
+      "first": 1990,
+      "last": 1990,
+      "missing_years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Uzbekistan": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Venezuela": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    },
+    "Zimbabwe": {
+      "years": 29,
+      "first": 1990,
+      "last": 2018,
+      "missing_years": []
+    }
+  },
+  "notes": [
+    "Assignment window: 1990\u20132018; source is a newer OECD export.",
+    "GHG aggregate only; never add it to individual gas observations.",
+    "Total excludes land use, land-use change and forestry (LULUCF).",
+    "Areas include regional aggregates; do not sum all areas as countries.",
+    "Sector codes are Energy (1), Industrial processes (2), Agriculture (3), Waste (5).",
+    "These sectors are not guaranteed to exhaust the total; no balancing is imposed.",
+    "Missing values are omitted, not converted to zero; estimates retain status.",
+    "No per-capita figures are derived without a compatible population source."
+  ]
+}

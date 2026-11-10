@@ -1,0 +1,2282 @@
+country_code,country,year,measure_code,measure,emissions_mt_co2e,observation_status
+ARG,Argentina,1990,_T,Total emissions excluding LULUCF,218.8744063808,Normal value
+ARG,Argentina,1991,_T,Total emissions excluding LULUCF,225.87042525572002,Normal value
+ARG,Argentina,1992,_T,Total emissions excluding LULUCF,231.27277760075,Normal value
+ARG,Argentina,1993,_T,Total emissions excluding LULUCF,236.12206700071002,Normal value
+ARG,Argentina,1994,_T,Total emissions excluding LULUCF,244.1729131531,Normal value
+ARG,Argentina,1995,_T,Total emissions excluding LULUCF,246.16001759559998,Normal value
+ARG,Argentina,1996,_T,Total emissions excluding LULUCF,261.42859902199,Normal value
+ARG,Argentina,1997,_T,Total emissions excluding LULUCF,262.93684802309997,Normal value
+ARG,Argentina,1998,_T,Total emissions excluding LULUCF,267.32335573728,Normal value
+ARG,Argentina,1999,_T,Total emissions excluding LULUCF,274.33996305488995,Normal value
+ARG,Argentina,2000,_T,Total emissions excluding LULUCF,270.32393743984,Normal value
+ARG,Argentina,2001,_T,Total emissions excluding LULUCF,265.73556923616997,Normal value
+ARG,Argentina,2002,_T,Total emissions excluding LULUCF,260.87219378542,Normal value
+ARG,Argentina,2003,_T,Total emissions excluding LULUCF,276.44427036316,Normal value
+ARG,Argentina,2004,_T,Total emissions excluding LULUCF,293.11336351075,Normal value
+ARG,Argentina,2005,_T,Total emissions excluding LULUCF,299.00574045310003,Normal value
+ARG,Argentina,2006,_T,Total emissions excluding LULUCF,310.72583568443,Normal value
+ARG,Argentina,2007,_T,Total emissions excluding LULUCF,325.69738598323,Normal value
+ARG,Argentina,2008,_T,Total emissions excluding LULUCF,330.46703204544,Normal value
+ARG,Argentina,2009,_T,Total emissions excluding LULUCF,310.42534313862996,Normal value
+ARG,Argentina,2010,_T,Total emissions excluding LULUCF,321.04412692002,Normal value
+ARG,Argentina,2011,_T,Total emissions excluding LULUCF,329.3110182274,Normal value
+ARG,Argentina,2012,_T,Total emissions excluding LULUCF,330.18446699771,Normal value
+ARG,Argentina,2013,_T,Total emissions excluding LULUCF,337.11246112355997,Normal value
+ARG,Argentina,2014,_T,Total emissions excluding LULUCF,337.6956462485401,Normal value
+ARG,Argentina,2015,_T,Total emissions excluding LULUCF,343.80527251828005,Normal value
+ARG,Argentina,2016,_T,Total emissions excluding LULUCF,345.02916833587005,Normal value
+ARG,Argentina,2017,_T,Total emissions excluding LULUCF,343.35638730881993,Normal value
+ARG,Argentina,2018,_T,Total emissions excluding LULUCF,343.80567981262,Normal value
+AUS,Australia,1990,_T,Total emissions excluding LULUCF,435.70393527095,Normal value
+AUS,Australia,1991,_T,Total emissions excluding LULUCF,435.91773472106,Normal value
+AUS,Australia,1992,_T,Total emissions excluding LULUCF,439.8343248227201,Normal value
+AUS,Australia,1993,_T,Total emissions excluding LULUCF,440.28406361731004,Normal value
+AUS,Australia,1994,_T,Total emissions excluding LULUCF,440.56169708941,Normal value
+AUS,Australia,1995,_T,Total emissions excluding LULUCF,449.55850864666996,Normal value
+AUS,Australia,1996,_T,Total emissions excluding LULUCF,455.7158829534,Normal value
+AUS,Australia,1997,_T,Total emissions excluding LULUCF,467.76886591185996,Normal value
+AUS,Australia,1998,_T,Total emissions excluding LULUCF,482.13799526775,Normal value
+AUS,Australia,1999,_T,Total emissions excluding LULUCF,488.09338989008006,Normal value
+AUS,Australia,2000,_T,Total emissions excluding LULUCF,499.58686316949,Normal value
+AUS,Australia,2001,_T,Total emissions excluding LULUCF,507.34997298558,Normal value
+AUS,Australia,2002,_T,Total emissions excluding LULUCF,510.75328125036003,Normal value
+AUS,Australia,2003,_T,Total emissions excluding LULUCF,511.49024442518004,Normal value
+AUS,Australia,2004,_T,Total emissions excluding LULUCF,525.85373411472,Normal value
+AUS,Australia,2005,_T,Total emissions excluding LULUCF,530.89742175657,Normal value
+AUS,Australia,2006,_T,Total emissions excluding LULUCF,535.93487448892,Normal value
+AUS,Australia,2007,_T,Total emissions excluding LULUCF,543.8894900549999,Normal value
+AUS,Australia,2008,_T,Total emissions excluding LULUCF,547.09735297331,Normal value
+AUS,Australia,2009,_T,Total emissions excluding LULUCF,549.0084819556799,Normal value
+AUS,Australia,2010,_T,Total emissions excluding LULUCF,544.29435823136,Normal value
+AUS,Australia,2011,_T,Total emissions excluding LULUCF,546.13793920692,Normal value
+AUS,Australia,2012,_T,Total emissions excluding LULUCF,548.02988626771,Normal value
+AUS,Australia,2013,_T,Total emissions excluding LULUCF,540.5283405006801,Normal value
+AUS,Australia,2014,_T,Total emissions excluding LULUCF,532.77339982591,Normal value
+AUS,Australia,2015,_T,Total emissions excluding LULUCF,542.57394524974,Normal value
+AUS,Australia,2016,_T,Total emissions excluding LULUCF,550.9496966957,Normal value
+AUS,Australia,2017,_T,Total emissions excluding LULUCF,559.71071473518,Normal value
+AUS,Australia,2018,_T,Total emissions excluding LULUCF,560.6518945134601,Normal value
+AUT,Austria,1990,_T,Total emissions excluding LULUCF,79.668463379394,Normal value
+AUT,Austria,1991,_T,Total emissions excluding LULUCF,83.36207289971601,Normal value
+AUT,Austria,1992,_T,Total emissions excluding LULUCF,76.593064713743,Normal value
+AUT,Austria,1993,_T,Total emissions excluding LULUCF,77.113293139438,Normal value
+AUT,Austria,1994,_T,Total emissions excluding LULUCF,77.03935177459199,Normal value
+AUT,Austria,1995,_T,Total emissions excluding LULUCF,80.295014570353,Normal value
+AUT,Austria,1996,_T,Total emissions excluding LULUCF,83.534622481964,Normal value
+AUT,Austria,1997,_T,Total emissions excluding LULUCF,83.099719432512,Normal value
+AUT,Austria,1998,_T,Total emissions excluding LULUCF,82.422880858385,Normal value
+AUT,Austria,1999,_T,Total emissions excluding LULUCF,80.87423192649301,Normal value
+AUT,Austria,2000,_T,Total emissions excluding LULUCF,81.119122022786,Normal value
+AUT,Austria,2001,_T,Total emissions excluding LULUCF,85.041940764379,Normal value
+AUT,Austria,2002,_T,Total emissions excluding LULUCF,86.80266111093101,Normal value
+AUT,Austria,2003,_T,Total emissions excluding LULUCF,92.140014753802,Normal value
+AUT,Austria,2004,_T,Total emissions excluding LULUCF,91.939955595055,Normal value
+AUT,Austria,2005,_T,Total emissions excluding LULUCF,93.088957448904,Normal value
+AUT,Austria,2006,_T,Total emissions excluding LULUCF,90.647775876357,Normal value
+AUT,Austria,2007,_T,Total emissions excluding LULUCF,87.88960478880401,Normal value
+AUT,Austria,2008,_T,Total emissions excluding LULUCF,87.34899017559398,Normal value
+AUT,Austria,2009,_T,Total emissions excluding LULUCF,80.752618917816,Normal value
+AUT,Austria,2010,_T,Total emissions excluding LULUCF,85.339467234634,Normal value
+AUT,Austria,2011,_T,Total emissions excluding LULUCF,83.21426019362501,Normal value
+AUT,Austria,2012,_T,Total emissions excluding LULUCF,80.383915550082,Normal value
+AUT,Austria,2013,_T,Total emissions excluding LULUCF,80.826550626284,Normal value
+AUT,Austria,2014,_T,Total emissions excluding LULUCF,77.120845985919,Normal value
+AUT,Austria,2015,_T,Total emissions excluding LULUCF,79.316296181623,Normal value
+AUT,Austria,2016,_T,Total emissions excluding LULUCF,80.30618065867999,Normal value
+AUT,Austria,2017,_T,Total emissions excluding LULUCF,82.703415667809,Normal value
+AUT,Austria,2018,_T,Total emissions excluding LULUCF,79.654775511672,Normal value
+AZE,Azerbaijan,1990,_T,Total emissions excluding LULUCF,88.60024620844001,Normal value
+BEL,Belgium,1990,_T,Total emissions excluding LULUCF,145.46665223855,Normal value
+BEL,Belgium,1991,_T,Total emissions excluding LULUCF,148.23364946812998,Normal value
+BEL,Belgium,1992,_T,Total emissions excluding LULUCF,147.73250979021998,Normal value
+BEL,Belgium,1993,_T,Total emissions excluding LULUCF,146.47508912594,Normal value
+BEL,Belgium,1994,_T,Total emissions excluding LULUCF,151.07005082458,Normal value
+BEL,Belgium,1995,_T,Total emissions excluding LULUCF,153.18185205501,Normal value
+BEL,Belgium,1996,_T,Total emissions excluding LULUCF,156.73517023086998,Normal value
+BEL,Belgium,1997,_T,Total emissions excluding LULUCF,148.23900801575,Normal value
+BEL,Belgium,1998,_T,Total emissions excluding LULUCF,153.51437284723,Normal value
+BEL,Belgium,1999,_T,Total emissions excluding LULUCF,147.05583263906001,Normal value
+BEL,Belgium,2000,_T,Total emissions excluding LULUCF,148.23232395569,Normal value
+BEL,Belgium,2001,_T,Total emissions excluding LULUCF,146.64978179007997,Normal value
+BEL,Belgium,2002,_T,Total emissions excluding LULUCF,146.66982781189998,Normal value
+BEL,Belgium,2003,_T,Total emissions excluding LULUCF,146.98807710415,Normal value
+BEL,Belgium,2004,_T,Total emissions excluding LULUCF,147.8658471643,Normal value
+BEL,Belgium,2005,_T,Total emissions excluding LULUCF,144.68337754043,Normal value
+BEL,Belgium,2006,_T,Total emissions excluding LULUCF,142.06869482373003,Normal value
+BEL,Belgium,2007,_T,Total emissions excluding LULUCF,138.4089098457,Normal value
+BEL,Belgium,2008,_T,Total emissions excluding LULUCF,138.39241914760004,Normal value
+BEL,Belgium,2009,_T,Total emissions excluding LULUCF,125.77224696099,Normal value
+BEL,Belgium,2010,_T,Total emissions excluding LULUCF,132.97464032643,Normal value
+BEL,Belgium,2011,_T,Total emissions excluding LULUCF,122.52721838971001,Normal value
+BEL,Belgium,2012,_T,Total emissions excluding LULUCF,119.79471768244,Normal value
+BEL,Belgium,2013,_T,Total emissions excluding LULUCF,119.88235797699,Normal value
+BEL,Belgium,2014,_T,Total emissions excluding LULUCF,114.14640062799,Normal value
+BEL,Belgium,2015,_T,Total emissions excluding LULUCF,118.41960610475999,Normal value
+BEL,Belgium,2016,_T,Total emissions excluding LULUCF,116.99765086884001,Normal value
+BEL,Belgium,2017,_T,Total emissions excluding LULUCF,116.37918985196,Normal value
+BEL,Belgium,2018,_T,Total emissions excluding LULUCF,117.15017587973,Normal value
+BGR,Bulgaria,1990,_T,Total emissions excluding LULUCF,100.10199625495,Normal value
+BGR,Bulgaria,1991,_T,Total emissions excluding LULUCF,82.056958306074,Normal value
+BGR,Bulgaria,1992,_T,Total emissions excluding LULUCF,76.42536478055601,Normal value
+BGR,Bulgaria,1993,_T,Total emissions excluding LULUCF,75.519750068055,Normal value
+BGR,Bulgaria,1994,_T,Total emissions excluding LULUCF,71.24323219477299,Normal value
+BGR,Bulgaria,1995,_T,Total emissions excluding LULUCF,72.70456063738101,Normal value
+BGR,Bulgaria,1996,_T,Total emissions excluding LULUCF,73.116335026575,Normal value
+BGR,Bulgaria,1997,_T,Total emissions excluding LULUCF,69.873339808485,Normal value
+BGR,Bulgaria,1998,_T,Total emissions excluding LULUCF,65.79136037549699,Normal value
+BGR,Bulgaria,1999,_T,Total emissions excluding LULUCF,58.744572402619,Normal value
+BGR,Bulgaria,2000,_T,Total emissions excluding LULUCF,57.795515230856005,Normal value
+BGR,Bulgaria,2001,_T,Total emissions excluding LULUCF,60.615751642515,Normal value
+BGR,Bulgaria,2002,_T,Total emissions excluding LULUCF,58.018238599750006,Normal value
+BGR,Bulgaria,2003,_T,Total emissions excluding LULUCF,62.905268479338005,Normal value
+BGR,Bulgaria,2004,_T,Total emissions excluding LULUCF,62.035034414512,Normal value
+BGR,Bulgaria,2005,_T,Total emissions excluding LULUCF,62.570709165313,Normal value
+BGR,Bulgaria,2006,_T,Total emissions excluding LULUCF,63.322851532246,Normal value
+BGR,Bulgaria,2007,_T,Total emissions excluding LULUCF,67.162542345999,Normal value
+BGR,Bulgaria,2008,_T,Total emissions excluding LULUCF,65.81351706488,Normal value
+BGR,Bulgaria,2009,_T,Total emissions excluding LULUCF,56.908048275487005,Normal value
+BGR,Bulgaria,2010,_T,Total emissions excluding LULUCF,59.549814520251,Normal value
+BGR,Bulgaria,2011,_T,Total emissions excluding LULUCF,64.931287007805,Normal value
+BGR,Bulgaria,2012,_T,Total emissions excluding LULUCF,59.85702260178999,Normal value
+BGR,Bulgaria,2013,_T,Total emissions excluding LULUCF,54.442241886965,Normal value
+BGR,Bulgaria,2014,_T,Total emissions excluding LULUCF,57.47344275011,Normal value
+BGR,Bulgaria,2015,_T,Total emissions excluding LULUCF,60.639739309096,Normal value
+BGR,Bulgaria,2016,_T,Total emissions excluding LULUCF,58.014439208876,Normal value
+BGR,Bulgaria,2017,_T,Total emissions excluding LULUCF,59.974468850525994,Normal value
+BGR,Bulgaria,2018,_T,Total emissions excluding LULUCF,55.624437874384,Normal value
+BRA,Brazil,1990,_T,Total emissions excluding LULUCF,680.32870753983,Normal value
+BRA,Brazil,1991,_T,Total emissions excluding LULUCF,702.21791227581,Normal value
+BRA,Brazil,1992,_T,Total emissions excluding LULUCF,713.4734133960001,Normal value
+BRA,Brazil,1993,_T,Total emissions excluding LULUCF,728.83191287491,Normal value
+BRA,Brazil,1994,_T,Total emissions excluding LULUCF,748.46410184218,Normal value
+BRA,Brazil,1995,_T,Total emissions excluding LULUCF,775.5056521635099,Normal value
+BRA,Brazil,1996,_T,Total emissions excluding LULUCF,768.4423453984699,Normal value
+BRA,Brazil,1997,_T,Total emissions excluding LULUCF,797.70342995166,Normal value
+BRA,Brazil,1998,_T,Total emissions excluding LULUCF,818.03918303851,Normal value
+BRA,Brazil,1999,_T,Total emissions excluding LULUCF,835.50928546771,Normal value
+BRA,Brazil,2000,_T,Total emissions excluding LULUCF,864.22524687821,Normal value
+BRA,Brazil,2001,_T,Total emissions excluding LULUCF,889.33801419852,Normal value
+BRA,Brazil,2002,_T,Total emissions excluding LULUCF,906.6644543388501,Normal value
+BRA,Brazil,2003,_T,Total emissions excluding LULUCF,933.06362796987,Normal value
+BRA,Brazil,2004,_T,Total emissions excluding LULUCF,974.7265443074,Normal value
+BRA,Brazil,2005,_T,Total emissions excluding LULUCF,987.53188705128,Normal value
+BRA,Brazil,2006,_T,Total emissions excluding LULUCF,994.68445657716,Normal value
+BRA,Brazil,2007,_T,Total emissions excluding LULUCF,997.65066966038,Normal value
+BRA,Brazil,2008,_T,Total emissions excluding LULUCF,1026.2985816576002,Normal value
+BRA,Brazil,2009,_T,Total emissions excluding LULUCF,1013.7761145353999,Normal value
+BRA,Brazil,2010,_T,Total emissions excluding LULUCF,1075.6627538364,Normal value
+BRA,Brazil,2011,_T,Total emissions excluding LULUCF,1099.4528526359,Normal value
+BRA,Brazil,2012,_T,Total emissions excluding LULUCF,1132.9071681081002,Normal value
+BRA,Brazil,2013,_T,Total emissions excluding LULUCF,1175.6285228631,Normal value
+BRA,Brazil,2014,_T,Total emissions excluding LULUCF,1205.7500286259,Normal value
+BRA,Brazil,2015,_T,Total emissions excluding LULUCF,1189.5379901085,Normal value
+BRA,Brazil,2016,_T,Total emissions excluding LULUCF,1167.4217546869,Normal value
+BRA,Brazil,2017,_T,Total emissions excluding LULUCF,1180.1245351549999,Normal value
+BRA,Brazil,2018,_T,Total emissions excluding LULUCF,1160.9527455323998,Normal value
+BRB,Barbados,2000,_T,Total emissions excluding LULUCF,1.5190565790000001,Normal value
+BRB,Barbados,2001,_T,Total emissions excluding LULUCF,1.5373281300000001,Normal value
+BRB,Barbados,2002,_T,Total emissions excluding LULUCF,1.546313061,Normal value
+BRB,Barbados,2003,_T,Total emissions excluding LULUCF,1.5445411310000001,Normal value
+BRB,Barbados,2004,_T,Total emissions excluding LULUCF,1.596343147,Normal value
+BRB,Barbados,2005,_T,Total emissions excluding LULUCF,1.6444586110000001,Normal value
+BRB,Barbados,2006,_T,Total emissions excluding LULUCF,1.6735105659999998,Normal value
+BRB,Barbados,2007,_T,Total emissions excluding LULUCF,1.7756710450000002,Normal value
+BRB,Barbados,2008,_T,Total emissions excluding LULUCF,1.8684727310000002,Normal value
+BRB,Barbados,2009,_T,Total emissions excluding LULUCF,1.922418862,Normal value
+BRB,Barbados,2010,_T,Total emissions excluding LULUCF,1.9810748710000001,Normal value
+BRN,Brunei Darussalam,2010,_T,Total emissions excluding LULUCF,10.670083007824,Normal value
+BRN,Brunei Darussalam,2011,_T,Total emissions excluding LULUCF,10.972889873811,Normal value
+BRN,Brunei Darussalam,2012,_T,Total emissions excluding LULUCF,11.194766766164001,Normal value
+BRN,Brunei Darussalam,2013,_T,Total emissions excluding LULUCF,9.828814272462,Normal value
+BRN,Brunei Darussalam,2014,_T,Total emissions excluding LULUCF,11.43480093949,Normal value
+BRN,Brunei Darussalam,2015,_T,Total emissions excluding LULUCF,11.085053773469001,Normal value
+BRN,Brunei Darussalam,2016,_T,Total emissions excluding LULUCF,11.581102685392,Normal value
+BRN,Brunei Darussalam,2017,_T,Total emissions excluding LULUCF,11.246215848796998,Normal value
+BRN,Brunei Darussalam,2018,_T,Total emissions excluding LULUCF,10.988627925218,Normal value
+CAN,Canada,1990,_T,Total emissions excluding LULUCF,607.9071102458901,Normal value
+CAN,Canada,1991,_T,Total emissions excluding LULUCF,603.23000845709,Normal value
+CAN,Canada,1992,_T,Total emissions excluding LULUCF,621.37621852283,Normal value
+CAN,Canada,1993,_T,Total emissions excluding LULUCF,626.53279235826,Normal value
+CAN,Canada,1994,_T,Total emissions excluding LULUCF,648.61672475414,Normal value
+CAN,Canada,1995,_T,Total emissions excluding LULUCF,666.9517983296499,Normal value
+CAN,Canada,1996,_T,Total emissions excluding LULUCF,688.36267066959,Normal value
+CAN,Canada,1997,_T,Total emissions excluding LULUCF,704.8282268201799,Normal value
+CAN,Canada,1998,_T,Total emissions excluding LULUCF,711.2907791167099,Normal value
+CAN,Canada,1999,_T,Total emissions excluding LULUCF,721.2137496700001,Normal value
+CAN,Canada,2000,_T,Total emissions excluding LULUCF,748.69626921004,Normal value
+CAN,Canada,2001,_T,Total emissions excluding LULUCF,741.53432270636,Normal value
+CAN,Canada,2002,_T,Total emissions excluding LULUCF,748.75151159964,Normal value
+CAN,Canada,2003,_T,Total emissions excluding LULUCF,767.2110124711099,Normal value
+CAN,Canada,2004,_T,Total emissions excluding LULUCF,767.3475158152099,Normal value
+CAN,Canada,2005,_T,Total emissions excluding LULUCF,763.01839471555,Normal value
+CAN,Canada,2006,_T,Total emissions excluding LULUCF,759.13374322711,Normal value
+CAN,Canada,2007,_T,Total emissions excluding LULUCF,778.5561901554299,Normal value
+CAN,Canada,2008,_T,Total emissions excluding LULUCF,761.20610821938,Normal value
+CAN,Canada,2009,_T,Total emissions excluding LULUCF,717.10705014017,Normal value
+CAN,Canada,2010,_T,Total emissions excluding LULUCF,732.3331721467,Normal value
+CAN,Canada,2011,_T,Total emissions excluding LULUCF,740.20072911101,Normal value
+CAN,Canada,2012,_T,Total emissions excluding LULUCF,744.21328209296,Normal value
+CAN,Canada,2013,_T,Total emissions excluding LULUCF,751.3569668776199,Normal value
+CAN,Canada,2014,_T,Total emissions excluding LULUCF,748.4087429519301,Normal value
+CAN,Canada,2015,_T,Total emissions excluding LULUCF,743.3724235374701,Normal value
+CAN,Canada,2016,_T,Total emissions excluding LULUCF,726.80944172749,Normal value
+CAN,Canada,2017,_T,Total emissions excluding LULUCF,738.81676459799,Normal value
+CAN,Canada,2018,_T,Total emissions excluding LULUCF,749.30877321569,Normal value
+CHE,Switzerland,1990,_T,Total emissions excluding LULUCF,54.773077739992,Normal value
+CHE,Switzerland,1991,_T,Total emissions excluding LULUCF,56.615093591641,Normal value
+CHE,Switzerland,1992,_T,Total emissions excluding LULUCF,56.37525121378601,Normal value
+CHE,Switzerland,1993,_T,Total emissions excluding LULUCF,53.842168667352,Normal value
+CHE,Switzerland,1994,_T,Total emissions excluding LULUCF,52.765225468543996,Normal value
+CHE,Switzerland,1995,_T,Total emissions excluding LULUCF,53.677184385347005,Normal value
+CHE,Switzerland,1996,_T,Total emissions excluding LULUCF,54.267986876071994,Normal value
+CHE,Switzerland,1997,_T,Total emissions excluding LULUCF,53.089915892982,Normal value
+CHE,Switzerland,1998,_T,Total emissions excluding LULUCF,54.654353602045,Normal value
+CHE,Switzerland,1999,_T,Total emissions excluding LULUCF,54.446061600366,Normal value
+CHE,Switzerland,2000,_T,Total emissions excluding LULUCF,53.79733346975,Normal value
+CHE,Switzerland,2001,_T,Total emissions excluding LULUCF,55.321338429445,Normal value
+CHE,Switzerland,2002,_T,Total emissions excluding LULUCF,53.759840843607996,Normal value
+CHE,Switzerland,2003,_T,Total emissions excluding LULUCF,54.814586736789,Normal value
+CHE,Switzerland,2004,_T,Total emissions excluding LULUCF,55.409918055147,Normal value
+CHE,Switzerland,2005,_T,Total emissions excluding LULUCF,56.085603393956,Normal value
+CHE,Switzerland,2006,_T,Total emissions excluding LULUCF,55.704443475234,Normal value
+CHE,Switzerland,2007,_T,Total emissions excluding LULUCF,53.798741422594006,Normal value
+CHE,Switzerland,2008,_T,Total emissions excluding LULUCF,55.178896134114005,Normal value
+CHE,Switzerland,2009,_T,Total emissions excluding LULUCF,53.711659420588,Normal value
+CHE,Switzerland,2010,_T,Total emissions excluding LULUCF,55.304472798659,Normal value
+CHE,Switzerland,2011,_T,Total emissions excluding LULUCF,51.154647430439006,Normal value
+CHE,Switzerland,2012,_T,Total emissions excluding LULUCF,52.543526870276004,Normal value
+CHE,Switzerland,2013,_T,Total emissions excluding LULUCF,53.350994117002,Normal value
+CHE,Switzerland,2014,_T,Total emissions excluding LULUCF,49.398141050746,Normal value
+CHE,Switzerland,2015,_T,Total emissions excluding LULUCF,48.884903770567,Normal value
+CHE,Switzerland,2016,_T,Total emissions excluding LULUCF,49.242567001775,Normal value
+CHE,Switzerland,2017,_T,Total emissions excluding LULUCF,48.32599001418001,Normal value
+CHE,Switzerland,2018,_T,Total emissions excluding LULUCF,46.781913783556995,Normal value
+CHL,Chile,1990,_T,Total emissions excluding LULUCF,47.30763,Normal value
+CHL,Chile,1991,_T,Total emissions excluding LULUCF,45.87221,Normal value
+CHL,Chile,1992,_T,Total emissions excluding LULUCF,47.74467,Normal value
+CHL,Chile,1993,_T,Total emissions excluding LULUCF,50.35951,Normal value
+CHL,Chile,1994,_T,Total emissions excluding LULUCF,52.50307,Normal value
+CHL,Chile,1995,_T,Total emissions excluding LULUCF,55.9903,Normal value
+CHL,Chile,1996,_T,Total emissions excluding LULUCF,61.57689,Normal value
+CHL,Chile,1997,_T,Total emissions excluding LULUCF,67.96782,Normal value
+CHL,Chile,1998,_T,Total emissions excluding LULUCF,69.07714,Normal value
+CHL,Chile,1999,_T,Total emissions excluding LULUCF,71.68307,Normal value
+CHL,Chile,2000,_T,Total emissions excluding LULUCF,69.76844,Normal value
+CHL,Chile,2001,_T,Total emissions excluding LULUCF,67.63453,Normal value
+CHL,Chile,2002,_T,Total emissions excluding LULUCF,69.08662,Normal value
+CHL,Chile,2003,_T,Total emissions excluding LULUCF,70.36697,Normal value
+CHL,Chile,2004,_T,Total emissions excluding LULUCF,75.50509,Normal value
+CHL,Chile,2005,_T,Total emissions excluding LULUCF,76.3204,Normal value
+CHL,Chile,2006,_T,Total emissions excluding LULUCF,78.75048,Normal value
+CHL,Chile,2007,_T,Total emissions excluding LULUCF,87.88794,Normal value
+CHL,Chile,2008,_T,Total emissions excluding LULUCF,87.99415,Normal value
+CHL,Chile,2009,_T,Total emissions excluding LULUCF,84.31965,Normal value
+CHL,Chile,2010,_T,Total emissions excluding LULUCF,85.07672,Normal value
+CHL,Chile,2011,_T,Total emissions excluding LULUCF,92.96087,Normal value
+CHL,Chile,2012,_T,Total emissions excluding LULUCF,98.56128,Normal value
+CHL,Chile,2013,_T,Total emissions excluding LULUCF,98.0302,Normal value
+CHL,Chile,2014,_T,Total emissions excluding LULUCF,94.3806,Normal value
+CHL,Chile,2015,_T,Total emissions excluding LULUCF,100.80494,Normal value
+CHL,Chile,2016,_T,Total emissions excluding LULUCF,105.1415,Normal value
+CHL,Chile,2017,_T,Total emissions excluding LULUCF,105.72664,Normal value
+CHL,Chile,2018,_T,Total emissions excluding LULUCF,107.16925,Normal value
+CHN,China (People’s Republic of),2005,_T,Total emissions excluding LULUCF,8355.4148127556,Normal value
+CIV,Côte d’Ivoire,1990,_T,Total emissions excluding LULUCF,21.949251195613,Normal value
+CIV,Côte d’Ivoire,1991,_T,Total emissions excluding LULUCF,24.618250630353998,Normal value
+CIV,Côte d’Ivoire,1992,_T,Total emissions excluding LULUCF,22.128337836899,Normal value
+CIV,Côte d’Ivoire,1993,_T,Total emissions excluding LULUCF,22.192029481178,Normal value
+CIV,Côte d’Ivoire,1994,_T,Total emissions excluding LULUCF,22.245578951291,Normal value
+CIV,Côte d’Ivoire,1995,_T,Total emissions excluding LULUCF,22.291993615288,Normal value
+CIV,Côte d’Ivoire,1996,_T,Total emissions excluding LULUCF,22.33389530683,Normal value
+CIV,Côte d’Ivoire,1997,_T,Total emissions excluding LULUCF,22.373050446064,Normal value
+CIV,Côte d’Ivoire,1998,_T,Total emissions excluding LULUCF,22.409807257519002,Normal value
+CIV,Côte d’Ivoire,1999,_T,Total emissions excluding LULUCF,22.443760512263,Normal value
+CIV,Côte d’Ivoire,2000,_T,Total emissions excluding LULUCF,24.180693832727002,Normal value
+CIV,Côte d’Ivoire,2001,_T,Total emissions excluding LULUCF,25.722525696229,Normal value
+CIV,Côte d’Ivoire,2002,_T,Total emissions excluding LULUCF,27.102506662364004,Normal value
+CIV,Côte d’Ivoire,2003,_T,Total emissions excluding LULUCF,28.349055101241,Normal value
+CIV,Côte d’Ivoire,2004,_T,Total emissions excluding LULUCF,29.486696205214002,Normal value
+CIV,Côte d’Ivoire,2005,_T,Total emissions excluding LULUCF,30.536388035847,Normal value
+CIV,Côte d’Ivoire,2006,_T,Total emissions excluding LULUCF,31.516244781568,Normal value
+CIV,Côte d’Ivoire,2007,_T,Total emissions excluding LULUCF,32.442288160768,Normal value
+CIV,Côte d’Ivoire,2008,_T,Total emissions excluding LULUCF,33.328700213652006,Normal value
+CIV,Côte d’Ivoire,2009,_T,Total emissions excluding LULUCF,34.187998144795,Normal value
+CIV,Côte d’Ivoire,2010,_T,Total emissions excluding LULUCF,35.030798447917995,Normal value
+CIV,Côte d’Ivoire,2011,_T,Total emissions excluding LULUCF,35.86726131071,Normal value
+CIV,Côte d’Ivoire,2012,_T,Total emissions excluding LULUCF,36.706642841335,Normal value
+CIV,Côte d’Ivoire,2013,_T,Total emissions excluding LULUCF,37.557327793416,Normal value
+CIV,Côte d’Ivoire,2014,_T,Total emissions excluding LULUCF,38.683539961833,Normal value
+CIV,Côte d’Ivoire,2015,_T,Total emissions excluding LULUCF,47.42632739659601,Normal value
+CIV,Côte d’Ivoire,2016,_T,Total emissions excluding LULUCF,46.652484706370004,Normal value
+CIV,Côte d’Ivoire,2017,_T,Total emissions excluding LULUCF,46.546639958568,Normal value
+CIV,Côte d’Ivoire,2018,_T,Total emissions excluding LULUCF,46.979008222830004,Normal value
+CMR,Cameroon,1994,_T,Total emissions excluding LULUCF,165.725023,Normal value
+CMR,Cameroon,2000,_T,Total emissions excluding LULUCF,28.939,Normal value
+COL,Colombia,1990,_T,Total emissions excluding LULUCF,100.87587,Normal value
+COL,Colombia,1991,_T,Total emissions excluding LULUCF,103.53059,Normal value
+COL,Colombia,1992,_T,Total emissions excluding LULUCF,108.69099,Normal value
+COL,Colombia,1993,_T,Total emissions excluding LULUCF,110.84971,Normal value
+COL,Colombia,1994,_T,Total emissions excluding LULUCF,112.05736,Normal value
+COL,Colombia,1995,_T,Total emissions excluding LULUCF,114.85795,Normal value
+COL,Colombia,1996,_T,Total emissions excluding LULUCF,116.39093,Normal value
+COL,Colombia,1997,_T,Total emissions excluding LULUCF,122.12691,Normal value
+COL,Colombia,1998,_T,Total emissions excluding LULUCF,122.26383,Normal value
+COL,Colombia,1999,_T,Total emissions excluding LULUCF,117.53972,Normal value
+COL,Colombia,2000,_T,Total emissions excluding LULUCF,120.03799,Normal value
+COL,Colombia,2001,_T,Total emissions excluding LULUCF,119.44963,Normal value
+COL,Colombia,2002,_T,Total emissions excluding LULUCF,119.57752,Normal value
+COL,Colombia,2003,_T,Total emissions excluding LULUCF,123.96071,Normal value
+COL,Colombia,2004,_T,Total emissions excluding LULUCF,126.90384,Normal value
+COL,Colombia,2005,_T,Total emissions excluding LULUCF,131.81596,Normal value
+COL,Colombia,2006,_T,Total emissions excluding LULUCF,136.28282,Normal value
+COL,Colombia,2007,_T,Total emissions excluding LULUCF,137.23974,Normal value
+COL,Colombia,2008,_T,Total emissions excluding LULUCF,139.20016,Normal value
+COL,Colombia,2009,_T,Total emissions excluding LULUCF,144.4689,Normal value
+COL,Colombia,2010,_T,Total emissions excluding LULUCF,152.24116,Normal value
+COL,Colombia,2011,_T,Total emissions excluding LULUCF,152.23957,Normal value
+COL,Colombia,2012,_T,Total emissions excluding LULUCF,155.94554,Normal value
+COL,Colombia,2013,_T,Total emissions excluding LULUCF,160.28973,Normal value
+COL,Colombia,2014,_T,Total emissions excluding LULUCF,163.42706,Normal value
+COL,Colombia,2015,_T,Total emissions excluding LULUCF,169.32471,Normal value
+COL,Colombia,2016,_T,Total emissions excluding LULUCF,170.83926,Normal value
+COL,Colombia,2017,_T,Total emissions excluding LULUCF,167.30973,Normal value
+COL,Colombia,2018,_T,Total emissions excluding LULUCF,177.43553,Normal value
+CRI,Costa Rica,1990,_T,Total emissions excluding LULUCF,9.00605,Normal value
+CRI,Costa Rica,1991,_T,Total emissions excluding LULUCF,8.81771,Normal value
+CRI,Costa Rica,1992,_T,Total emissions excluding LULUCF,9.53599,Normal value
+CRI,Costa Rica,1993,_T,Total emissions excluding LULUCF,9.62935,Normal value
+CRI,Costa Rica,1994,_T,Total emissions excluding LULUCF,10.37843,Normal value
+CRI,Costa Rica,1995,_T,Total emissions excluding LULUCF,10.42756,Normal value
+CRI,Costa Rica,1996,_T,Total emissions excluding LULUCF,10.03776,Normal value
+CRI,Costa Rica,1997,_T,Total emissions excluding LULUCF,10.06651,Normal value
+CRI,Costa Rica,1998,_T,Total emissions excluding LULUCF,10.6097,Normal value
+CRI,Costa Rica,1999,_T,Total emissions excluding LULUCF,10.75977,Normal value
+CRI,Costa Rica,2000,_T,Total emissions excluding LULUCF,10.8424,Normal value
+CRI,Costa Rica,2001,_T,Total emissions excluding LULUCF,11.20199,Normal value
+CRI,Costa Rica,2002,_T,Total emissions excluding LULUCF,11.46451,Normal value
+CRI,Costa Rica,2003,_T,Total emissions excluding LULUCF,11.90161,Normal value
+CRI,Costa Rica,2004,_T,Total emissions excluding LULUCF,11.9166,Normal value
+CRI,Costa Rica,2005,_T,Total emissions excluding LULUCF,12.2091,Normal value
+CRI,Costa Rica,2006,_T,Total emissions excluding LULUCF,12.87314,Normal value
+CRI,Costa Rica,2007,_T,Total emissions excluding LULUCF,13.76197,Normal value
+CRI,Costa Rica,2008,_T,Total emissions excluding LULUCF,13.80829,Normal value
+CRI,Costa Rica,2009,_T,Total emissions excluding LULUCF,13.6787,Normal value
+CRI,Costa Rica,2010,_T,Total emissions excluding LULUCF,14.12377,Normal value
+CRI,Costa Rica,2011,_T,Total emissions excluding LULUCF,14.49658,Normal value
+CRI,Costa Rica,2012,_T,Total emissions excluding LULUCF,14.21397,Normal value
+CRI,Costa Rica,2013,_T,Total emissions excluding LULUCF,14.53775,Normal value
+CRI,Costa Rica,2014,_T,Total emissions excluding LULUCF,14.65948,Normal value
+CRI,Costa Rica,2015,_T,Total emissions excluding LULUCF,14.43323,Normal value
+CRI,Costa Rica,2016,_T,Total emissions excluding LULUCF,15.10513,Normal value
+CRI,Costa Rica,2017,_T,Total emissions excluding LULUCF,15.53173,Normal value
+CRI,Costa Rica,2018,_T,Total emissions excluding LULUCF,15.86837,Normal value
+CUB,Cuba,1990,_T,Total emissions excluding LULUCF,61.644086677095004,Normal value
+CUB,Cuba,1991,_T,Total emissions excluding LULUCF,54.976531803831996,Normal value
+CUB,Cuba,1992,_T,Total emissions excluding LULUCF,48.946460513264,Normal value
+CUB,Cuba,1993,_T,Total emissions excluding LULUCF,46.835052978254005,Normal value
+CUB,Cuba,1994,_T,Total emissions excluding LULUCF,47.89275130413301,Normal value
+CUB,Cuba,1995,_T,Total emissions excluding LULUCF,48.547335165299,Normal value
+CUB,Cuba,1996,_T,Total emissions excluding LULUCF,51.147084419624996,Normal value
+CUB,Cuba,1997,_T,Total emissions excluding LULUCF,51.636296697954,Normal value
+CUB,Cuba,1998,_T,Total emissions excluding LULUCF,51.94959386047301,Normal value
+CUB,Cuba,1999,_T,Total emissions excluding LULUCF,52.671677589805,Normal value
+CUB,Cuba,2000,_T,Total emissions excluding LULUCF,54.420275949702,Normal value
+CUB,Cuba,2001,_T,Total emissions excluding LULUCF,53.64955137112,Normal value
+CUB,Cuba,2002,_T,Total emissions excluding LULUCF,54.91220427520899,Normal value
+CUB,Cuba,2003,_T,Total emissions excluding LULUCF,54.523299369654,Normal value
+CUB,Cuba,2004,_T,Total emissions excluding LULUCF,53.931730730278,Normal value
+CUB,Cuba,2005,_T,Total emissions excluding LULUCF,53.021526357788005,Normal value
+CUB,Cuba,2006,_T,Total emissions excluding LULUCF,53.885281265402995,Normal value
+CUB,Cuba,2007,_T,Total emissions excluding LULUCF,60.107400665133,Normal value
+CUB,Cuba,2008,_T,Total emissions excluding LULUCF,59.589568837498,Normal value
+CUB,Cuba,2009,_T,Total emissions excluding LULUCF,56.008053638616005,Normal value
+CUB,Cuba,2010,_T,Total emissions excluding LULUCF,58.142489147914,Normal value
+CUB,Cuba,2011,_T,Total emissions excluding LULUCF,55.472151806673,Normal value
+CUB,Cuba,2012,_T,Total emissions excluding LULUCF,56.732282855603,Normal value
+CUB,Cuba,2013,_T,Total emissions excluding LULUCF,59.90456611034,Normal value
+CUB,Cuba,2014,_T,Total emissions excluding LULUCF,58.99972873428501,Normal value
+CUB,Cuba,2015,_T,Total emissions excluding LULUCF,59.362441434074995,Normal value
+CUB,Cuba,2016,_T,Total emissions excluding LULUCF,57.615196233661,Normal value
+CUB,Cuba,2017,_T,Total emissions excluding LULUCF,54.477063123213,Normal value
+CUB,Cuba,2018,_T,Total emissions excluding LULUCF,53.928143142413,Normal value
+CYP,Cyprus,1990,_T,Total emissions excluding LULUCF,5.572057834770001,Normal value
+CYP,Cyprus,1991,_T,Total emissions excluding LULUCF,6.076802084793899,Normal value
+CYP,Cyprus,1992,_T,Total emissions excluding LULUCF,6.513993856506401,Normal value
+CYP,Cyprus,1993,_T,Total emissions excluding LULUCF,6.7997464457687,Normal value
+CYP,Cyprus,1994,_T,Total emissions excluding LULUCF,7.0550431559724,Normal value
+CYP,Cyprus,1995,_T,Total emissions excluding LULUCF,6.9686049031299,Normal value
+CYP,Cyprus,1996,_T,Total emissions excluding LULUCF,7.3397806892828,Normal value
+CYP,Cyprus,1997,_T,Total emissions excluding LULUCF,7.4317997276131,Normal value
+CYP,Cyprus,1998,_T,Total emissions excluding LULUCF,7.7446810561818005,Normal value
+CYP,Cyprus,1999,_T,Total emissions excluding LULUCF,8.0204094894034,Normal value
+CYP,Cyprus,2000,_T,Total emissions excluding LULUCF,8.2919762129459,Normal value
+CYP,Cyprus,2001,_T,Total emissions excluding LULUCF,8.2303776334971,Normal value
+CYP,Cyprus,2002,_T,Total emissions excluding LULUCF,8.4637798682485,Normal value
+CYP,Cyprus,2003,_T,Total emissions excluding LULUCF,8.8520353156048,Normal value
+CYP,Cyprus,2004,_T,Total emissions excluding LULUCF,9.078144599736001,Normal value
+CYP,Cyprus,2005,_T,Total emissions excluding LULUCF,9.2208348081776,Normal value
+CYP,Cyprus,2006,_T,Total emissions excluding LULUCF,9.4726994968534,Normal value
+CYP,Cyprus,2007,_T,Total emissions excluding LULUCF,9.7815894267928,Normal value
+CYP,Cyprus,2008,_T,Total emissions excluding LULUCF,10.009539996056002,Normal value
+CYP,Cyprus,2009,_T,Total emissions excluding LULUCF,9.7648212744806,Normal value
+CYP,Cyprus,2010,_T,Total emissions excluding LULUCF,9.4345348269043,Normal value
+CYP,Cyprus,2011,_T,Total emissions excluding LULUCF,9.1707684437403,Normal value
+CYP,Cyprus,2012,_T,Total emissions excluding LULUCF,8.6318551546207,Normal value
+CYP,Cyprus,2013,_T,Total emissions excluding LULUCF,7.9219641211147005,Normal value
+CYP,Cyprus,2014,_T,Total emissions excluding LULUCF,8.2802948529318,Normal value
+CYP,Cyprus,2015,_T,Total emissions excluding LULUCF,8.330156254364399,Normal value
+CYP,Cyprus,2016,_T,Total emissions excluding LULUCF,8.7720021678778,Normal value
+CYP,Cyprus,2017,_T,Total emissions excluding LULUCF,8.9375681515026,Normal value
+CYP,Cyprus,2018,_T,Total emissions excluding LULUCF,8.824938033538599,Normal value
+CZE,Czechia,1990,_T,Total emissions excluding LULUCF,193.20011604438,Normal value
+CZE,Czechia,1991,_T,Total emissions excluding LULUCF,176.13440824188,Normal value
+CZE,Czechia,1992,_T,Total emissions excluding LULUCF,170.44448771705,Normal value
+CZE,Czechia,1993,_T,Total emissions excluding LULUCF,164.47742976589,Normal value
+CZE,Czechia,1994,_T,Total emissions excluding LULUCF,155.75233895552,Normal value
+CZE,Czechia,1995,_T,Total emissions excluding LULUCF,155.56519789077,Normal value
+CZE,Czechia,1996,_T,Total emissions excluding LULUCF,158.81285569453001,Normal value
+CZE,Czechia,1997,_T,Total emissions excluding LULUCF,154.08664220546,Normal value
+CZE,Czechia,1998,_T,Total emissions excluding LULUCF,148.18021381168,Normal value
+CZE,Czechia,1999,_T,Total emissions excluding LULUCF,138.09562742907,Normal value
+CZE,Czechia,2000,_T,Total emissions excluding LULUCF,148.08582584010003,Normal value
+CZE,Czechia,2001,_T,Total emissions excluding LULUCF,148.64606891927002,Normal value
+CZE,Czechia,2002,_T,Total emissions excluding LULUCF,144.79536418895,Normal value
+CZE,Czechia,2003,_T,Total emissions excluding LULUCF,146.54074025554002,Normal value
+CZE,Czechia,2004,_T,Total emissions excluding LULUCF,148.27433790111996,Normal value
+CZE,Czechia,2005,_T,Total emissions excluding LULUCF,146.36080636185,Normal value
+CZE,Czechia,2006,_T,Total emissions excluding LULUCF,147.46302925863998,Normal value
+CZE,Czechia,2007,_T,Total emissions excluding LULUCF,149.10365922851,Normal value
+CZE,Czechia,2008,_T,Total emissions excluding LULUCF,143.55736698462002,Normal value
+CZE,Czechia,2009,_T,Total emissions excluding LULUCF,134.98164226541,Normal value
+CZE,Czechia,2010,_T,Total emissions excluding LULUCF,138.1694952223,Normal value
+CZE,Czechia,2011,_T,Total emissions excluding LULUCF,135.00298034138,Normal value
+CZE,Czechia,2012,_T,Total emissions excluding LULUCF,131.41016543900997,Normal value
+CZE,Czechia,2013,_T,Total emissions excluding LULUCF,127.14522718759001,Normal value
+CZE,Czechia,2014,_T,Total emissions excluding LULUCF,124.451873537,Normal value
+CZE,Czechia,2015,_T,Total emissions excluding LULUCF,124.61977513866,Normal value
+CZE,Czechia,2016,_T,Total emissions excluding LULUCF,127.01248510763,Normal value
+CZE,Czechia,2017,_T,Total emissions excluding LULUCF,128.17697790622,Normal value
+CZE,Czechia,2018,_T,Total emissions excluding LULUCF,125.67254635174,Normal value
+DEU,Germany,1990,_T,Total emissions excluding LULUCF,1253.1279182706999,Normal value
+DEU,Germany,1991,_T,Total emissions excluding LULUCF,1206.3923108502997,Normal value
+DEU,Germany,1992,_T,Total emissions excluding LULUCF,1157.9770139657,Normal value
+DEU,Germany,1993,_T,Total emissions excluding LULUCF,1148.4825943456,Normal value
+DEU,Germany,1994,_T,Total emissions excluding LULUCF,1130.8139439953,Normal value
+DEU,Germany,1995,_T,Total emissions excluding LULUCF,1123.4040740917999,Normal value
+DEU,Germany,1996,_T,Total emissions excluding LULUCF,1140.1999254799002,Normal value
+DEU,Germany,1997,_T,Total emissions excluding LULUCF,1104.7825700344,Normal value
+DEU,Germany,1998,_T,Total emissions excluding LULUCF,1079.9825165149,Normal value
+DEU,Germany,1999,_T,Total emissions excluding LULUCF,1045.5375288371001,Normal value
+DEU,Germany,2000,_T,Total emissions excluding LULUCF,1042.9982200661,Normal value
+DEU,Germany,2001,_T,Total emissions excluding LULUCF,1057.0823479033002,Normal value
+DEU,Germany,2002,_T,Total emissions excluding LULUCF,1036.6579981348,Normal value
+DEU,Germany,2003,_T,Total emissions excluding LULUCF,1030.5387573632,Normal value
+DEU,Germany,2004,_T,Total emissions excluding LULUCF,1010.676326174,Normal value
+DEU,Germany,2005,_T,Total emissions excluding LULUCF,988.94749128949,Normal value
+DEU,Germany,2006,_T,Total emissions excluding LULUCF,1001.9990079023,Normal value
+DEU,Germany,2007,_T,Total emissions excluding LULUCF,963.5108550802099,Normal value
+DEU,Germany,2008,_T,Total emissions excluding LULUCF,964.92511301853,Normal value
+DEU,Germany,2009,_T,Total emissions excluding LULUCF,901.28453682743,Normal value
+DEU,Germany,2010,_T,Total emissions excluding LULUCF,933.2499251101099,Normal value
+DEU,Germany,2011,_T,Total emissions excluding LULUCF,907.6151974689599,Normal value
+DEU,Germany,2012,_T,Total emissions excluding LULUCF,916.9453851453999,Normal value
+DEU,Germany,2013,_T,Total emissions excluding LULUCF,936.61024843531,Normal value
+DEU,Germany,2014,_T,Total emissions excluding LULUCF,895.23186611745,Normal value
+DEU,Germany,2015,_T,Total emissions excluding LULUCF,898.6056528961899,Normal value
+DEU,Germany,2016,_T,Total emissions excluding LULUCF,899.0301152046198,Normal value
+DEU,Germany,2017,_T,Total emissions excluding LULUCF,886.27976280056,Normal value
+DEU,Germany,2018,_T,Total emissions excluding LULUCF,850.13500067578,Normal value
+DNK,Denmark,1990,_T,Total emissions excluding LULUCF,72.254830332642,Normal value
+DNK,Denmark,1991,_T,Total emissions excluding LULUCF,82.91209179582401,Normal value
+DNK,Denmark,1992,_T,Total emissions excluding LULUCF,76.90765274804,Normal value
+DNK,Denmark,1993,_T,Total emissions excluding LULUCF,79.16429961819901,Normal value
+DNK,Denmark,1994,_T,Total emissions excluding LULUCF,83.03981308561801,Normal value
+DNK,Denmark,1995,_T,Total emissions excluding LULUCF,80.213542222583,Normal value
+DNK,Denmark,1996,_T,Total emissions excluding LULUCF,93.389384442643,Normal value
+DNK,Denmark,1997,_T,Total emissions excluding LULUCF,83.88229305076699,Normal value
+DNK,Denmark,1998,_T,Total emissions excluding LULUCF,80.00010398669801,Normal value
+DNK,Denmark,1999,_T,Total emissions excluding LULUCF,77.358204401707,Normal value
+DNK,Denmark,2000,_T,Total emissions excluding LULUCF,73.18708847923,Normal value
+DNK,Denmark,2001,_T,Total emissions excluding LULUCF,74.906255040196,Normal value
+DNK,Denmark,2002,_T,Total emissions excluding LULUCF,74.332616821291,Normal value
+DNK,Denmark,2003,_T,Total emissions excluding LULUCF,79.44861370567,Normal value
+DNK,Denmark,2004,_T,Total emissions excluding LULUCF,73.502368177867,Normal value
+DNK,Denmark,2005,_T,Total emissions excluding LULUCF,69.20802850381502,Normal value
+DNK,Denmark,2006,_T,Total emissions excluding LULUCF,76.923309807778,Normal value
+DNK,Denmark,2007,_T,Total emissions excluding LULUCF,72.264946576507,Normal value
+DNK,Denmark,2008,_T,Total emissions excluding LULUCF,68.619098017815,Normal value
+DNK,Denmark,2009,_T,Total emissions excluding LULUCF,65.947301889799,Normal value
+DNK,Denmark,2010,_T,Total emissions excluding LULUCF,66.28635072314,Normal value
+DNK,Denmark,2011,_T,Total emissions excluding LULUCF,61.035819118005,Normal value
+DNK,Denmark,2012,_T,Total emissions excluding LULUCF,56.473566545552,Normal value
+DNK,Denmark,2013,_T,Total emissions excluding LULUCF,58.185995932362,Normal value
+DNK,Denmark,2014,_T,Total emissions excluding LULUCF,54.072842865596996,Normal value
+DNK,Denmark,2015,_T,Total emissions excluding LULUCF,51.419414381912,Normal value
+DNK,Denmark,2016,_T,Total emissions excluding LULUCF,53.442348281259,Normal value
+DNK,Denmark,2017,_T,Total emissions excluding LULUCF,51.293316565424995,Normal value
+DNK,Denmark,2018,_T,Total emissions excluding LULUCF,51.270218391075,Normal value
+DZA,Algeria,1990,_T,Total emissions excluding LULUCF,80.37277866282201,Normal value
+DZA,Algeria,1991,_T,Total emissions excluding LULUCF,83.586577293657,Normal value
+DZA,Algeria,1992,_T,Total emissions excluding LULUCF,87.16349047950301,Normal value
+DZA,Algeria,1993,_T,Total emissions excluding LULUCF,88.99023954827601,Normal value
+DZA,Algeria,1994,_T,Total emissions excluding LULUCF,85.710286503163,Normal value
+DZA,Algeria,1995,_T,Total emissions excluding LULUCF,88.05413334392298,Normal value
+DZA,Algeria,1996,_T,Total emissions excluding LULUCF,88.879461837504,Normal value
+DZA,Algeria,1997,_T,Total emissions excluding LULUCF,91.171680380158,Normal value
+DZA,Algeria,1998,_T,Total emissions excluding LULUCF,97.870147097091,Normal value
+DZA,Algeria,1999,_T,Total emissions excluding LULUCF,105.50533866725,Normal value
+DZA,Algeria,2000,_T,Total emissions excluding LULUCF,108.36720641015,Normal value
+DZA,Algeria,2001,_T,Total emissions excluding LULUCF,106.70667427098999,Normal value
+DZA,Algeria,2002,_T,Total emissions excluding LULUCF,110.96961393282,Normal value
+DZA,Algeria,2003,_T,Total emissions excluding LULUCF,116.00755098426,Normal value
+DZA,Algeria,2004,_T,Total emissions excluding LULUCF,118.32826445642,Normal value
+DZA,Algeria,2005,_T,Total emissions excluding LULUCF,125.85030624548,Normal value
+DZA,Algeria,2006,_T,Total emissions excluding LULUCF,126.01917065396,Normal value
+DZA,Algeria,2007,_T,Total emissions excluding LULUCF,132.05094285905,Normal value
+DZA,Algeria,2008,_T,Total emissions excluding LULUCF,134.76162872093,Normal value
+DZA,Algeria,2009,_T,Total emissions excluding LULUCF,142.45483657412,Normal value
+DZA,Algeria,2010,_T,Total emissions excluding LULUCF,172.10986928631,Normal value
+DZA,Algeria,2011,_T,Total emissions excluding LULUCF,176.38181802786,Normal value
+DZA,Algeria,2012,_T,Total emissions excluding LULUCF,186.34752794911,Normal value
+DZA,Algeria,2013,_T,Total emissions excluding LULUCF,186.65366605175,Normal value
+DZA,Algeria,2014,_T,Total emissions excluding LULUCF,201.96767715234998,Normal value
+DZA,Algeria,2015,_T,Total emissions excluding LULUCF,207.20468666526,Normal value
+DZA,Algeria,2016,_T,Total emissions excluding LULUCF,206.48179344937,Normal value
+DZA,Algeria,2017,_T,Total emissions excluding LULUCF,212.10785800282,Normal value
+DZA,Algeria,2018,_T,Total emissions excluding LULUCF,223.68420375347998,Normal value
+EGY,Egypt,1990,_T,Total emissions excluding LULUCF,143.61421036133,Normal value
+EGY,Egypt,1991,_T,Total emissions excluding LULUCF,144.35917224594,Normal value
+EGY,Egypt,1992,_T,Total emissions excluding LULUCF,148.81832358697997,Normal value
+EGY,Egypt,1993,_T,Total emissions excluding LULUCF,152.54520182752,Normal value
+EGY,Egypt,1994,_T,Total emissions excluding LULUCF,147.81291684852,Normal value
+EGY,Egypt,1995,_T,Total emissions excluding LULUCF,154.5398797818,Normal value
+EGY,Egypt,1996,_T,Total emissions excluding LULUCF,160.58289973178,Normal value
+EGY,Egypt,1997,_T,Total emissions excluding LULUCF,168.29461855535,Normal value
+EGY,Egypt,1998,_T,Total emissions excluding LULUCF,175.60504661111997,Normal value
+EGY,Egypt,1999,_T,Total emissions excluding LULUCF,180.31763645441,Normal value
+EGY,Egypt,2000,_T,Total emissions excluding LULUCF,178.69117866621,Normal value
+EGY,Egypt,2001,_T,Total emissions excluding LULUCF,191.18152444265,Normal value
+EGY,Egypt,2002,_T,Total emissions excluding LULUCF,197.03101650344001,Normal value
+EGY,Egypt,2003,_T,Total emissions excluding LULUCF,199.04621165792,Normal value
+EGY,Egypt,2004,_T,Total emissions excluding LULUCF,210.98138434,Normal value
+EGY,Egypt,2005,_T,Total emissions excluding LULUCF,233.7140557516,Normal value
+EGY,Egypt,2006,_T,Total emissions excluding LULUCF,245.57222270673,Normal value
+EGY,Egypt,2007,_T,Total emissions excluding LULUCF,261.33878534717,Normal value
+EGY,Egypt,2008,_T,Total emissions excluding LULUCF,266.34586699477,Normal value
+EGY,Egypt,2009,_T,Total emissions excluding LULUCF,271.91074634208,Normal value
+EGY,Egypt,2010,_T,Total emissions excluding LULUCF,275.18175345993,Normal value
+EGY,Egypt,2011,_T,Total emissions excluding LULUCF,283.23156986976005,Normal value
+EGY,Egypt,2012,_T,Total emissions excluding LULUCF,288.63383919581,Normal value
+EGY,Egypt,2013,_T,Total emissions excluding LULUCF,292.93396898866,Normal value
+EGY,Egypt,2014,_T,Total emissions excluding LULUCF,300.30243467216,Normal value
+EGY,Egypt,2015,_T,Total emissions excluding LULUCF,334.18505347087,Normal value
+EGY,Egypt,2016,_T,Total emissions excluding LULUCF,347.90367609970997,Normal value
+EGY,Egypt,2017,_T,Total emissions excluding LULUCF,356.32000535688,Normal value
+EGY,Egypt,2018,_T,Total emissions excluding LULUCF,365.99038118078,Normal value
+ESP,Spain,1990,_T,Total emissions excluding LULUCF,284.42191592983,Normal value
+ESP,Spain,1991,_T,Total emissions excluding LULUCF,292.32375600892,Normal value
+ESP,Spain,1992,_T,Total emissions excluding LULUCF,301.30864111005,Normal value
+ESP,Spain,1993,_T,Total emissions excluding LULUCF,291.46330713273994,Normal value
+ESP,Spain,1994,_T,Total emissions excluding LULUCF,308.01802131838997,Normal value
+ESP,Spain,1995,_T,Total emissions excluding LULUCF,324.32050001914,Normal value
+ESP,Spain,1996,_T,Total emissions excluding LULUCF,316.90303631216995,Normal value
+ESP,Spain,1997,_T,Total emissions excluding LULUCF,331.64388154874996,Normal value
+ESP,Spain,1998,_T,Total emissions excluding LULUCF,341.51358361492,Normal value
+ESP,Spain,1999,_T,Total emissions excluding LULUCF,368.52051180028,Normal value
+ESP,Spain,2000,_T,Total emissions excluding LULUCF,384.03662532452,Normal value
+ESP,Spain,2001,_T,Total emissions excluding LULUCF,383.05836952692005,Normal value
+ESP,Spain,2002,_T,Total emissions excluding LULUCF,401.64589243772997,Normal value
+ESP,Spain,2003,_T,Total emissions excluding LULUCF,408.96223946041,Normal value
+ESP,Spain,2004,_T,Total emissions excluding LULUCF,424.76177610022995,Normal value
+ESP,Spain,2005,_T,Total emissions excluding LULUCF,439.883284313,Normal value
+ESP,Spain,2006,_T,Total emissions excluding LULUCF,433.91864761013,Normal value
+ESP,Spain,2007,_T,Total emissions excluding LULUCF,444.09022198778,Normal value
+ESP,Spain,2008,_T,Total emissions excluding LULUCF,411.00842229593997,Normal value
+ESP,Spain,2009,_T,Total emissions excluding LULUCF,372.45051098599,Normal value
+ESP,Spain,2010,_T,Total emissions excluding LULUCF,357.44387268039,Normal value
+ESP,Spain,2011,_T,Total emissions excluding LULUCF,355.84729578873004,Normal value
+ESP,Spain,2012,_T,Total emissions excluding LULUCF,347.73443637487003,Normal value
+ESP,Spain,2013,_T,Total emissions excluding LULUCF,321.16957872918,Normal value
+ESP,Spain,2014,_T,Total emissions excluding LULUCF,320.93951495588,Normal value
+ESP,Spain,2015,_T,Total emissions excluding LULUCF,332.23739614294,Normal value
+ESP,Spain,2016,_T,Total emissions excluding LULUCF,320.97086793829,Normal value
+ESP,Spain,2017,_T,Total emissions excluding LULUCF,334.15179447935,Normal value
+ESP,Spain,2018,_T,Total emissions excluding LULUCF,328.70228829125,Normal value
+EST,Estonia,1990,_T,Total emissions excluding LULUCF,40.34240085014,Normal value
+EST,Estonia,1991,_T,Total emissions excluding LULUCF,37.463462111705,Normal value
+EST,Estonia,1992,_T,Total emissions excluding LULUCF,27.278897748832996,Normal value
+EST,Estonia,1993,_T,Total emissions excluding LULUCF,21.799268585616,Normal value
+EST,Estonia,1994,_T,Total emissions excluding LULUCF,22.274630871813997,Normal value
+EST,Estonia,1995,_T,Total emissions excluding LULUCF,20.113741264970002,Normal value
+EST,Estonia,1996,_T,Total emissions excluding LULUCF,21.064094354786,Normal value
+EST,Estonia,1997,_T,Total emissions excluding LULUCF,20.774350075687998,Normal value
+EST,Estonia,1998,_T,Total emissions excluding LULUCF,19.051558766319005,Normal value
+EST,Estonia,1999,_T,Total emissions excluding LULUCF,17.884386654452,Normal value
+EST,Estonia,2000,_T,Total emissions excluding LULUCF,17.514233983361,Normal value
+EST,Estonia,2001,_T,Total emissions excluding LULUCF,17.951886624234003,Normal value
+EST,Estonia,2002,_T,Total emissions excluding LULUCF,17.360691684294,Normal value
+EST,Estonia,2003,_T,Total emissions excluding LULUCF,19.290592605155002,Normal value
+EST,Estonia,2004,_T,Total emissions excluding LULUCF,19.422007800651002,Normal value
+EST,Estonia,2005,_T,Total emissions excluding LULUCF,19.194285760347,Normal value
+EST,Estonia,2006,_T,Total emissions excluding LULUCF,18.537365815719,Normal value
+EST,Estonia,2007,_T,Total emissions excluding LULUCF,22.081784801888997,Normal value
+EST,Estonia,2008,_T,Total emissions excluding LULUCF,19.977822164561,Normal value
+EST,Estonia,2009,_T,Total emissions excluding LULUCF,16.536466145054,Normal value
+EST,Estonia,2010,_T,Total emissions excluding LULUCF,21.128626502684,Normal value
+EST,Estonia,2011,_T,Total emissions excluding LULUCF,21.076886409706,Normal value
+EST,Estonia,2012,_T,Total emissions excluding LULUCF,19.960567570472,Normal value
+EST,Estonia,2013,_T,Total emissions excluding LULUCF,21.828296765778,Normal value
+EST,Estonia,2014,_T,Total emissions excluding LULUCF,20.985715431401,Normal value
+EST,Estonia,2015,_T,Total emissions excluding LULUCF,17.910501562164,Normal value
+EST,Estonia,2016,_T,Total emissions excluding LULUCF,19.517739925241003,Normal value
+EST,Estonia,2017,_T,Total emissions excluding LULUCF,20.750365931732997,Normal value
+EST,Estonia,2018,_T,Total emissions excluding LULUCF,19.943592866343998,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1990,_T,Total emissions excluding LULUCF,4859.2574507778,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1991,_T,Total emissions excluding LULUCF,4753.7537474843,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1992,_T,Total emissions excluding LULUCF,4602.5376401029,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1993,_T,Total emissions excluding LULUCF,4523.039848485,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1994,_T,Total emissions excluding LULUCF,4501.1787889365005,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1995,_T,Total emissions excluding LULUCF,4552.232111055299,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1996,_T,Total emissions excluding LULUCF,4643.6268497123,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1997,_T,Total emissions excluding LULUCF,4566.7234631036,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1998,_T,Total emissions excluding LULUCF,4527.508110447101,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),1999,_T,Total emissions excluding LULUCF,4451.9769931302,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2000,_T,Total emissions excluding LULUCF,4442.5121704896,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2001,_T,Total emissions excluding LULUCF,4490.054570463,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2002,_T,Total emissions excluding LULUCF,4477.384514417,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2003,_T,Total emissions excluding LULUCF,4553.370389402,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2004,_T,Total emissions excluding LULUCF,4556.2980719524,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2005,_T,Total emissions excluding LULUCF,4531.396807763001,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2006,_T,Total emissions excluding LULUCF,4534.1340855051,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2007,_T,Total emissions excluding LULUCF,4481.639894322,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2008,_T,Total emissions excluding LULUCF,4385.612703049001,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2009,_T,Total emissions excluding LULUCF,4086.3295358566997,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2010,_T,Total emissions excluding LULUCF,4163.9696376557,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2011,_T,Total emissions excluding LULUCF,4047.0000489389995,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2012,_T,Total emissions excluding LULUCF,3975.4168576941997,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2013,_T,Total emissions excluding LULUCF,3890.9847340537003,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2014,_T,Total emissions excluding LULUCF,3746.0443616101998,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2015,_T,Total emissions excluding LULUCF,3790.1078679344996,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2016,_T,Total emissions excluding LULUCF,3792.9067448178002,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2017,_T,Total emissions excluding LULUCF,3817.0893343412,Normal value
+EU27_2020,European Union (27 countries from 01/02/2020),2018,_T,Total emissions excluding LULUCF,3728.8627604409,Normal value
+FIN,Finland,1990,_T,Total emissions excluding LULUCF,71.67224103997101,Normal value
+FIN,Finland,1991,_T,Total emissions excluding LULUCF,69.501482981967,Normal value
+FIN,Finland,1992,_T,Total emissions excluding LULUCF,68.033121387934,Normal value
+FIN,Finland,1993,_T,Total emissions excluding LULUCF,70.212567403131,Normal value
+FIN,Finland,1994,_T,Total emissions excluding LULUCF,75.801719407713,Normal value
+FIN,Finland,1995,_T,Total emissions excluding LULUCF,72.159164368594,Normal value
+FIN,Finland,1996,_T,Total emissions excluding LULUCF,77.995496012731,Normal value
+FIN,Finland,1997,_T,Total emissions excluding LULUCF,76.630193292253,Normal value
+FIN,Finland,1998,_T,Total emissions excluding LULUCF,73.01793015914198,Normal value
+FIN,Finland,1999,_T,Total emissions excluding LULUCF,72.401877250613,Normal value
+FIN,Finland,2000,_T,Total emissions excluding LULUCF,70.41238609085799,Normal value
+FIN,Finland,2001,_T,Total emissions excluding LULUCF,75.7881248477,Normal value
+FIN,Finland,2002,_T,Total emissions excluding LULUCF,78.19679856109099,Normal value
+FIN,Finland,2003,_T,Total emissions excluding LULUCF,85.728223273995,Normal value
+FIN,Finland,2004,_T,Total emissions excluding LULUCF,81.854048808284,Normal value
+FIN,Finland,2005,_T,Total emissions excluding LULUCF,69.83568921858401,Normal value
+FIN,Finland,2006,_T,Total emissions excluding LULUCF,81.25700298316998,Normal value
+FIN,Finland,2007,_T,Total emissions excluding LULUCF,79.55851649867401,Normal value
+FIN,Finland,2008,_T,Total emissions excluding LULUCF,71.381397440047,Normal value
+FIN,Finland,2009,_T,Total emissions excluding LULUCF,67.693963514025,Normal value
+FIN,Finland,2010,_T,Total emissions excluding LULUCF,75.707920435991,Normal value
+FIN,Finland,2011,_T,Total emissions excluding LULUCF,67.94337636672901,Normal value
+FIN,Finland,2012,_T,Total emissions excluding LULUCF,62.325995505761,Normal value
+FIN,Finland,2013,_T,Total emissions excluding LULUCF,62.841786098464,Normal value
+FIN,Finland,2014,_T,Total emissions excluding LULUCF,58.67224298257799,Normal value
+FIN,Finland,2015,_T,Total emissions excluding LULUCF,55.102457687442005,Normal value
+FIN,Finland,2016,_T,Total emissions excluding LULUCF,57.935421139687,Normal value
+FIN,Finland,2017,_T,Total emissions excluding LULUCF,55.086572519254,Normal value
+FIN,Finland,2018,_T,Total emissions excluding LULUCF,56.153385815488,Normal value
+FRA,France,1990,_T,Total emissions excluding LULUCF,548.45900122048,Normal value
+FRA,France,1991,_T,Total emissions excluding LULUCF,574.2051428054,Normal value
+FRA,France,1992,_T,Total emissions excluding LULUCF,563.32166194825,Normal value
+FRA,France,1993,_T,Total emissions excluding LULUCF,542.0341079368501,Normal value
+FRA,France,1994,_T,Total emissions excluding LULUCF,533.7412427516,Normal value
+FRA,France,1995,_T,Total emissions excluding LULUCF,540.44027755907,Normal value
+FRA,France,1996,_T,Total emissions excluding LULUCF,558.65050412273,Normal value
+FRA,France,1997,_T,Total emissions excluding LULUCF,550.9847457109801,Normal value
+FRA,France,1998,_T,Total emissions excluding LULUCF,564.9051682998801,Normal value
+FRA,France,1999,_T,Total emissions excluding LULUCF,559.7690222337001,Normal value
+FRA,France,2000,_T,Total emissions excluding LULUCF,554.51380486555,Normal value
+FRA,France,2001,_T,Total emissions excluding LULUCF,559.83580645819,Normal value
+FRA,France,2002,_T,Total emissions excluding LULUCF,553.79309676885,Normal value
+FRA,France,2003,_T,Total emissions excluding LULUCF,557.97390310122,Normal value
+FRA,France,2004,_T,Total emissions excluding LULUCF,557.62292600888,Normal value
+FRA,France,2005,_T,Total emissions excluding LULUCF,559.1378613115501,Normal value
+FRA,France,2006,_T,Total emissions excluding LULUCF,548.48517796416,Normal value
+FRA,France,2007,_T,Total emissions excluding LULUCF,538.98795201334,Normal value
+FRA,France,2008,_T,Total emissions excluding LULUCF,534.03311260665,Normal value
+FRA,France,2009,_T,Total emissions excluding LULUCF,513.16224393808,Normal value
+FRA,France,2010,_T,Total emissions excluding LULUCF,517.64105993846,Normal value
+FRA,France,2011,_T,Total emissions excluding LULUCF,492.80558794942,Normal value
+FRA,France,2012,_T,Total emissions excluding LULUCF,495.53697703223,Normal value
+FRA,France,2013,_T,Total emissions excluding LULUCF,495.43488790803,Normal value
+FRA,France,2014,_T,Total emissions excluding LULUCF,463.56586620897,Normal value
+FRA,France,2015,_T,Total emissions excluding LULUCF,467.12919682075994,Normal value
+FRA,France,2016,_T,Total emissions excluding LULUCF,470.72069586544,Normal value
+FRA,France,2017,_T,Total emissions excluding LULUCF,473.08661910095,Normal value
+FRA,France,2018,_T,Total emissions excluding LULUCF,453.98111867659,Normal value
+GBR,United Kingdom,1990,_T,Total emissions excluding LULUCF,784.06610431945,Normal value
+GBR,United Kingdom,1991,_T,Total emissions excluding LULUCF,794.3434544397301,Normal value
+GBR,United Kingdom,1992,_T,Total emissions excluding LULUCF,774.9828027232801,Normal value
+GBR,United Kingdom,1993,_T,Total emissions excluding LULUCF,756.44118851038,Normal value
+GBR,United Kingdom,1994,_T,Total emissions excluding LULUCF,744.28105082732,Normal value
+GBR,United Kingdom,1995,_T,Total emissions excluding LULUCF,738.42384327085,Normal value
+GBR,United Kingdom,1996,_T,Total emissions excluding LULUCF,760.41503875402,Normal value
+GBR,United Kingdom,1997,_T,Total emissions excluding LULUCF,737.16130470161,Normal value
+GBR,United Kingdom,1998,_T,Total emissions excluding LULUCF,737.23309143886,Normal value
+GBR,United Kingdom,1999,_T,Total emissions excluding LULUCF,708.80830218391,Normal value
+GBR,United Kingdom,2000,_T,Total emissions excluding LULUCF,710.36758151912,Normal value
+GBR,United Kingdom,2001,_T,Total emissions excluding LULUCF,714.5319822929999,Normal value
+GBR,United Kingdom,2002,_T,Total emissions excluding LULUCF,693.95201666103,Normal value
+GBR,United Kingdom,2003,_T,Total emissions excluding LULUCF,702.10654264639,Normal value
+GBR,United Kingdom,2004,_T,Total emissions excluding LULUCF,699.51728810064,Normal value
+GBR,United Kingdom,2005,_T,Total emissions excluding LULUCF,692.8196783274,Normal value
+GBR,United Kingdom,2006,_T,Total emissions excluding LULUCF,689.2286786600899,Normal value
+GBR,United Kingdom,2007,_T,Total emissions excluding LULUCF,676.34601508049,Normal value
+GBR,United Kingdom,2008,_T,Total emissions excluding LULUCF,655.11356726187,Normal value
+GBR,United Kingdom,2009,_T,Total emissions excluding LULUCF,599.27958549039,Normal value
+GBR,United Kingdom,2010,_T,Total emissions excluding LULUCF,614.34322884817,Normal value
+GBR,United Kingdom,2011,_T,Total emissions excluding LULUCF,570.7055057233799,Normal value
+GBR,United Kingdom,2012,_T,Total emissions excluding LULUCF,587.8048620856499,Normal value
+GBR,United Kingdom,2013,_T,Total emissions excluding LULUCF,575.83917063859,Normal value
+GBR,United Kingdom,2014,_T,Total emissions excluding LULUCF,533.82567857622,Normal value
+GBR,United Kingdom,2015,_T,Total emissions excluding LULUCF,513.9618770572,Normal value
+GBR,United Kingdom,2016,_T,Total emissions excluding LULUCF,486.12644249732,Normal value
+GBR,United Kingdom,2017,_T,Total emissions excluding LULUCF,474.86676327214,Normal value
+GBR,United Kingdom,2018,_T,Total emissions excluding LULUCF,466.42546627858997,Normal value
+GEO,Georgia,1990,_T,Total emissions excluding LULUCF,45.946328434311,Normal value
+GEO,Georgia,1991,_T,Total emissions excluding LULUCF,37.523282668191996,Normal value
+GEO,Georgia,1992,_T,Total emissions excluding LULUCF,31.350573336657,Normal value
+GEO,Georgia,1993,_T,Total emissions excluding LULUCF,26.017953929841998,Normal value
+GEO,Georgia,1994,_T,Total emissions excluding LULUCF,16.535298808179,Normal value
+GEO,Georgia,1995,_T,Total emissions excluding LULUCF,13.552179931736,Normal value
+GEO,Georgia,1996,_T,Total emissions excluding LULUCF,14.029895803524,Normal value
+GEO,Georgia,1997,_T,Total emissions excluding LULUCF,12.705562208371001,Normal value
+GEO,Georgia,1998,_T,Total emissions excluding LULUCF,11.886023092947001,Normal value
+GEO,Georgia,1999,_T,Total emissions excluding LULUCF,10.66032838531,Normal value
+GEO,Georgia,2000,_T,Total emissions excluding LULUCF,11.331592778558,Normal value
+GEO,Georgia,2001,_T,Total emissions excluding LULUCF,9.510648234018499,Normal value
+GEO,Georgia,2002,_T,Total emissions excluding LULUCF,11.093080771004,Normal value
+GEO,Georgia,2003,_T,Total emissions excluding LULUCF,12.158217511495,Normal value
+GEO,Georgia,2004,_T,Total emissions excluding LULUCF,12.519467776657,Normal value
+GEO,Georgia,2005,_T,Total emissions excluding LULUCF,11.478645196686,Normal value
+GEO,Georgia,2006,_T,Total emissions excluding LULUCF,13.574105962103,Normal value
+GEO,Georgia,2007,_T,Total emissions excluding LULUCF,13.749839411423,Normal value
+GEO,Georgia,2008,_T,Total emissions excluding LULUCF,12.483511726051999,Normal value
+GEO,Georgia,2009,_T,Total emissions excluding LULUCF,12.077878851879001,Normal value
+GEO,Georgia,2010,_T,Total emissions excluding LULUCF,13.655482659672,Normal value
+GEO,Georgia,2011,_T,Total emissions excluding LULUCF,15.975976156463,Normal value
+GEO,Georgia,2012,_T,Total emissions excluding LULUCF,16.778736615713,Normal value
+GEO,Georgia,2013,_T,Total emissions excluding LULUCF,16.260290584255,Normal value
+GEO,Georgia,2014,_T,Total emissions excluding LULUCF,16.982945253361,Normal value
+GEO,Georgia,2015,_T,Total emissions excluding LULUCF,18.483312142863003,Normal value
+GEO,Georgia,2016,_T,Total emissions excluding LULUCF,18.662204522399,Normal value
+GEO,Georgia,2017,_T,Total emissions excluding LULUCF,17.788775942370002,Normal value
+GEO,Georgia,2018,_T,Total emissions excluding LULUCF,17.656033021515,Normal value
+GHA,Ghana,1990,_T,Total emissions excluding LULUCF,10.897178234114001,Normal value
+GHA,Ghana,1991,_T,Total emissions excluding LULUCF,11.407305251787,Normal value
+GHA,Ghana,1992,_T,Total emissions excluding LULUCF,13.366937895344998,Normal value
+GHA,Ghana,1993,_T,Total emissions excluding LULUCF,13.791027639316,Normal value
+GHA,Ghana,1994,_T,Total emissions excluding LULUCF,14.045502872818998,Normal value
+GHA,Ghana,1995,_T,Total emissions excluding LULUCF,13.243332405261,Normal value
+GHA,Ghana,1996,_T,Total emissions excluding LULUCF,13.42137977592,Normal value
+GHA,Ghana,1997,_T,Total emissions excluding LULUCF,14.665055907331999,Normal value
+GHA,Ghana,1998,_T,Total emissions excluding LULUCF,16.007433075482,Normal value
+GHA,Ghana,1999,_T,Total emissions excluding LULUCF,15.539132583286001,Normal value
+GHA,Ghana,2000,_T,Total emissions excluding LULUCF,15.22097260967,Normal value
+GHA,Ghana,2001,_T,Total emissions excluding LULUCF,15.780120374214,Normal value
+GHA,Ghana,2002,_T,Total emissions excluding LULUCF,17.74724310568,Normal value
+GHA,Ghana,2003,_T,Total emissions excluding LULUCF,17.649662974637003,Normal value
+GHA,Ghana,2004,_T,Total emissions excluding LULUCF,16.532535086782,Normal value
+GHA,Ghana,2005,_T,Total emissions excluding LULUCF,18.832952482577998,Normal value
+GHA,Ghana,2006,_T,Total emissions excluding LULUCF,20.915566280842,Normal value
+GHA,Ghana,2007,_T,Total emissions excluding LULUCF,23.760146247587,Normal value
+GHA,Ghana,2008,_T,Total emissions excluding LULUCF,21.75527140619,Normal value
+GHA,Ghana,2009,_T,Total emissions excluding LULUCF,22.866558929582997,Normal value
+GHA,Ghana,2010,_T,Total emissions excluding LULUCF,26.400008687884004,Normal value
+GHA,Ghana,2011,_T,Total emissions excluding LULUCF,28.992688788275004,Normal value
+GHA,Ghana,2012,_T,Total emissions excluding LULUCF,31.247738069287,Normal value
+GHA,Ghana,2013,_T,Total emissions excluding LULUCF,32.00245672559,Normal value
+GHA,Ghana,2014,_T,Total emissions excluding LULUCF,31.648050816036,Normal value
+GHA,Ghana,2015,_T,Total emissions excluding LULUCF,32.766401675124,Normal value
+GHA,Ghana,2016,_T,Total emissions excluding LULUCF,34.923197616321,Normal value
+GHA,Ghana,2017,_T,Total emissions excluding LULUCF,37.985323556474,Normal value
+GHA,Ghana,2018,_T,Total emissions excluding LULUCF,40.203517588770005,Normal value
+GNB,Guinea-Bissau,2010,_T,Total emissions excluding LULUCF,0.8308451697803301,Normal value
+GNB,Guinea-Bissau,2011,_T,Total emissions excluding LULUCF,0.8662285059273599,Normal value
+GNB,Guinea-Bissau,2012,_T,Total emissions excluding LULUCF,1.1678361077656,Normal value
+GNB,Guinea-Bissau,2013,_T,Total emissions excluding LULUCF,1.1726636582479,Normal value
+GNB,Guinea-Bissau,2014,_T,Total emissions excluding LULUCF,1.2123094959054999,Normal value
+GNB,Guinea-Bissau,2015,_T,Total emissions excluding LULUCF,1.2994810522079998,Normal value
+GNB,Guinea-Bissau,2016,_T,Total emissions excluding LULUCF,1.3228882749223,Normal value
+GNB,Guinea-Bissau,2017,_T,Total emissions excluding LULUCF,1.3473462669277,Normal value
+GNB,Guinea-Bissau,2018,_T,Total emissions excluding LULUCF,1.332904487118,Normal value
+GRC,Greece,1990,_T,Total emissions excluding LULUCF,103.98443666802001,Normal value
+GRC,Greece,1991,_T,Total emissions excluding LULUCF,104.00506937857999,Normal value
+GRC,Greece,1992,_T,Total emissions excluding LULUCF,105.2860155858,Normal value
+GRC,Greece,1993,_T,Total emissions excluding LULUCF,104.8263628573,Normal value
+GRC,Greece,1994,_T,Total emissions excluding LULUCF,107.45636633294,Normal value
+GRC,Greece,1995,_T,Total emissions excluding LULUCF,109.58030314579001,Normal value
+GRC,Greece,1996,_T,Total emissions excluding LULUCF,112.61504893578999,Normal value
+GRC,Greece,1997,_T,Total emissions excluding LULUCF,117.47002081248,Normal value
+GRC,Greece,1998,_T,Total emissions excluding LULUCF,122.99328601984,Normal value
+GRC,Greece,1999,_T,Total emissions excluding LULUCF,122.98546243167002,Normal value
+GRC,Greece,2000,_T,Total emissions excluding LULUCF,126.65901959644,Normal value
+GRC,Greece,2001,_T,Total emissions excluding LULUCF,127.73054231913001,Normal value
+GRC,Greece,2002,_T,Total emissions excluding LULUCF,127.7189779436,Normal value
+GRC,Greece,2003,_T,Total emissions excluding LULUCF,131.56891552921,Normal value
+GRC,Greece,2004,_T,Total emissions excluding LULUCF,132.21448065057,Normal value
+GRC,Greece,2005,_T,Total emissions excluding LULUCF,136.74741143838997,Normal value
+GRC,Greece,2006,_T,Total emissions excluding LULUCF,133.26953852783998,Normal value
+GRC,Greece,2007,_T,Total emissions excluding LULUCF,135.88306542477,Normal value
+GRC,Greece,2008,_T,Total emissions excluding LULUCF,132.51829499001002,Normal value
+GRC,Greece,2009,_T,Total emissions excluding LULUCF,125.32604102657001,Normal value
+GRC,Greece,2010,_T,Total emissions excluding LULUCF,119.23358309627,Normal value
+GRC,Greece,2011,_T,Total emissions excluding LULUCF,116.25696807959001,Normal value
+GRC,Greece,2012,_T,Total emissions excluding LULUCF,113.00956240373,Normal value
+GRC,Greece,2013,_T,Total emissions excluding LULUCF,103.35644640288,Normal value
+GRC,Greece,2014,_T,Total emissions excluding LULUCF,99.94139606194899,Normal value
+GRC,Greece,2015,_T,Total emissions excluding LULUCF,96.078307052596,Normal value
+GRC,Greece,2016,_T,Total emissions excluding LULUCF,92.40268329953399,Normal value
+GRC,Greece,2017,_T,Total emissions excluding LULUCF,96.25183741037,Normal value
+GRC,Greece,2018,_T,Total emissions excluding LULUCF,93.01765596792899,Normal value
+GTM,Guatemala,1990,_T,Total emissions excluding LULUCF,11.613417534709,Normal value
+GTM,Guatemala,1991,_T,Total emissions excluding LULUCF,12.352128754212002,Normal value
+GTM,Guatemala,1992,_T,Total emissions excluding LULUCF,13.280464262184,Normal value
+GTM,Guatemala,1993,_T,Total emissions excluding LULUCF,13.517886831094,Normal value
+GTM,Guatemala,1994,_T,Total emissions excluding LULUCF,14.171131356513001,Normal value
+GTM,Guatemala,1995,_T,Total emissions excluding LULUCF,15.000063275181999,Normal value
+GTM,Guatemala,1996,_T,Total emissions excluding LULUCF,14.35389997119,Normal value
+GTM,Guatemala,1997,_T,Total emissions excluding LULUCF,15.717637924657,Normal value
+GTM,Guatemala,1998,_T,Total emissions excluding LULUCF,16.958321230783,Normal value
+GTM,Guatemala,1999,_T,Total emissions excluding LULUCF,17.024126171653,Normal value
+GTM,Guatemala,2000,_T,Total emissions excluding LULUCF,18.85750848525,Normal value
+GTM,Guatemala,2001,_T,Total emissions excluding LULUCF,19.963069994464,Normal value
+GTM,Guatemala,2002,_T,Total emissions excluding LULUCF,20.32384240572,Normal value
+GTM,Guatemala,2003,_T,Total emissions excluding LULUCF,20.199205395581,Normal value
+GTM,Guatemala,2004,_T,Total emissions excluding LULUCF,19.777197648675,Normal value
+GTM,Guatemala,2005,_T,Total emissions excluding LULUCF,20.830528286092996,Normal value
+GTM,Guatemala,2006,_T,Total emissions excluding LULUCF,21.554777503653,Normal value
+GTM,Guatemala,2007,_T,Total emissions excluding LULUCF,23.589423228852997,Normal value
+GTM,Guatemala,2008,_T,Total emissions excluding LULUCF,21.690032982276,Normal value
+GTM,Guatemala,2009,_T,Total emissions excluding LULUCF,23.389390030894997,Normal value
+GTM,Guatemala,2010,_T,Total emissions excluding LULUCF,22.949091961439,Normal value
+GTM,Guatemala,2011,_T,Total emissions excluding LULUCF,23.575015756758,Normal value
+GTM,Guatemala,2012,_T,Total emissions excluding LULUCF,24.321896698677,Normal value
+GTM,Guatemala,2013,_T,Total emissions excluding LULUCF,25.666171242616002,Normal value
+GTM,Guatemala,2014,_T,Total emissions excluding LULUCF,26.708205297437,Normal value
+GTM,Guatemala,2015,_T,Total emissions excluding LULUCF,29.633268690907002,Normal value
+GTM,Guatemala,2016,_T,Total emissions excluding LULUCF,31.336215672649,Normal value
+GTM,Guatemala,2017,_T,Total emissions excluding LULUCF,30.696539378739,Normal value
+GTM,Guatemala,2018,_T,Total emissions excluding LULUCF,31.472813244563,Normal value
+GUY,Guyana,1990,_T,Total emissions excluding LULUCF,2.7108211517197,Normal value
+GUY,Guyana,1991,_T,Total emissions excluding LULUCF,2.7718000533224,Normal value
+GUY,Guyana,1992,_T,Total emissions excluding LULUCF,2.6986533455045,Normal value
+GUY,Guyana,1993,_T,Total emissions excluding LULUCF,2.8155410185514,Normal value
+GUY,Guyana,1994,_T,Total emissions excluding LULUCF,3.2096954452863002,Normal value
+GUY,Guyana,1995,_T,Total emissions excluding LULUCF,3.5291292538135,Normal value
+GUY,Guyana,1996,_T,Total emissions excluding LULUCF,3.5887627870566,Normal value
+GUY,Guyana,1997,_T,Total emissions excluding LULUCF,3.7975639149839,Normal value
+GUY,Guyana,1998,_T,Total emissions excluding LULUCF,3.7462008545608,Normal value
+GUY,Guyana,1999,_T,Total emissions excluding LULUCF,3.8620956829858,Normal value
+GUY,Guyana,2000,_T,Total emissions excluding LULUCF,3.6666252695697996,Normal value
+GUY,Guyana,2001,_T,Total emissions excluding LULUCF,3.6949044694123,Normal value
+GUY,Guyana,2002,_T,Total emissions excluding LULUCF,3.6360479318728,Normal value
+GUY,Guyana,2003,_T,Total emissions excluding LULUCF,3.8602260279418004,Normal value
+GUY,Guyana,2004,_T,Total emissions excluding LULUCF,3.7587999164105996,Normal value
+GUY,Guyana,2005,_T,Total emissions excluding LULUCF,3.2735538867527,Normal value
+GUY,Guyana,2006,_T,Total emissions excluding LULUCF,3.2134030597659997,Normal value
+GUY,Guyana,2007,_T,Total emissions excluding LULUCF,3.5810391727494,Normal value
+GUY,Guyana,2008,_T,Total emissions excluding LULUCF,3.7556153092923,Normal value
+GUY,Guyana,2009,_T,Total emissions excluding LULUCF,3.8027077092393005,Normal value
+GUY,Guyana,2010,_T,Total emissions excluding LULUCF,3.9721485412812,Normal value
+GUY,Guyana,2011,_T,Total emissions excluding LULUCF,4.018860085354199,Normal value
+GUY,Guyana,2012,_T,Total emissions excluding LULUCF,4.29719720104,Normal value
+GUY,Guyana,2013,_T,Total emissions excluding LULUCF,4.3961295874864,Normal value
+GUY,Guyana,2014,_T,Total emissions excluding LULUCF,4.5845334354077,Normal value
+GUY,Guyana,2015,_T,Total emissions excluding LULUCF,4.617609497754899,Normal value
+GUY,Guyana,2016,_T,Total emissions excluding LULUCF,4.6664405073486,Normal value
+GUY,Guyana,2017,_T,Total emissions excluding LULUCF,4.7437754996667,Normal value
+GUY,Guyana,2018,_T,Total emissions excluding LULUCF,4.882185372428901,Normal value
+HRV,Croatia,1990,_T,Total emissions excluding LULUCF,31.446326279725,Normal value
+HRV,Croatia,1991,_T,Total emissions excluding LULUCF,24.915974197868998,Normal value
+HRV,Croatia,1992,_T,Total emissions excluding LULUCF,23.047807782171,Normal value
+HRV,Croatia,1993,_T,Total emissions excluding LULUCF,23.029781011606,Normal value
+HRV,Croatia,1994,_T,Total emissions excluding LULUCF,22.112061989912,Normal value
+HRV,Croatia,1995,_T,Total emissions excluding LULUCF,22.785036950953,Normal value
+HRV,Croatia,1996,_T,Total emissions excluding LULUCF,23.275508874569002,Normal value
+HRV,Croatia,1997,_T,Total emissions excluding LULUCF,24.655700601308997,Normal value
+HRV,Croatia,1998,_T,Total emissions excluding LULUCF,24.791971509769,Normal value
+HRV,Croatia,1999,_T,Total emissions excluding LULUCF,26.099309967009997,Normal value
+HRV,Croatia,2000,_T,Total emissions excluding LULUCF,25.724268804325998,Normal value
+HRV,Croatia,2001,_T,Total emissions excluding LULUCF,26.89950457933,Normal value
+HRV,Croatia,2002,_T,Total emissions excluding LULUCF,27.989297110018,Normal value
+HRV,Croatia,2003,_T,Total emissions excluding LULUCF,29.417808259763,Normal value
+HRV,Croatia,2004,_T,Total emissions excluding LULUCF,29.365410739777996,Normal value
+HRV,Croatia,2005,_T,Total emissions excluding LULUCF,29.839251344666,Normal value
+HRV,Croatia,2006,_T,Total emissions excluding LULUCF,30.216111231809002,Normal value
+HRV,Croatia,2007,_T,Total emissions excluding LULUCF,31.645045064791002,Normal value
+HRV,Croatia,2008,_T,Total emissions excluding LULUCF,30.70028697408,Normal value
+HRV,Croatia,2009,_T,Total emissions excluding LULUCF,28.539982860958,Normal value
+HRV,Croatia,2010,_T,Total emissions excluding LULUCF,28.145891341381002,Normal value
+HRV,Croatia,2011,_T,Total emissions excluding LULUCF,27.863001542424,Normal value
+HRV,Croatia,2012,_T,Total emissions excluding LULUCF,26.129527787804,Normal value
+HRV,Croatia,2013,_T,Total emissions excluding LULUCF,24.916637591721,Normal value
+HRV,Croatia,2014,_T,Total emissions excluding LULUCF,24.179941120872,Normal value
+HRV,Croatia,2015,_T,Total emissions excluding LULUCF,24.635244738323,Normal value
+HRV,Croatia,2016,_T,Total emissions excluding LULUCF,24.810273181541,Normal value
+HRV,Croatia,2017,_T,Total emissions excluding LULUCF,25.664864713663,Normal value
+HRV,Croatia,2018,_T,Total emissions excluding LULUCF,24.548404831358997,Normal value
+HUN,Hungary,1990,_T,Total emissions excluding LULUCF,94.930472798545,Normal value
+HUN,Hungary,1991,_T,Total emissions excluding LULUCF,88.718944978012,Normal value
+HUN,Hungary,1992,_T,Total emissions excluding LULUCF,78.72656220369899,Normal value
+HUN,Hungary,1993,_T,Total emissions excluding LULUCF,79.218776661074,Normal value
+HUN,Hungary,1994,_T,Total emissions excluding LULUCF,78.738799880339,Normal value
+HUN,Hungary,1995,_T,Total emissions excluding LULUCF,77.539068311325,Normal value
+HUN,Hungary,1996,_T,Total emissions excluding LULUCF,79.78835513122,Normal value
+HUN,Hungary,1997,_T,Total emissions excluding LULUCF,78.373421507425,Normal value
+HUN,Hungary,1998,_T,Total emissions excluding LULUCF,77.87200094708399,Normal value
+HUN,Hungary,1999,_T,Total emissions excluding LULUCF,78.184907264194,Normal value
+HUN,Hungary,2000,_T,Total emissions excluding LULUCF,75.355865656781,Normal value
+HUN,Hungary,2001,_T,Total emissions excluding LULUCF,77.19737300003,Normal value
+HUN,Hungary,2002,_T,Total emissions excluding LULUCF,75.604124024942,Normal value
+HUN,Hungary,2003,_T,Total emissions excluding LULUCF,78.58454390998,Normal value
+HUN,Hungary,2004,_T,Total emissions excluding LULUCF,77.476175053759,Normal value
+HUN,Hungary,2005,_T,Total emissions excluding LULUCF,77.384381566244,Normal value
+HUN,Hungary,2006,_T,Total emissions excluding LULUCF,75.893943064615,Normal value
+HUN,Hungary,2007,_T,Total emissions excluding LULUCF,74.216882986114,Normal value
+HUN,Hungary,2008,_T,Total emissions excluding LULUCF,72.169567960352,Normal value
+HUN,Hungary,2009,_T,Total emissions excluding LULUCF,66.169793676447,Normal value
+HUN,Hungary,2010,_T,Total emissions excluding LULUCF,66.81412357596601,Normal value
+HUN,Hungary,2011,_T,Total emissions excluding LULUCF,65.15632068308,Normal value
+HUN,Hungary,2012,_T,Total emissions excluding LULUCF,61.884610184407,Normal value
+HUN,Hungary,2013,_T,Total emissions excluding LULUCF,58.882209662927,Normal value
+HUN,Hungary,2014,_T,Total emissions excluding LULUCF,59.238301065057,Normal value
+HUN,Hungary,2015,_T,Total emissions excluding LULUCF,62.443299372274,Normal value
+HUN,Hungary,2016,_T,Total emissions excluding LULUCF,63.080553105605,Normal value
+HUN,Hungary,2017,_T,Total emissions excluding LULUCF,65.294878539118,Normal value
+HUN,Hungary,2018,_T,Total emissions excluding LULUCF,65.277360373295,Normal value
+IDN,Indonesia,2000,_T,Total emissions excluding LULUCF,511.51200258625994,Normal value
+IDN,Indonesia,2001,_T,Total emissions excluding LULUCF,540.4472218636,Normal value
+IDN,Indonesia,2002,_T,Total emissions excluding LULUCF,549.0806312054,Normal value
+IDN,Indonesia,2003,_T,Total emissions excluding LULUCF,560.95367537824,Normal value
+IDN,Indonesia,2004,_T,Total emissions excluding LULUCF,582.92802668124,Normal value
+IDN,Indonesia,2005,_T,Total emissions excluding LULUCF,597.4343208768299,Normal value
+IDN,Indonesia,2006,_T,Total emissions excluding LULUCF,623.50509559399,Normal value
+IDN,Indonesia,2007,_T,Total emissions excluding LULUCF,646.68192752478,Normal value
+IDN,Indonesia,2008,_T,Total emissions excluding LULUCF,631.1707101030499,Normal value
+IDN,Indonesia,2009,_T,Total emissions excluding LULUCF,643.1423716446999,Normal value
+IDN,Indonesia,2010,_T,Total emissions excluding LULUCF,683.2478026766001,Normal value
+IDN,Indonesia,2011,_T,Total emissions excluding LULUCF,754.48397922544,Normal value
+IDN,Indonesia,2012,_T,Total emissions excluding LULUCF,791.87661250785,Normal value
+IDN,Indonesia,2013,_T,Total emissions excluding LULUCF,767.57704404792,Normal value
+IDN,Indonesia,2014,_T,Total emissions excluding LULUCF,794.5966435582,Normal value
+IDN,Indonesia,2015,_T,Total emissions excluding LULUCF,825.54304077184,Normal value
+IDN,Indonesia,2016,_T,Total emissions excluding LULUCF,818.61897885393,Normal value
+IDN,Indonesia,2017,_T,Total emissions excluding LULUCF,872.1676571903799,Normal value
+IDN,Indonesia,2018,_T,Total emissions excluding LULUCF,911.97341050525,Normal value
+IND,India,1994,_T,Total emissions excluding LULUCF,1332.752,Normal value
+IND,India,2000,_T,Total emissions excluding LULUCF,1647.92365,Normal value
+IND,India,2005,_T,Total emissions excluding LULUCF,2001.2887,Normal value
+IND,India,2010,_T,Total emissions excluding LULUCF,2257.58514,Normal value
+IND,India,2016,_T,Total emissions excluding LULUCF,2954.7385,Normal value
+IRL,Ireland,1990,_T,Total emissions excluding LULUCF,55.677477054381,Normal value
+IRL,Ireland,1991,_T,Total emissions excluding LULUCF,56.643578558713,Normal value
+IRL,Ireland,1992,_T,Total emissions excluding LULUCF,56.63088912140199,Normal value
+IRL,Ireland,1993,_T,Total emissions excluding LULUCF,57.079005325912995,Normal value
+IRL,Ireland,1994,_T,Total emissions excluding LULUCF,58.41205804768099,Normal value
+IRL,Ireland,1995,_T,Total emissions excluding LULUCF,59.804209666984995,Normal value
+IRL,Ireland,1996,_T,Total emissions excluding LULUCF,61.845233426610996,Normal value
+IRL,Ireland,1997,_T,Total emissions excluding LULUCF,63.164727266891,Normal value
+IRL,Ireland,1998,_T,Total emissions excluding LULUCF,65.6245586644,Normal value
+IRL,Ireland,1999,_T,Total emissions excluding LULUCF,66.811753645663,Normal value
+IRL,Ireland,2000,_T,Total emissions excluding LULUCF,68.92970123092,Normal value
+IRL,Ireland,2001,_T,Total emissions excluding LULUCF,70.909146721653,Normal value
+IRL,Ireland,2002,_T,Total emissions excluding LULUCF,68.978533140461,Normal value
+IRL,Ireland,2003,_T,Total emissions excluding LULUCF,69.39053476179602,Normal value
+IRL,Ireland,2004,_T,Total emissions excluding LULUCF,68.687036477468,Normal value
+IRL,Ireland,2005,_T,Total emissions excluding LULUCF,70.07533764607801,Normal value
+IRL,Ireland,2006,_T,Total emissions excluding LULUCF,69.18896771359901,Normal value
+IRL,Ireland,2007,_T,Total emissions excluding LULUCF,68.54593661378101,Normal value
+IRL,Ireland,2008,_T,Total emissions excluding LULUCF,67.78921782145,Normal value
+IRL,Ireland,2009,_T,Total emissions excluding LULUCF,62.029150562716,Normal value
+IRL,Ireland,2010,_T,Total emissions excluding LULUCF,61.656212072615006,Normal value
+IRL,Ireland,2011,_T,Total emissions excluding LULUCF,57.689552216784996,Normal value
+IRL,Ireland,2012,_T,Total emissions excluding LULUCF,58.211481851967996,Normal value
+IRL,Ireland,2013,_T,Total emissions excluding LULUCF,57.862051055187,Normal value
+IRL,Ireland,2014,_T,Total emissions excluding LULUCF,57.93316264769,Normal value
+IRL,Ireland,2015,_T,Total emissions excluding LULUCF,60.277518314605,Normal value
+IRL,Ireland,2016,_T,Total emissions excluding LULUCF,62.593133227586996,Normal value
+IRL,Ireland,2017,_T,Total emissions excluding LULUCF,61.841704810906,Normal value
+IRL,Ireland,2018,_T,Total emissions excluding LULUCF,61.501994530671,Normal value
+IRN,Iran,1994,_T,Total emissions excluding LULUCF,400.00629,Normal value
+IRN,Iran,2000,_T,Total emissions excluding LULUCF,503.07961,Normal value
+ISL,Iceland,1990,_T,Total emissions excluding LULUCF,3.6672320854183997,Normal value
+ISL,Iceland,1991,_T,Total emissions excluding LULUCF,3.4654791212776,Normal value
+ISL,Iceland,1992,_T,Total emissions excluding LULUCF,3.3933077371692,Normal value
+ISL,Iceland,1993,_T,Total emissions excluding LULUCF,3.4811233717506997,Normal value
+ISL,Iceland,1994,_T,Total emissions excluding LULUCF,3.4161346663601,Normal value
+ISL,Iceland,1995,_T,Total emissions excluding LULUCF,3.5487966955788,Normal value
+ISL,Iceland,1996,_T,Total emissions excluding LULUCF,3.606672881607,Normal value
+ISL,Iceland,1997,_T,Total emissions excluding LULUCF,3.7767157715960997,Normal value
+ISL,Iceland,1998,_T,Total emissions excluding LULUCF,3.9202109342975997,Normal value
+ISL,Iceland,1999,_T,Total emissions excluding LULUCF,4.1364755870115,Normal value
+ISL,Iceland,2000,_T,Total emissions excluding LULUCF,4.1672059340189,Normal value
+ISL,Iceland,2001,_T,Total emissions excluding LULUCF,4.065831005102,Normal value
+ISL,Iceland,2002,_T,Total emissions excluding LULUCF,4.1409738309985995,Normal value
+ISL,Iceland,2003,_T,Total emissions excluding LULUCF,4.115315884101,Normal value
+ISL,Iceland,2004,_T,Total emissions excluding LULUCF,4.2396438429492,Normal value
+ISL,Iceland,2005,_T,Total emissions excluding LULUCF,4.099161881608801,Normal value
+ISL,Iceland,2006,_T,Total emissions excluding LULUCF,4.658051084447701,Normal value
+ISL,Iceland,2007,_T,Total emissions excluding LULUCF,4.9651932759652,Normal value
+ISL,Iceland,2008,_T,Total emissions excluding LULUCF,5.3458750404024,Normal value
+ISL,Iceland,2009,_T,Total emissions excluding LULUCF,5.0403798643982,Normal value
+ISL,Iceland,2010,_T,Total emissions excluding LULUCF,4.943741332392101,Normal value
+ISL,Iceland,2011,_T,Total emissions excluding LULUCF,4.7306825927973,Normal value
+ISL,Iceland,2012,_T,Total emissions excluding LULUCF,4.725189390918,Normal value
+ISL,Iceland,2013,_T,Total emissions excluding LULUCF,4.7287508600693995,Normal value
+ISL,Iceland,2014,_T,Total emissions excluding LULUCF,4.7500625195402995,Normal value
+ISL,Iceland,2015,_T,Total emissions excluding LULUCF,4.8204260842928,Normal value
+ISL,Iceland,2016,_T,Total emissions excluding LULUCF,4.7784218497078,Normal value
+ISL,Iceland,2017,_T,Total emissions excluding LULUCF,4.8611683218665,Normal value
+ISL,Iceland,2018,_T,Total emissions excluding LULUCF,4.9253639512918,Normal value
+ISR,Israel,1996,_T,Total emissions excluding LULUCF,58.55048,Normal value
+ISR,Israel,2000,_T,Total emissions excluding LULUCF,68.13864,Normal value
+ISR,Israel,2003,_T,Total emissions excluding LULUCF,70.72507,Normal value
+ISR,Israel,2004,_T,Total emissions excluding LULUCF,71.09513,Normal value
+ISR,Israel,2005,_T,Total emissions excluding LULUCF,71.80196,Normal value
+ISR,Israel,2006,_T,Total emissions excluding LULUCF,73.28229,Normal value
+ISR,Israel,2007,_T,Total emissions excluding LULUCF,76.52047,Normal value
+ISR,Israel,2008,_T,Total emissions excluding LULUCF,78.06341,Normal value
+ISR,Israel,2009,_T,Total emissions excluding LULUCF,74.44467,Normal value
+ISR,Israel,2010,_T,Total emissions excluding LULUCF,77.37472,Normal value
+ISR,Israel,2011,_T,Total emissions excluding LULUCF,79.91906,Normal value
+ISR,Israel,2012,_T,Total emissions excluding LULUCF,85.63297,Normal value
+ISR,Israel,2013,_T,Total emissions excluding LULUCF,80.25369,Normal value
+ISR,Israel,2014,_T,Total emissions excluding LULUCF,78.19809,Normal value
+ISR,Israel,2015,_T,Total emissions excluding LULUCF,81.30308,Normal value
+ISR,Israel,2016,_T,Total emissions excluding LULUCF,81.26436,Normal value
+ISR,Israel,2017,_T,Total emissions excluding LULUCF,80.54685,Normal value
+ISR,Israel,2018,_T,Total emissions excluding LULUCF,80.79668,Normal value
+ITA,Italy,1990,_T,Total emissions excluding LULUCF,519.2349007937399,Normal value
+ITA,Italy,1991,_T,Total emissions excluding LULUCF,520.3831317448801,Normal value
+ITA,Italy,1992,_T,Total emissions excluding LULUCF,519.54206978788,Normal value
+ITA,Italy,1993,_T,Total emissions excluding LULUCF,512.69903138428,Normal value
+ITA,Italy,1994,_T,Total emissions excluding LULUCF,506.77464526296,Normal value
+ITA,Italy,1995,_T,Total emissions excluding LULUCF,533.19933999754,Normal value
+ITA,Italy,1996,_T,Total emissions excluding LULUCF,527.99865159289,Normal value
+ITA,Italy,1997,_T,Total emissions excluding LULUCF,535.63848334517,Normal value
+ITA,Italy,1998,_T,Total emissions excluding LULUCF,548.45888447534,Normal value
+ITA,Italy,1999,_T,Total emissions excluding LULUCF,554.22891262837,Normal value
+ITA,Italy,2000,_T,Total emissions excluding LULUCF,558.21935928537,Normal value
+ITA,Italy,2001,_T,Total emissions excluding LULUCF,560.22433561305,Normal value
+ITA,Italy,2002,_T,Total emissions excluding LULUCF,566.63710830674,Normal value
+ITA,Italy,2003,_T,Total emissions excluding LULUCF,586.27710444488,Normal value
+ITA,Italy,2004,_T,Total emissions excluding LULUCF,591.6791936841801,Normal value
+ITA,Italy,2005,_T,Total emissions excluding LULUCF,592.6140686456799,Normal value
+ITA,Italy,2006,_T,Total emissions excluding LULUCF,582.0187036728299,Normal value
+ITA,Italy,2007,_T,Total emissions excluding LULUCF,576.41654667868,Normal value
+ITA,Italy,2008,_T,Total emissions excluding LULUCF,563.5039313279001,Normal value
+ITA,Italy,2009,_T,Total emissions excluding LULUCF,508.28290018489,Normal value
+ITA,Italy,2010,_T,Total emissions excluding LULUCF,518.60423836975,Normal value
+ITA,Italy,2011,_T,Total emissions excluding LULUCF,505.5784652119,Normal value
+ITA,Italy,2012,_T,Total emissions excluding LULUCF,485.97231814301,Normal value
+ITA,Italy,2013,_T,Total emissions excluding LULUCF,449.57891023467,Normal value
+ITA,Italy,2014,_T,Total emissions excluding LULUCF,427.90686303676006,Normal value
+ITA,Italy,2015,_T,Total emissions excluding LULUCF,437.69989657316,Normal value
+ITA,Italy,2016,_T,Total emissions excluding LULUCF,433.89982110375,Normal value
+ITA,Italy,2017,_T,Total emissions excluding LULUCF,427.13908232268,Normal value
+ITA,Italy,2018,_T,Total emissions excluding LULUCF,422.86855480852,Normal value
+JPN,Japan,1990,_T,Total emissions excluding LULUCF,1266.4925727122,Normal value
+JPN,Japan,1991,_T,Total emissions excluding LULUCF,1280.7265699839002,Normal value
+JPN,Japan,1992,_T,Total emissions excluding LULUCF,1291.4903559462,Normal value
+JPN,Japan,1993,_T,Total emissions excluding LULUCF,1287.7457554108,Normal value
+JPN,Japan,1994,_T,Total emissions excluding LULUCF,1346.3497206204997,Normal value
+JPN,Japan,1995,_T,Total emissions excluding LULUCF,1366.8284006978001,Normal value
+JPN,Japan,1996,_T,Total emissions excluding LULUCF,1379.9397120858998,Normal value
+JPN,Japan,1997,_T,Total emissions excluding LULUCF,1370.9514826352001,Normal value
+JPN,Japan,1998,_T,Total emissions excluding LULUCF,1322.9503303227,Normal value
+JPN,Japan,1999,_T,Total emissions excluding LULUCF,1347.1673340248,Normal value
+JPN,Japan,2000,_T,Total emissions excluding LULUCF,1366.2230720090001,Normal value
+JPN,Japan,2001,_T,Total emissions excluding LULUCF,1341.3702077797,Normal value
+JPN,Japan,2002,_T,Total emissions excluding LULUCF,1365.8158903653,Normal value
+JPN,Japan,2003,_T,Total emissions excluding LULUCF,1372.5119220507997,Normal value
+JPN,Japan,2004,_T,Total emissions excluding LULUCF,1364.4307095525,Normal value
+JPN,Japan,2005,_T,Total emissions excluding LULUCF,1371.3634973196001,Normal value
+JPN,Japan,2006,_T,Total emissions excluding LULUCF,1349.0404478843998,Normal value
+JPN,Japan,2007,_T,Total emissions excluding LULUCF,1383.0734823146,Normal value
+JPN,Japan,2008,_T,Total emissions excluding LULUCF,1309.5334191912,Normal value
+JPN,Japan,2009,_T,Total emissions excluding LULUCF,1237.5020851835,Normal value
+JPN,Japan,2010,_T,Total emissions excluding LULUCF,1289.2074455391003,Normal value
+JPN,Japan,2011,_T,Total emissions excluding LULUCF,1339.0781355394,Normal value
+JPN,Japan,2012,_T,Total emissions excluding LULUCF,1380.1109680455,Normal value
+JPN,Japan,2013,_T,Total emissions excluding LULUCF,1391.1877787075,Normal value
+JPN,Japan,2014,_T,Total emissions excluding LULUCF,1340.2588530599,Normal value
+JPN,Japan,2015,_T,Total emissions excluding LULUCF,1300.9743294963,Normal value
+JPN,Japan,2016,_T,Total emissions excluding LULUCF,1281.9723608787,Normal value
+JPN,Japan,2017,_T,Total emissions excluding LULUCF,1266.843700682,Normal value
+JPN,Japan,2018,_T,Total emissions excluding LULUCF,1220.0489768436,Normal value
+KAZ,Kazakhstan,1990,_T,Total emissions excluding LULUCF,388.34340390946,Normal value
+KAZ,Kazakhstan,1991,_T,Total emissions excluding LULUCF,369.39672935684996,Normal value
+KAZ,Kazakhstan,1992,_T,Total emissions excluding LULUCF,351.37233302563,Normal value
+KAZ,Kazakhstan,1993,_T,Total emissions excluding LULUCF,313.27755891884993,Normal value
+KAZ,Kazakhstan,1994,_T,Total emissions excluding LULUCF,262.63841967646,Normal value
+KAZ,Kazakhstan,1995,_T,Total emissions excluding LULUCF,245.31962217096,Normal value
+KAZ,Kazakhstan,1996,_T,Total emissions excluding LULUCF,228.72265718895,Normal value
+KAZ,Kazakhstan,1997,_T,Total emissions excluding LULUCF,221.4196172241,Normal value
+KAZ,Kazakhstan,1998,_T,Total emissions excluding LULUCF,216.66092899923999,Normal value
+KAZ,Kazakhstan,1999,_T,Total emissions excluding LULUCF,195.04843459280002,Normal value
+KAZ,Kazakhstan,2000,_T,Total emissions excluding LULUCF,227.63078101514,Normal value
+KAZ,Kazakhstan,2001,_T,Total emissions excluding LULUCF,222.13532824582,Normal value
+KAZ,Kazakhstan,2002,_T,Total emissions excluding LULUCF,246.38471660000002,Normal value
+KAZ,Kazakhstan,2003,_T,Total emissions excluding LULUCF,268.27803216642,Normal value
+KAZ,Kazakhstan,2004,_T,Total emissions excluding LULUCF,275.82385592142,Normal value
+KAZ,Kazakhstan,2005,_T,Total emissions excluding LULUCF,289.81379207991,Normal value
+KAZ,Kazakhstan,2006,_T,Total emissions excluding LULUCF,319.99994200433997,Normal value
+KAZ,Kazakhstan,2007,_T,Total emissions excluding LULUCF,326.19905755937,Normal value
+KAZ,Kazakhstan,2008,_T,Total emissions excluding LULUCF,319.20916748508,Normal value
+KAZ,Kazakhstan,2009,_T,Total emissions excluding LULUCF,307.24416649248,Normal value
+KAZ,Kazakhstan,2010,_T,Total emissions excluding LULUCF,332.27599117398,Normal value
+KAZ,Kazakhstan,2011,_T,Total emissions excluding LULUCF,325.00316892634,Normal value
+KAZ,Kazakhstan,2012,_T,Total emissions excluding LULUCF,332.35795473908,Normal value
+KAZ,Kazakhstan,2013,_T,Total emissions excluding LULUCF,344.40961530666,Normal value
+KAZ,Kazakhstan,2014,_T,Total emissions excluding LULUCF,413.92386555713006,Normal value
+KAZ,Kazakhstan,2015,_T,Total emissions excluding LULUCF,399.81855133236,Normal value
+KAZ,Kazakhstan,2016,_T,Total emissions excluding LULUCF,398.04441415865,Normal value
+KAZ,Kazakhstan,2017,_T,Total emissions excluding LULUCF,409.57463088557,Normal value
+KAZ,Kazakhstan,2018,_T,Total emissions excluding LULUCF,425.84024409388,Normal value
+KEN,Kenya,1990,_T,Total emissions excluding LULUCF,25.376504520826998,Normal value
+KEN,Kenya,1991,_T,Total emissions excluding LULUCF,25.118246569327,Normal value
+KEN,Kenya,1992,_T,Total emissions excluding LULUCF,25.122542201931,Normal value
+KEN,Kenya,1993,_T,Total emissions excluding LULUCF,25.719521535587,Normal value
+KEN,Kenya,1994,_T,Total emissions excluding LULUCF,24.608060766119,Normal value
+KEN,Kenya,1995,_T,Total emissions excluding LULUCF,23.954054561935,Normal value
+KEN,Kenya,1996,_T,Total emissions excluding LULUCF,24.612521478641,Normal value
+KEN,Kenya,1997,_T,Total emissions excluding LULUCF,24.704316915521,Normal value
+KEN,Kenya,1998,_T,Total emissions excluding LULUCF,25.061030526216,Normal value
+KEN,Kenya,1999,_T,Total emissions excluding LULUCF,25.80144841821,Normal value
+KEN,Kenya,2000,_T,Total emissions excluding LULUCF,25.084581819189,Normal value
+KEN,Kenya,2001,_T,Total emissions excluding LULUCF,26.523738620506,Normal value
+KEN,Kenya,2002,_T,Total emissions excluding LULUCF,27.220155890163,Normal value
+KEN,Kenya,2003,_T,Total emissions excluding LULUCF,27.961270274899995,Normal value
+KEN,Kenya,2004,_T,Total emissions excluding LULUCF,30.278718169783,Normal value
+KEN,Kenya,2005,_T,Total emissions excluding LULUCF,30.433405365627003,Normal value
+KEN,Kenya,2006,_T,Total emissions excluding LULUCF,31.565505188933,Normal value
+KEN,Kenya,2007,_T,Total emissions excluding LULUCF,31.995569465829,Normal value
+KEN,Kenya,2008,_T,Total emissions excluding LULUCF,37.008685850301994,Normal value
+KEN,Kenya,2009,_T,Total emissions excluding LULUCF,37.408698956703,Normal value
+KEN,Kenya,2010,_T,Total emissions excluding LULUCF,41.013688047371,Normal value
+KEN,Kenya,2011,_T,Total emissions excluding LULUCF,42.92899819139,Normal value
+KEN,Kenya,2012,_T,Total emissions excluding LULUCF,47.797605956217,Normal value
+KEN,Kenya,2013,_T,Total emissions excluding LULUCF,51.795150125489,Normal value
+KEN,Kenya,2014,_T,Total emissions excluding LULUCF,52.85817680097201,Normal value
+KEN,Kenya,2015,_T,Total emissions excluding LULUCF,55.780118626785,Normal value
+KEN,Kenya,2016,_T,Total emissions excluding LULUCF,60.452538318661,Normal value
+KEN,Kenya,2017,_T,Total emissions excluding LULUCF,59.0951233244,Normal value
+KEN,Kenya,2018,_T,Total emissions excluding LULUCF,61.420199245582,Normal value
+KOR,Korea,1990,_T,Total emissions excluding LULUCF,310.56551,Normal value
+KOR,Korea,1991,_T,Total emissions excluding LULUCF,341.22626,Normal value
+KOR,Korea,1992,_T,Total emissions excluding LULUCF,368.79941,Normal value
+KOR,Korea,1993,_T,Total emissions excluding LULUCF,403.69261,Normal value
+KOR,Korea,1994,_T,Total emissions excluding LULUCF,432.77212,Normal value
+KOR,Korea,1995,_T,Total emissions excluding LULUCF,464.4422,Normal value
+KOR,Korea,1996,_T,Total emissions excluding LULUCF,501.20944,Normal value
+KOR,Korea,1997,_T,Total emissions excluding LULUCF,526.09371,Normal value
+KOR,Korea,1998,_T,Total emissions excluding LULUCF,459.85343,Normal value
+KOR,Korea,1999,_T,Total emissions excluding LULUCF,500.23777,Normal value
+KOR,Korea,2000,_T,Total emissions excluding LULUCF,533.6288000000001,Normal value
+KOR,Korea,2001,_T,Total emissions excluding LULUCF,550.95972,Normal value
+KOR,Korea,2002,_T,Total emissions excluding LULUCF,570.76233,Normal value
+KOR,Korea,2003,_T,Total emissions excluding LULUCF,584.50048,Normal value
+KOR,Korea,2004,_T,Total emissions excluding LULUCF,595.73188,Normal value
+KOR,Korea,2005,_T,Total emissions excluding LULUCF,597.79497,Normal value
+KOR,Korea,2006,_T,Total emissions excluding LULUCF,606.9727,Normal value
+KOR,Korea,2007,_T,Total emissions excluding LULUCF,613.59649,Normal value
+KOR,Korea,2008,_T,Total emissions excluding LULUCF,629.00449,Normal value
+KOR,Korea,2009,_T,Total emissions excluding LULUCF,632.87118,Normal value
+KOR,Korea,2010,_T,Total emissions excluding LULUCF,689.9566,Normal value
+KOR,Korea,2011,_T,Total emissions excluding LULUCF,720.60562,Normal value
+KOR,Korea,2012,_T,Total emissions excluding LULUCF,719.08111,Normal value
+KOR,Korea,2013,_T,Total emissions excluding LULUCF,727.48176,Normal value
+KOR,Korea,2014,_T,Total emissions excluding LULUCF,722.64946,Normal value
+KOR,Korea,2015,_T,Total emissions excluding LULUCF,725.05311,Normal value
+KOR,Korea,2016,_T,Total emissions excluding LULUCF,735.55969,Normal value
+KOR,Korea,2017,_T,Total emissions excluding LULUCF,756.27039,Normal value
+KOR,Korea,2018,_T,Total emissions excluding LULUCF,780.14033,Normal value
+LBN,Lebanon,2011,_T,Total emissions excluding LULUCF,23.393525452134,Normal value
+LIE,Liechtenstein,1990,_T,Total emissions excluding LULUCF,0.22847094627306003,Normal value
+LIE,Liechtenstein,1991,_T,Total emissions excluding LULUCF,0.23600420488273,Normal value
+LIE,Liechtenstein,1992,_T,Total emissions excluding LULUCF,0.23614759764874,Normal value
+LIE,Liechtenstein,1993,_T,Total emissions excluding LULUCF,0.24321681049335,Normal value
+LIE,Liechtenstein,1994,_T,Total emissions excluding LULUCF,0.22954619563876,Normal value
+LIE,Liechtenstein,1995,_T,Total emissions excluding LULUCF,0.23326010785816,Normal value
+LIE,Liechtenstein,1996,_T,Total emissions excluding LULUCF,0.23554023126374,Normal value
+LIE,Liechtenstein,1997,_T,Total emissions excluding LULUCF,0.24795793188736,Normal value
+LIE,Liechtenstein,1998,_T,Total emissions excluding LULUCF,0.25888649279091996,Normal value
+LIE,Liechtenstein,1999,_T,Total emissions excluding LULUCF,0.25584288898601,Normal value
+LIE,Liechtenstein,2000,_T,Total emissions excluding LULUCF,0.24643180442554,Normal value
+LIE,Liechtenstein,2001,_T,Total emissions excluding LULUCF,0.24607293454955,Normal value
+LIE,Liechtenstein,2002,_T,Total emissions excluding LULUCF,0.25241572619846997,Normal value
+LIE,Liechtenstein,2003,_T,Total emissions excluding LULUCF,0.26252186410466,Normal value
+LIE,Liechtenstein,2004,_T,Total emissions excluding LULUCF,0.26280299685786,Normal value
+LIE,Liechtenstein,2005,_T,Total emissions excluding LULUCF,0.26326170945614,Normal value
+LIE,Liechtenstein,2006,_T,Total emissions excluding LULUCF,0.26688071603104996,Normal value
+LIE,Liechtenstein,2007,_T,Total emissions excluding LULUCF,0.23763987768557002,Normal value
+LIE,Liechtenstein,2008,_T,Total emissions excluding LULUCF,0.25732049448280997,Normal value
+LIE,Liechtenstein,2009,_T,Total emissions excluding LULUCF,0.24251303851451,Normal value
+LIE,Liechtenstein,2010,_T,Total emissions excluding LULUCF,0.22748698067436998,Normal value
+LIE,Liechtenstein,2011,_T,Total emissions excluding LULUCF,0.21467586339041,Normal value
+LIE,Liechtenstein,2012,_T,Total emissions excluding LULUCF,0.22391208964093,Normal value
+LIE,Liechtenstein,2013,_T,Total emissions excluding LULUCF,0.23008021726513,Normal value
+LIE,Liechtenstein,2014,_T,Total emissions excluding LULUCF,0.19901100507421,Normal value
+LIE,Liechtenstein,2015,_T,Total emissions excluding LULUCF,0.19746582548594,Normal value
+LIE,Liechtenstein,2016,_T,Total emissions excluding LULUCF,0.18716381230629,Normal value
+LIE,Liechtenstein,2017,_T,Total emissions excluding LULUCF,0.19293831273475,Normal value
+LIE,Liechtenstein,2018,_T,Total emissions excluding LULUCF,0.18082653371056,Normal value
+LTU,Lithuania,1990,_T,Total emissions excluding LULUCF,47.460164983991994,Normal value
+LTU,Lithuania,1991,_T,Total emissions excluding LULUCF,49.411503807007,Normal value
+LTU,Lithuania,1992,_T,Total emissions excluding LULUCF,30.381075342798997,Normal value
+LTU,Lithuania,1993,_T,Total emissions excluding LULUCF,24.251480558019,Normal value
+LTU,Lithuania,1994,_T,Total emissions excluding LULUCF,22.881218517056,Normal value
+LTU,Lithuania,1995,_T,Total emissions excluding LULUCF,21.856001935336,Normal value
+LTU,Lithuania,1996,_T,Total emissions excluding LULUCF,22.824658179609997,Normal value
+LTU,Lithuania,1997,_T,Total emissions excluding LULUCF,22.380520470533,Normal value
+LTU,Lithuania,1998,_T,Total emissions excluding LULUCF,23.285580150455,Normal value
+LTU,Lithuania,1999,_T,Total emissions excluding LULUCF,20.465230772494,Normal value
+LTU,Lithuania,2000,_T,Total emissions excluding LULUCF,18.873540297909,Normal value
+LTU,Lithuania,2001,_T,Total emissions excluding LULUCF,19.663260698383,Normal value
+LTU,Lithuania,2002,_T,Total emissions excluding LULUCF,20.022920703965998,Normal value
+LTU,Lithuania,2003,_T,Total emissions excluding LULUCF,20.220353966541,Normal value
+LTU,Lithuania,2004,_T,Total emissions excluding LULUCF,21.026456788262,Normal value
+LTU,Lithuania,2005,_T,Total emissions excluding LULUCF,21.887894982756,Normal value
+LTU,Lithuania,2006,_T,Total emissions excluding LULUCF,22.217338342097996,Normal value
+LTU,Lithuania,2007,_T,Total emissions excluding LULUCF,24.169703984765,Normal value
+LTU,Lithuania,2008,_T,Total emissions excluding LULUCF,23.279000876437,Normal value
+LTU,Lithuania,2009,_T,Total emissions excluding LULUCF,19.278559377173,Normal value
+LTU,Lithuania,2010,_T,Total emissions excluding LULUCF,20.212698756885004,Normal value
+LTU,Lithuania,2011,_T,Total emissions excluding LULUCF,20.579731033306004,Normal value
+LTU,Lithuania,2012,_T,Total emissions excluding LULUCF,20.560052649825,Normal value
+LTU,Lithuania,2013,_T,Total emissions excluding LULUCF,19.424370667524,Normal value
+LTU,Lithuania,2014,_T,Total emissions excluding LULUCF,19.318481212197,Normal value
+LTU,Lithuania,2015,_T,Total emissions excluding LULUCF,19.622474300107996,Normal value
+LTU,Lithuania,2016,_T,Total emissions excluding LULUCF,19.673380409912,Normal value
+LTU,Lithuania,2017,_T,Total emissions excluding LULUCF,19.796069352391,Normal value
+LTU,Lithuania,2018,_T,Total emissions excluding LULUCF,19.432740150902998,Normal value
+LUX,Luxembourg,1990,_T,Total emissions excluding LULUCF,12.725020850543,Normal value
+LUX,Luxembourg,1991,_T,Total emissions excluding LULUCF,13.350888557772999,Normal value
+LUX,Luxembourg,1992,_T,Total emissions excluding LULUCF,13.113239186053999,Normal value
+LUX,Luxembourg,1993,_T,Total emissions excluding LULUCF,13.271278599485,Normal value
+LUX,Luxembourg,1994,_T,Total emissions excluding LULUCF,12.433253587125,Normal value
+LUX,Luxembourg,1995,_T,Total emissions excluding LULUCF,10.068184149039,Normal value
+LUX,Luxembourg,1996,_T,Total emissions excluding LULUCF,10.128076798894002,Normal value
+LUX,Luxembourg,1997,_T,Total emissions excluding LULUCF,9.484635061554599,Normal value
+LUX,Luxembourg,1998,_T,Total emissions excluding LULUCF,8.586847131831801,Normal value
+LUX,Luxembourg,1999,_T,Total emissions excluding LULUCF,9.0576702803492,Normal value
+LUX,Luxembourg,2000,_T,Total emissions excluding LULUCF,9.639652621307398,Normal value
+LUX,Luxembourg,2001,_T,Total emissions excluding LULUCF,10.149305005140999,Normal value
+LUX,Luxembourg,2002,_T,Total emissions excluding LULUCF,10.926605909551999,Normal value
+LUX,Luxembourg,2003,_T,Total emissions excluding LULUCF,11.383245357114001,Normal value
+LUX,Luxembourg,2004,_T,Total emissions excluding LULUCF,12.756903847214,Normal value
+LUX,Luxembourg,2005,_T,Total emissions excluding LULUCF,13.011342485929001,Normal value
+LUX,Luxembourg,2006,_T,Total emissions excluding LULUCF,12.844867766604,Normal value
+LUX,Luxembourg,2007,_T,Total emissions excluding LULUCF,12.25703207533,Normal value
+LUX,Luxembourg,2008,_T,Total emissions excluding LULUCF,12.144835465296,Normal value
+LUX,Luxembourg,2009,_T,Total emissions excluding LULUCF,11.597572583187,Normal value
+LUX,Luxembourg,2010,_T,Total emissions excluding LULUCF,12.189145382107998,Normal value
+LUX,Luxembourg,2011,_T,Total emissions excluding LULUCF,12.070312318737,Normal value
+LUX,Luxembourg,2012,_T,Total emissions excluding LULUCF,11.833569108866001,Normal value
+LUX,Luxembourg,2013,_T,Total emissions excluding LULUCF,11.317655968046001,Normal value
+LUX,Luxembourg,2014,_T,Total emissions excluding LULUCF,10.828847866641,Normal value
+LUX,Luxembourg,2015,_T,Total emissions excluding LULUCF,10.374833072436001,Normal value
+LUX,Luxembourg,2016,_T,Total emissions excluding LULUCF,10.156140240422001,Normal value
+LUX,Luxembourg,2017,_T,Total emissions excluding LULUCF,10.348119663574,Normal value
+LUX,Luxembourg,2018,_T,Total emissions excluding LULUCF,10.689075534507,Normal value
+LVA,Latvia,1990,_T,Total emissions excluding LULUCF,26.005263870219,Normal value
+LVA,Latvia,1991,_T,Total emissions excluding LULUCF,24.114232700591003,Normal value
+LVA,Latvia,1992,_T,Total emissions excluding LULUCF,19.338042360941998,Normal value
+LVA,Latvia,1993,_T,Total emissions excluding LULUCF,15.889951216238,Normal value
+LVA,Latvia,1994,_T,Total emissions excluding LULUCF,13.929630632610001,Normal value
+LVA,Latvia,1995,_T,Total emissions excluding LULUCF,12.562680954759,Normal value
+LVA,Latvia,1996,_T,Total emissions excluding LULUCF,12.605479316058998,Normal value
+LVA,Latvia,1997,_T,Total emissions excluding LULUCF,12.043762040644,Normal value
+LVA,Latvia,1998,_T,Total emissions excluding LULUCF,11.533581752778,Normal value
+LVA,Latvia,1999,_T,Total emissions excluding LULUCF,10.745253292305,Normal value
+LVA,Latvia,2000,_T,Total emissions excluding LULUCF,10.115827980220999,Normal value
+LVA,Latvia,2001,_T,Total emissions excluding LULUCF,10.696263191219,Normal value
+LVA,Latvia,2002,_T,Total emissions excluding LULUCF,10.652160313871,Normal value
+LVA,Latvia,2003,_T,Total emissions excluding LULUCF,10.831230806441,Normal value
+LVA,Latvia,2004,_T,Total emissions excluding LULUCF,10.7836663391,Normal value
+LVA,Latvia,2005,_T,Total emissions excluding LULUCF,10.956991429127001,Normal value
+LVA,Latvia,2006,_T,Total emissions excluding LULUCF,11.407091725262,Normal value
+LVA,Latvia,2007,_T,Total emissions excluding LULUCF,11.808410669301999,Normal value
+LVA,Latvia,2008,_T,Total emissions excluding LULUCF,11.292765327802,Normal value
+LVA,Latvia,2009,_T,Total emissions excluding LULUCF,10.609564100527,Normal value
+LVA,Latvia,2010,_T,Total emissions excluding LULUCF,11.679872792412,Normal value
+LVA,Latvia,2011,_T,Total emissions excluding LULUCF,10.943662918728,Normal value
+LVA,Latvia,2012,_T,Total emissions excluding LULUCF,10.758326938278001,Normal value
+LVA,Latvia,2013,_T,Total emissions excluding LULUCF,10.668539690083001,Normal value
+LVA,Latvia,2014,_T,Total emissions excluding LULUCF,10.579676420416002,Normal value
+LVA,Latvia,2015,_T,Total emissions excluding LULUCF,10.654814697328,Normal value
+LVA,Latvia,2016,_T,Total emissions excluding LULUCF,10.625966858593,Normal value
+LVA,Latvia,2017,_T,Total emissions excluding LULUCF,10.645786630452,Normal value
+LVA,Latvia,2018,_T,Total emissions excluding LULUCF,11.110332970351001,Normal value
+MAR,Morocco,2010,_T,Total emissions excluding LULUCF,75.12188730043,Normal value
+MAR,Morocco,2012,_T,Total emissions excluding LULUCF,82.35328412783,Normal value
+MAR,Morocco,2014,_T,Total emissions excluding LULUCF,84.130188292836,Normal value
+MAR,Morocco,2016,_T,Total emissions excluding LULUCF,86.625302223766,Normal value
+MAR,Morocco,2018,_T,Total emissions excluding LULUCF,92.690315359143,Normal value
+MCO,Monaco,1990,_T,Total emissions excluding LULUCF,0.10151222571031,Normal value
+MCO,Monaco,1991,_T,Total emissions excluding LULUCF,0.10241461866448,Normal value
+MCO,Monaco,1992,_T,Total emissions excluding LULUCF,0.10798345591509,Normal value
+MCO,Monaco,1993,_T,Total emissions excluding LULUCF,0.10691161873244001,Normal value
+MCO,Monaco,1994,_T,Total emissions excluding LULUCF,0.10752069886886999,Normal value
+MCO,Monaco,1995,_T,Total emissions excluding LULUCF,0.10417335314100999,Normal value
+MCO,Monaco,1996,_T,Total emissions excluding LULUCF,0.10784464844844,Normal value
+MCO,Monaco,1997,_T,Total emissions excluding LULUCF,0.10622377227432,Normal value
+MCO,Monaco,1998,_T,Total emissions excluding LULUCF,0.10532693982651001,Normal value
+MCO,Monaco,1999,_T,Total emissions excluding LULUCF,0.10641780685112001,Normal value
+MCO,Monaco,2000,_T,Total emissions excluding LULUCF,0.10463949242248999,Normal value
+MCO,Monaco,2001,_T,Total emissions excluding LULUCF,0.10492808405541999,Normal value
+MCO,Monaco,2002,_T,Total emissions excluding LULUCF,0.10524643923613,Normal value
+MCO,Monaco,2003,_T,Total emissions excluding LULUCF,0.10230632740704,Normal value
+MCO,Monaco,2004,_T,Total emissions excluding LULUCF,0.09720774110577299,Normal value
+MCO,Monaco,2005,_T,Total emissions excluding LULUCF,0.09602751224848301,Normal value
+MCO,Monaco,2006,_T,Total emissions excluding LULUCF,0.09165654180653801,Normal value
+MCO,Monaco,2007,_T,Total emissions excluding LULUCF,0.091270869699964,Normal value
+MCO,Monaco,2008,_T,Total emissions excluding LULUCF,0.091899407825189,Normal value
+MCO,Monaco,2009,_T,Total emissions excluding LULUCF,0.088048400328962,Normal value
+MCO,Monaco,2010,_T,Total emissions excluding LULUCF,0.08574058452521299,Normal value
+MCO,Monaco,2011,_T,Total emissions excluding LULUCF,0.084503912869968,Normal value
+MCO,Monaco,2012,_T,Total emissions excluding LULUCF,0.087853110046606,Normal value
+MCO,Monaco,2013,_T,Total emissions excluding LULUCF,0.09024636888929,Normal value
+MCO,Monaco,2014,_T,Total emissions excluding LULUCF,0.084782799013879,Normal value
+MCO,Monaco,2015,_T,Total emissions excluding LULUCF,0.08805653695381,Normal value
+MCO,Monaco,2016,_T,Total emissions excluding LULUCF,0.086847905868125,Normal value
+MCO,Monaco,2017,_T,Total emissions excluding LULUCF,0.083363193550648,Normal value
+MCO,Monaco,2018,_T,Total emissions excluding LULUCF,0.086291100397738,Normal value
+MDA,Moldova,1990,_T,Total emissions excluding LULUCF,45.48411065871,Normal value
+MDA,Moldova,1991,_T,Total emissions excluding LULUCF,39.213060525811,Normal value
+MDA,Moldova,1992,_T,Total emissions excluding LULUCF,31.437470386138,Normal value
+MDA,Moldova,1993,_T,Total emissions excluding LULUCF,24.698448351314997,Normal value
+MDA,Moldova,1994,_T,Total emissions excluding LULUCF,21.382638748212003,Normal value
+MDA,Moldova,1995,_T,Total emissions excluding LULUCF,17.935019156373002,Normal value
+MDA,Moldova,1996,_T,Total emissions excluding LULUCF,17.586981310459,Normal value
+MDA,Moldova,1997,_T,Total emissions excluding LULUCF,16.042902763417,Normal value
+MDA,Moldova,1998,_T,Total emissions excluding LULUCF,14.388617703228999,Normal value
+MDA,Moldova,1999,_T,Total emissions excluding LULUCF,12.119686722486,Normal value
+MDA,Moldova,2000,_T,Total emissions excluding LULUCF,11.220474030621,Normal value
+MDA,Moldova,2001,_T,Total emissions excluding LULUCF,11.902624166025,Normal value
+MDA,Moldova,2002,_T,Total emissions excluding LULUCF,11.796403480192,Normal value
+MDA,Moldova,2003,_T,Total emissions excluding LULUCF,12.253601662337,Normal value
+MDA,Moldova,2004,_T,Total emissions excluding LULUCF,12.801940168454001,Normal value
+MDA,Moldova,2005,_T,Total emissions excluding LULUCF,13.184394893491,Normal value
+MDA,Moldova,2006,_T,Total emissions excluding LULUCF,12.365396261333,Normal value
+MDA,Moldova,2007,_T,Total emissions excluding LULUCF,12.392210648829,Normal value
+MDA,Moldova,2008,_T,Total emissions excluding LULUCF,12.839993031209,Normal value
+MDA,Moldova,2009,_T,Total emissions excluding LULUCF,12.772904886052,Normal value
+MDA,Moldova,2010,_T,Total emissions excluding LULUCF,13.495904752748,Normal value
+MDA,Moldova,2011,_T,Total emissions excluding LULUCF,13.820076067927001,Normal value
+MDA,Moldova,2012,_T,Total emissions excluding LULUCF,13.404072158911,Normal value
+MDA,Moldova,2013,_T,Total emissions excluding LULUCF,13.064474047526,Normal value
+MDA,Moldova,2014,_T,Total emissions excluding LULUCF,13.265342598319002,Normal value
+MDA,Moldova,2015,_T,Total emissions excluding LULUCF,13.163085206835,Normal value
+MDA,Moldova,2016,_T,Total emissions excluding LULUCF,13.398862748521001,Normal value
+MDA,Moldova,2017,_T,Total emissions excluding LULUCF,13.270842615672,Normal value
+MDA,Moldova,2018,_T,Total emissions excluding LULUCF,13.896339553504,Normal value
+MDV,Maldives,2011,_T,Total emissions excluding LULUCF,1.3286345204268,Normal value
+MDV,Maldives,2012,_T,Total emissions excluding LULUCF,1.3872695380309001,Normal value
+MDV,Maldives,2013,_T,Total emissions excluding LULUCF,1.4808964458585998,Normal value
+MDV,Maldives,2014,_T,Total emissions excluding LULUCF,1.5258041588859002,Normal value
+MDV,Maldives,2015,_T,Total emissions excluding LULUCF,1.546876312912,Normal value
+MDV,Maldives,2016,_T,Total emissions excluding LULUCF,1.6700292961854,Normal value
+MDV,Maldives,2017,_T,Total emissions excluding LULUCF,1.8135328149352,Normal value
+MDV,Maldives,2018,_T,Total emissions excluding LULUCF,1.9856062337673,Normal value
+MEX,Mexico,1990,_T,Total emissions excluding LULUCF,457.1683,Normal value
+MEX,Mexico,1991,_T,Total emissions excluding LULUCF,463.79751,Normal value
+MEX,Mexico,1992,_T,Total emissions excluding LULUCF,467.74283,Normal value
+MEX,Mexico,1993,_T,Total emissions excluding LULUCF,474.49918,Normal value
+MEX,Mexico,1994,_T,Total emissions excluding LULUCF,500.14053,Normal value
+MEX,Mexico,1995,_T,Total emissions excluding LULUCF,489.01861,Normal value
+MEX,Mexico,1996,_T,Total emissions excluding LULUCF,510.93733,Normal value
+MEX,Mexico,1997,_T,Total emissions excluding LULUCF,543.06611,Normal value
+MEX,Mexico,1998,_T,Total emissions excluding LULUCF,567.26383,Normal value
+MEX,Mexico,1999,_T,Total emissions excluding LULUCF,561.56503,Normal value
+MEX,Mexico,2000,_T,Total emissions excluding LULUCF,581.25339,Normal value
+MEX,Mexico,2001,_T,Total emissions excluding LULUCF,578.8626,Normal value
+MEX,Mexico,2002,_T,Total emissions excluding LULUCF,583.33761,Normal value
+MEX,Mexico,2003,_T,Total emissions excluding LULUCF,600.63833,Normal value
+MEX,Mexico,2004,_T,Total emissions excluding LULUCF,620.07203,Normal value
+MEX,Mexico,2005,_T,Total emissions excluding LULUCF,630.51597,Normal value
+MEX,Mexico,2006,_T,Total emissions excluding LULUCF,649.10175,Normal value
+MEX,Mexico,2007,_T,Total emissions excluding LULUCF,682.19979,Normal value
+MEX,Mexico,2008,_T,Total emissions excluding LULUCF,731.4291,Normal value
+MEX,Mexico,2009,_T,Total emissions excluding LULUCF,718.1676,Normal value
+MEX,Mexico,2010,_T,Total emissions excluding LULUCF,717.03745,Normal value
+MEX,Mexico,2011,_T,Total emissions excluding LULUCF,732.70598,Normal value
+MEX,Mexico,2012,_T,Total emissions excluding LULUCF,721.65566,Normal value
+MEX,Mexico,2013,_T,Total emissions excluding LULUCF,728.44293,Normal value
+MEX,Mexico,2014,_T,Total emissions excluding LULUCF,735.6279,Normal value
+MEX,Mexico,2015,_T,Total emissions excluding LULUCF,745.49345,Normal value
+MEX,Mexico,2016,_T,Total emissions excluding LULUCF,787.16864,Normal value
+MEX,Mexico,2017,_T,Total emissions excluding LULUCF,757.97581,Normal value
+MEX,Mexico,2018,_T,Total emissions excluding LULUCF,756.81284,Normal value
+MLT,Malta,1990,_T,Total emissions excluding LULUCF,2.6246849193790003,Normal value
+MLT,Malta,1991,_T,Total emissions excluding LULUCF,2.4789961600026,Normal value
+MLT,Malta,1992,_T,Total emissions excluding LULUCF,2.5114739554656,Normal value
+MLT,Malta,1993,_T,Total emissions excluding LULUCF,3.1140113776189002,Normal value
+MLT,Malta,1994,_T,Total emissions excluding LULUCF,2.8921897916040002,Normal value
+MLT,Malta,1995,_T,Total emissions excluding LULUCF,2.6894237564114003,Normal value
+MLT,Malta,1996,_T,Total emissions excluding LULUCF,2.7801237114783,Normal value
+MLT,Malta,1997,_T,Total emissions excluding LULUCF,2.8116318000227003,Normal value
+MLT,Malta,1998,_T,Total emissions excluding LULUCF,2.7858954204561,Normal value
+MLT,Malta,1999,_T,Total emissions excluding LULUCF,2.8430048014889997,Normal value
+MLT,Malta,2000,_T,Total emissions excluding LULUCF,2.747314155663,Normal value
+MLT,Malta,2001,_T,Total emissions excluding LULUCF,3.0237522598297,Normal value
+MLT,Malta,2002,_T,Total emissions excluding LULUCF,3.0444503664235,Normal value
+MLT,Malta,2003,_T,Total emissions excluding LULUCF,3.2676375695584,Normal value
+MLT,Malta,2004,_T,Total emissions excluding LULUCF,3.1740473052124,Normal value
+MLT,Malta,2005,_T,Total emissions excluding LULUCF,2.9874158604181,Normal value
+MLT,Malta,2006,_T,Total emissions excluding LULUCF,3.0335064142586003,Normal value
+MLT,Malta,2007,_T,Total emissions excluding LULUCF,3.1246013636242003,Normal value
+MLT,Malta,2008,_T,Total emissions excluding LULUCF,3.0367491597821,Normal value
+MLT,Malta,2009,_T,Total emissions excluding LULUCF,2.9032437606312,Normal value
+MLT,Malta,2010,_T,Total emissions excluding LULUCF,2.9593284066952,Normal value
+MLT,Malta,2011,_T,Total emissions excluding LULUCF,2.9644186647457,Normal value
+MLT,Malta,2012,_T,Total emissions excluding LULUCF,3.1349033988387998,Normal value
+MLT,Malta,2013,_T,Total emissions excluding LULUCF,2.8258274782129,Normal value
+MLT,Malta,2014,_T,Total emissions excluding LULUCF,2.8358719907777,Normal value
+MLT,Malta,2015,_T,Total emissions excluding LULUCF,2.1355797707400996,Normal value
+MLT,Malta,2016,_T,Total emissions excluding LULUCF,1.8397447912258,Normal value
+MLT,Malta,2017,_T,Total emissions excluding LULUCF,2.0041267086308,Normal value
+MLT,Malta,2018,_T,Total emissions excluding LULUCF,2.008400437083,Normal value
+MUS,Mauritius,2000,_T,Total emissions excluding LULUCF,3.135487606504,Normal value
+MUS,Mauritius,2001,_T,Total emissions excluding LULUCF,3.2716068888478,Normal value
+MUS,Mauritius,2002,_T,Total emissions excluding LULUCF,3.3395436827113,Normal value
+MUS,Mauritius,2003,_T,Total emissions excluding LULUCF,3.5128430304691,Normal value
+MUS,Mauritius,2004,_T,Total emissions excluding LULUCF,3.5761863835412,Normal value
+MUS,Mauritius,2005,_T,Total emissions excluding LULUCF,3.8068626850148997,Normal value
+MUS,Mauritius,2006,_T,Total emissions excluding LULUCF,4.1837627236673995,Normal value
+MUS,Mauritius,2007,_T,Total emissions excluding LULUCF,4.3626701904464005,Normal value
+MUS,Mauritius,2008,_T,Total emissions excluding LULUCF,4.498117110604,Normal value
+MUS,Mauritius,2009,_T,Total emissions excluding LULUCF,4.4165732692142,Normal value
+MUS,Mauritius,2010,_T,Total emissions excluding LULUCF,3.1644058660948,Normal value
+MUS,Mauritius,2011,_T,Total emissions excluding LULUCF,4.8099593601604,Normal value
+MUS,Mauritius,2012,_T,Total emissions excluding LULUCF,4.9259599542682,Normal value
+MUS,Mauritius,2013,_T,Total emissions excluding LULUCF,5.111141584051,Normal value
+MUS,Mauritius,2014,_T,Total emissions excluding LULUCF,5.187602203066599,Normal value
+MUS,Mauritius,2015,_T,Total emissions excluding LULUCF,5.2304309492251,Normal value
+MUS,Mauritius,2016,_T,Total emissions excluding LULUCF,5.3670610444799,Normal value
+MUS,Mauritius,2017,_T,Total emissions excluding LULUCF,5.7249988216519,Normal value
+MUS,Mauritius,2018,_T,Total emissions excluding LULUCF,5.7717692238186995,Normal value
+MYS,Malaysia,1990,_T,Total emissions excluding LULUCF,91.72058542097899,Normal value
+MYS,Malaysia,1991,_T,Total emissions excluding LULUCF,103.09497533412,Normal value
+MYS,Malaysia,1992,_T,Total emissions excluding LULUCF,109.71056951156999,Normal value
+MYS,Malaysia,1993,_T,Total emissions excluding LULUCF,114.29187666775,Normal value
+MYS,Malaysia,1994,_T,Total emissions excluding LULUCF,122.57899758761,Normal value
+MYS,Malaysia,1995,_T,Total emissions excluding LULUCF,127.47173004109001,Normal value
+MYS,Malaysia,1996,_T,Total emissions excluding LULUCF,146.46399377823002,Normal value
+MYS,Malaysia,1997,_T,Total emissions excluding LULUCF,168.43491569852,Normal value
+MYS,Malaysia,1998,_T,Total emissions excluding LULUCF,157.15864850522,Normal value
+MYS,Malaysia,1999,_T,Total emissions excluding LULUCF,173.13320325663997,Normal value
+MYS,Malaysia,2000,_T,Total emissions excluding LULUCF,189.19481996886,Normal value
+MYS,Malaysia,2001,_T,Total emissions excluding LULUCF,195.84066758686,Normal value
+MYS,Malaysia,2002,_T,Total emissions excluding LULUCF,204.53135909506997,Normal value
+MYS,Malaysia,2003,_T,Total emissions excluding LULUCF,220.45183384492,Normal value
+MYS,Malaysia,2004,_T,Total emissions excluding LULUCF,238.39002780382,Normal value
+MYS,Malaysia,2005,_T,Total emissions excluding LULUCF,255.63477350549002,Normal value
+MYS,Malaysia,2006,_T,Total emissions excluding LULUCF,254.81364922672998,Normal value
+MYS,Malaysia,2007,_T,Total emissions excluding LULUCF,270.76754161591,Normal value
+MYS,Malaysia,2008,_T,Total emissions excluding LULUCF,281.35510159143996,Normal value
+MYS,Malaysia,2009,_T,Total emissions excluding LULUCF,270.42859872554,Normal value
+MYS,Malaysia,2010,_T,Total emissions excluding LULUCF,286.11218927721,Normal value
+MYS,Malaysia,2011,_T,Total emissions excluding LULUCF,285.83488769085,Normal value
+MYS,Malaysia,2012,_T,Total emissions excluding LULUCF,304.4213003699,Normal value
+MYS,Malaysia,2013,_T,Total emissions excluding LULUCF,309.61663827633,Normal value
+MYS,Malaysia,2014,_T,Total emissions excluding LULUCF,314.20009939134997,Normal value
+MYS,Malaysia,2015,_T,Total emissions excluding LULUCF,317.74364377516,Normal value
+MYS,Malaysia,2016,_T,Total emissions excluding LULUCF,318.17407752824,Normal value
+MYS,Malaysia,2017,_T,Total emissions excluding LULUCF,317.34525693296,Normal value
+MYS,Malaysia,2018,_T,Total emissions excluding LULUCF,322.32308180544,Normal value
+NAM,Namibia,1990,_T,Total emissions excluding LULUCF,6.793650550869399,Normal value
+NAM,Namibia,1991,_T,Total emissions excluding LULUCF,7.1669317545741995,Normal value
+NAM,Namibia,1992,_T,Total emissions excluding LULUCF,7.1000615159585,Normal value
+NAM,Namibia,1993,_T,Total emissions excluding LULUCF,6.8402182308687,Normal value
+NAM,Namibia,1994,_T,Total emissions excluding LULUCF,6.9249572785329,Normal value
+NAM,Namibia,1995,_T,Total emissions excluding LULUCF,7.027435412879501,Normal value
+NAM,Namibia,1996,_T,Total emissions excluding LULUCF,6.9076151956252,Normal value
+NAM,Namibia,1997,_T,Total emissions excluding LULUCF,7.189159595364901,Normal value
+NAM,Namibia,1998,_T,Total emissions excluding LULUCF,7.5103326953058005,Normal value
+NAM,Namibia,1999,_T,Total emissions excluding LULUCF,7.8445576797034,Normal value
+NAM,Namibia,2000,_T,Total emissions excluding LULUCF,8.4065925271002,Normal value
+NAM,Namibia,2001,_T,Total emissions excluding LULUCF,8.616972278386399,Normal value
+NAM,Namibia,2002,_T,Total emissions excluding LULUCF,8.452639751393301,Normal value
+NAM,Namibia,2003,_T,Total emissions excluding LULUCF,8.9056640354567,Normal value
+NAM,Namibia,2004,_T,Total emissions excluding LULUCF,8.8796277903731,Normal value
+NAM,Namibia,2005,_T,Total emissions excluding LULUCF,8.745585884160901,Normal value
+NAM,Namibia,2006,_T,Total emissions excluding LULUCF,9.175514166199099,Normal value
+NAM,Namibia,2007,_T,Total emissions excluding LULUCF,9.1821576527762,Normal value
+NAM,Namibia,2008,_T,Total emissions excluding LULUCF,9.2295235535317,Normal value
+NAM,Namibia,2009,_T,Total emissions excluding LULUCF,9.2805288760699,Normal value
+NAM,Namibia,2010,_T,Total emissions excluding LULUCF,9.008877002456,Normal value
+NAM,Namibia,2011,_T,Total emissions excluding LULUCF,10.071453404547,Normal value
+NAM,Namibia,2012,_T,Total emissions excluding LULUCF,10.827569617054,Normal value
+NAM,Namibia,2013,_T,Total emissions excluding LULUCF,10.024575728068001,Normal value
+NAM,Namibia,2014,_T,Total emissions excluding LULUCF,10.985349770544,Normal value
+NAM,Namibia,2015,_T,Total emissions excluding LULUCF,11.273793962189,Normal value
+NAM,Namibia,2016,_T,Total emissions excluding LULUCF,12.213596678459,Normal value
+NAM,Namibia,2017,_T,Total emissions excluding LULUCF,10.973873441039002,Normal value
+NAM,Namibia,2018,_T,Total emissions excluding LULUCF,10.821504715491,Normal value
+NGA,Nigeria,2000,_T,Total emissions excluding LULUCF,159.82427669457002,Normal value
+NGA,Nigeria,2001,_T,Total emissions excluding LULUCF,169.40333456359,Normal value
+NGA,Nigeria,2002,_T,Total emissions excluding LULUCF,175.33612932615,Normal value
+NGA,Nigeria,2003,_T,Total emissions excluding LULUCF,186.38668323686,Normal value
+NGA,Nigeria,2004,_T,Total emissions excluding LULUCF,190.84579133672,Normal value
+NGA,Nigeria,2005,_T,Total emissions excluding LULUCF,196.26098410577004,Normal value
+NGA,Nigeria,2006,_T,Total emissions excluding LULUCF,197.48561341168002,Normal value
+NGA,Nigeria,2007,_T,Total emissions excluding LULUCF,201.4984591728,Normal value
+NGA,Nigeria,2008,_T,Total emissions excluding LULUCF,211.58498578464003,Normal value
+NGA,Nigeria,2009,_T,Total emissions excluding LULUCF,200.27598871713002,Normal value
+NGA,Nigeria,2010,_T,Total emissions excluding LULUCF,224.2693434749,Normal value
+NGA,Nigeria,2011,_T,Total emissions excluding LULUCF,238.27230974395002,Normal value
+NGA,Nigeria,2012,_T,Total emissions excluding LULUCF,252.72891893878,Normal value
+NGA,Nigeria,2013,_T,Total emissions excluding LULUCF,274.5017199281,Normal value
+NGA,Nigeria,2014,_T,Total emissions excluding LULUCF,290.74161961390996,Normal value
+NGA,Nigeria,2015,_T,Total emissions excluding LULUCF,290.73900466764,Normal value
+NGA,Nigeria,2016,_T,Total emissions excluding LULUCF,297.76897893841,Normal value
+NGA,Nigeria,2017,_T,Total emissions excluding LULUCF,299.81939845210997,Normal value
+NGA,Nigeria,2018,_T,Total emissions excluding LULUCF,310.03027995773,Normal value
+NLD,Netherlands,1990,_T,Total emissions excluding LULUCF,221.86229227654002,Normal value
+NLD,Netherlands,1991,_T,Total emissions excluding LULUCF,229.79101523334,Normal value
+NLD,Netherlands,1992,_T,Total emissions excluding LULUCF,230.22592152604003,Normal value
+NLD,Netherlands,1993,_T,Total emissions excluding LULUCF,230.5167670938,Normal value
+NLD,Netherlands,1994,_T,Total emissions excluding LULUCF,231.19921240504,Normal value
+NLD,Netherlands,1995,_T,Total emissions excluding LULUCF,231.2825131819,Normal value
+NLD,Netherlands,1996,_T,Total emissions excluding LULUCF,241.65204678934998,Normal value
+NLD,Netherlands,1997,_T,Total emissions excluding LULUCF,233.23628904965,Normal value
+NLD,Netherlands,1998,_T,Total emissions excluding LULUCF,233.42913955990002,Normal value
+NLD,Netherlands,1999,_T,Total emissions excluding LULUCF,220.93381582975,Normal value
+NLD,Netherlands,2000,_T,Total emissions excluding LULUCF,219.33030237287997,Normal value
+NLD,Netherlands,2001,_T,Total emissions excluding LULUCF,220.45881918327999,Normal value
+NLD,Netherlands,2002,_T,Total emissions excluding LULUCF,218.20242624112998,Normal value
+NLD,Netherlands,2003,_T,Total emissions excluding LULUCF,218.94641933863,Normal value
+NLD,Netherlands,2004,_T,Total emissions excluding LULUCF,220.45404976741,Normal value
+NLD,Netherlands,2005,_T,Total emissions excluding LULUCF,214.69430078558,Normal value
+NLD,Netherlands,2006,_T,Total emissions excluding LULUCF,209.61157051869,Normal value
+NLD,Netherlands,2007,_T,Total emissions excluding LULUCF,208.22612271706998,Normal value
+NLD,Netherlands,2008,_T,Total emissions excluding LULUCF,208.13535225036,Normal value
+NLD,Netherlands,2009,_T,Total emissions excluding LULUCF,202.55725962556,Normal value
+NLD,Netherlands,2010,_T,Total emissions excluding LULUCF,214.54273107527004,Normal value
+NLD,Netherlands,2011,_T,Total emissions excluding LULUCF,200.37655836906998,Normal value
+NLD,Netherlands,2012,_T,Total emissions excluding LULUCF,196.11438485413,Normal value
+NLD,Netherlands,2013,_T,Total emissions excluding LULUCF,195.75167219436,Normal value
+NLD,Netherlands,2014,_T,Total emissions excluding LULUCF,187.54959308549,Normal value
+NLD,Netherlands,2015,_T,Total emissions excluding LULUCF,194.27820896371,Normal value
+NLD,Netherlands,2016,_T,Total emissions excluding LULUCF,194.81811381678997,Normal value
+NLD,Netherlands,2017,_T,Total emissions excluding LULUCF,192.1264325373,Normal value
+NLD,Netherlands,2018,_T,Total emissions excluding LULUCF,186.98067781741997,Normal value
+NOR,Norway,1990,_T,Total emissions excluding LULUCF,50.635013765922,Normal value
+NOR,Norway,1991,_T,Total emissions excluding LULUCF,48.244547305463996,Normal value
+NOR,Norway,1992,_T,Total emissions excluding LULUCF,46.605952137394006,Normal value
+NOR,Norway,1993,_T,Total emissions excluding LULUCF,48.477089493828004,Normal value
+NOR,Norway,1994,_T,Total emissions excluding LULUCF,50.36978191447899,Normal value
+NOR,Norway,1995,_T,Total emissions excluding LULUCF,50.72412878235,Normal value
+NOR,Norway,1996,_T,Total emissions excluding LULUCF,53.606284137821994,Normal value
+NOR,Norway,1997,_T,Total emissions excluding LULUCF,53.58116621342099,Normal value
+NOR,Norway,1998,_T,Total emissions excluding LULUCF,53.655566349427,Normal value
+NOR,Norway,1999,_T,Total emissions excluding LULUCF,54.627756188537,Normal value
+NOR,Norway,2000,_T,Total emissions excluding LULUCF,53.959360474459,Normal value
+NOR,Norway,2001,_T,Total emissions excluding LULUCF,55.162713159782,Normal value
+NOR,Norway,2002,_T,Total emissions excluding LULUCF,54.001238292028994,Normal value
+NOR,Norway,2003,_T,Total emissions excluding LULUCF,54.760326869371,Normal value
+NOR,Norway,2004,_T,Total emissions excluding LULUCF,55.237529586258,Normal value
+NOR,Norway,2005,_T,Total emissions excluding LULUCF,54.254696851027994,Normal value
+NOR,Norway,2006,_T,Total emissions excluding LULUCF,54.323944931298,Normal value
+NOR,Norway,2007,_T,Total emissions excluding LULUCF,56.020891522477,Normal value
+NOR,Norway,2008,_T,Total emissions excluding LULUCF,54.59066535302,Normal value
+NOR,Norway,2009,_T,Total emissions excluding LULUCF,52.138836128178,Normal value
+NOR,Norway,2010,_T,Total emissions excluding LULUCF,54.46405130592599,Normal value
+NOR,Norway,2011,_T,Total emissions excluding LULUCF,53.483083350189,Normal value
+NOR,Norway,2012,_T,Total emissions excluding LULUCF,52.900870972741004,Normal value
+NOR,Norway,2013,_T,Total emissions excluding LULUCF,53.105210026829006,Normal value
+NOR,Norway,2014,_T,Total emissions excluding LULUCF,53.462964104182994,Normal value
+NOR,Norway,2015,_T,Total emissions excluding LULUCF,54.012479317771,Normal value
+NOR,Norway,2016,_T,Total emissions excluding LULUCF,53.137103336477,Normal value
+NOR,Norway,2017,_T,Total emissions excluding LULUCF,52.423747954214,Normal value
+NOR,Norway,2018,_T,Total emissions excluding LULUCF,52.594996906843996,Normal value
+NPL,Nepal,1994,_T,Total emissions excluding LULUCF,27.305462394451997,Normal value
+NPL,Nepal,1995,_T,Total emissions excluding LULUCF,28.139601667833002,Normal value
+NPL,Nepal,1996,_T,Total emissions excluding LULUCF,28.019272672744,Normal value
+NPL,Nepal,1997,_T,Total emissions excluding LULUCF,28.686430523449,Normal value
+NPL,Nepal,1998,_T,Total emissions excluding LULUCF,29.270915686353003,Normal value
+NPL,Nepal,1999,_T,Total emissions excluding LULUCF,29.814129244247,Normal value
+NPL,Nepal,2000,_T,Total emissions excluding LULUCF,31.055918003349003,Normal value
+NPL,Nepal,2001,_T,Total emissions excluding LULUCF,31.348757732030002,Normal value
+NPL,Nepal,2002,_T,Total emissions excluding LULUCF,31.802993262869002,Normal value
+NPL,Nepal,2003,_T,Total emissions excluding LULUCF,32.398566284376,Normal value
+NPL,Nepal,2004,_T,Total emissions excluding LULUCF,32.96515362355,Normal value
+NPL,Nepal,2005,_T,Total emissions excluding LULUCF,33.467204498823,Normal value
+NPL,Nepal,2006,_T,Total emissions excluding LULUCF,34.377560637325,Normal value
+NPL,Nepal,2007,_T,Total emissions excluding LULUCF,34.503451590856,Normal value
+NPL,Nepal,2008,_T,Total emissions excluding LULUCF,35.242701252778,Normal value
+NPL,Nepal,2009,_T,Total emissions excluding LULUCF,36.34137906408,Normal value
+NPL,Nepal,2010,_T,Total emissions excluding LULUCF,37.406511886544,Normal value
+NPL,Nepal,2011,_T,Total emissions excluding LULUCF,38.611192710999,Normal value
+NPL,Nepal,2012,_T,Total emissions excluding LULUCF,37.743116171080004,Normal value
+NPL,Nepal,2013,_T,Total emissions excluding LULUCF,39.755237226935,Normal value
+NPL,Nepal,2014,_T,Total emissions excluding LULUCF,41.419772591862,Normal value
+NPL,Nepal,2015,_T,Total emissions excluding LULUCF,42.820700771217005,Normal value
+NPL,Nepal,2016,_T,Total emissions excluding LULUCF,43.17834300510199,Normal value
+NPL,Nepal,2017,_T,Total emissions excluding LULUCF,46.788863176181,Normal value
+NPL,Nepal,2018,_T,Total emissions excluding LULUCF,49.450144146443,Normal value
+NZL,New Zealand,1990,_T,Total emissions excluding LULUCF,67.565223181159,Normal value
+NZL,New Zealand,1991,_T,Total emissions excluding LULUCF,68.63932480825201,Normal value
+NZL,New Zealand,1992,_T,Total emissions excluding LULUCF,69.79156302636599,Normal value
+NZL,New Zealand,1993,_T,Total emissions excluding LULUCF,69.490707124486,Normal value
+NZL,New Zealand,1994,_T,Total emissions excluding LULUCF,71.22432743940901,Normal value
+NZL,New Zealand,1995,_T,Total emissions excluding LULUCF,71.790681230106,Normal value
+NZL,New Zealand,1996,_T,Total emissions excluding LULUCF,74.31505850809701,Normal value
+NZL,New Zealand,1997,_T,Total emissions excluding LULUCF,76.965542008496,Normal value
+NZL,New Zealand,1998,_T,Total emissions excluding LULUCF,74.65536562170101,Normal value
+NZL,New Zealand,1999,_T,Total emissions excluding LULUCF,76.23592100659799,Normal value
+NZL,New Zealand,2000,_T,Total emissions excluding LULUCF,78.29063542492901,Normal value
+NZL,New Zealand,2001,_T,Total emissions excluding LULUCF,81.052104792235,Normal value
+NZL,New Zealand,2002,_T,Total emissions excluding LULUCF,81.11507050053801,Normal value
+NZL,New Zealand,2003,_T,Total emissions excluding LULUCF,83.44791038810199,Normal value
+NZL,New Zealand,2004,_T,Total emissions excluding LULUCF,83.46174766089601,Normal value
+NZL,New Zealand,2005,_T,Total emissions excluding LULUCF,85.36426289350901,Normal value
+NZL,New Zealand,2006,_T,Total emissions excluding LULUCF,85.60935583040099,Normal value
+NZL,New Zealand,2007,_T,Total emissions excluding LULUCF,83.25931536376198,Normal value
+NZL,New Zealand,2008,_T,Total emissions excluding LULUCF,83.275978842856,Normal value
+NZL,New Zealand,2009,_T,Total emissions excluding LULUCF,80.451468407978,Normal value
+NZL,New Zealand,2010,_T,Total emissions excluding LULUCF,81.11243741661299,Normal value
+NZL,New Zealand,2011,_T,Total emissions excluding LULUCF,80.87710608533199,Normal value
+NZL,New Zealand,2012,_T,Total emissions excluding LULUCF,83.226433361598,Normal value
+NZL,New Zealand,2013,_T,Total emissions excluding LULUCF,82.35596327274801,Normal value
+NZL,New Zealand,2014,_T,Total emissions excluding LULUCF,82.985157477318,Normal value
+NZL,New Zealand,2015,_T,Total emissions excluding LULUCF,83.007962276281,Normal value
+NZL,New Zealand,2016,_T,Total emissions excluding LULUCF,80.82044570675701,Normal value
+NZL,New Zealand,2017,_T,Total emissions excluding LULUCF,82.30169390716199,Normal value
+NZL,New Zealand,2018,_T,Total emissions excluding LULUCF,82.56321209231,Normal value
+OECD,OECD,1990,_T,Total emissions excluding LULUCF,15489.377,Estimated value
+OECD,OECD,1991,_T,Total emissions excluding LULUCF,15456.657,Estimated value
+OECD,OECD,1992,_T,Total emissions excluding LULUCF,15490.371,Estimated value
+OECD,OECD,1993,_T,Total emissions excluding LULUCF,15567.594,Estimated value
+OECD,OECD,1994,_T,Total emissions excluding LULUCF,15773.608,Estimated value
+OECD,OECD,1995,_T,Total emissions excluding LULUCF,15980.887,Estimated value
+OECD,OECD,1996,_T,Total emissions excluding LULUCF,16415.485,Estimated value
+OECD,OECD,1997,_T,Total emissions excluding LULUCF,16486.195,Estimated value
+OECD,OECD,1998,_T,Total emissions excluding LULUCF,16474.004,Estimated value
+OECD,OECD,1999,_T,Total emissions excluding LULUCF,16508.499,Estimated value
+OECD,OECD,2000,_T,Total emissions excluding LULUCF,16845.554,Estimated value
+OECD,OECD,2001,_T,Total emissions excluding LULUCF,16731.84,Estimated value
+OECD,OECD,2002,_T,Total emissions excluding LULUCF,16806.234,Estimated value
+OECD,OECD,2003,_T,Total emissions excluding LULUCF,17022.952,Estimated value
+OECD,OECD,2004,_T,Total emissions excluding LULUCF,17187.084,Estimated value
+OECD,OECD,2005,_T,Total emissions excluding LULUCF,17210.012,Estimated value
+OECD,OECD,2006,_T,Total emissions excluding LULUCF,17176.802,Estimated value
+OECD,OECD,2007,_T,Total emissions excluding LULUCF,17355.332,Estimated value
+OECD,OECD,2008,_T,Total emissions excluding LULUCF,17019.108,Estimated value
+OECD,OECD,2009,_T,Total emissions excluding LULUCF,16100.23,Estimated value
+OECD,OECD,2010,_T,Total emissions excluding LULUCF,16541.258,Estimated value
+OECD,OECD,2011,_T,Total emissions excluding LULUCF,16357.958,Estimated value
+OECD,OECD,2012,_T,Total emissions excluding LULUCF,16134.424,Estimated value
+OECD,OECD,2013,_T,Total emissions excluding LULUCF,16257.351,Estimated value
+OECD,OECD,2014,_T,Total emissions excluding LULUCF,16083.533,Estimated value
+OECD,OECD,2015,_T,Total emissions excluding LULUCF,15944.472,Estimated value
+OECD,OECD,2016,_T,Total emissions excluding LULUCF,15821.074,Estimated value
+OECD,OECD,2017,_T,Total emissions excluding LULUCF,15819.408,Estimated value
+OECD,OECD,2018,_T,Total emissions excluding LULUCF,15926.506,Estimated value
+OECDA,OECD America,1990,_T,Total emissions excluding LULUCF,7759.18,Estimated value
+OECDA,OECD America,1991,_T,Total emissions excluding LULUCF,7697.938,Estimated value
+OECDA,OECD America,1992,_T,Total emissions excluding LULUCF,7831.442,Estimated value
+OECDA,OECD America,1993,_T,Total emissions excluding LULUCF,7958.326,Estimated value
+OECDA,OECD America,1994,_T,Total emissions excluding LULUCF,8106.335,Estimated value
+OECDA,OECD America,1995,_T,Total emissions excluding LULUCF,8199.384,Estimated value
+OECDA,OECD America,1996,_T,Total emissions excluding LULUCF,8443.564,Estimated value
+OECDA,OECD America,1997,_T,Total emissions excluding LULUCF,8557.036,Estimated value
+OECDA,OECD America,1998,_T,Total emissions excluding LULUCF,8659.492,Estimated value
+OECDA,OECD America,1999,_T,Total emissions excluding LULUCF,8701.394,Estimated value
+OECDA,OECD America,2000,_T,Total emissions excluding LULUCF,8950.479,Estimated value
+OECDA,OECD America,2001,_T,Total emissions excluding LULUCF,8806.0,Estimated value
+OECDA,OECD America,2002,_T,Total emissions excluding LULUCF,8862.116,Estimated value
+OECDA,OECD America,2003,_T,Total emissions excluding LULUCF,8960.966,Estimated value
+OECDA,OECD America,2004,_T,Total emissions excluding LULUCF,9094.074,Estimated value
+OECDA,OECD America,2005,_T,Total emissions excluding LULUCF,9108.517,Estimated value
+OECDA,OECD America,2006,_T,Total emissions excluding LULUCF,9065.32,Estimated value
+OECDA,OECD America,2007,_T,Total emissions excluding LULUCF,9229.55,Estimated value
+OECDA,OECD America,2008,_T,Total emissions excluding LULUCF,9059.99,Estimated value
+OECDA,OECD America,2009,_T,Total emissions excluding LULUCF,8544.66,Estimated value
+OECDA,OECD America,2010,_T,Total emissions excluding LULUCF,8766.82,Estimated value
+OECDA,OECD America,2011,_T,Total emissions excluding LULUCF,8644.372,Estimated value
+OECDA,OECD America,2012,_T,Total emissions excluding LULUCF,8395.495,Estimated value
+OECDA,OECD America,2013,_T,Total emissions excluding LULUCF,8598.061,Estimated value
+OECDA,OECD America,2014,_T,Total emissions excluding LULUCF,8662.355,Estimated value
+OECDA,OECD America,2015,_T,Total emissions excluding LULUCF,8509.646,Estimated value
+OECDA,OECD America,2016,_T,Total emissions excluding LULUCF,8385.1,Estimated value
+OECDA,OECD America,2017,_T,Total emissions excluding LULUCF,8336.388,Estimated value
+OECDA,OECD America,2018,_T,Total emissions excluding LULUCF,8559.344,Estimated value
+OECDE,OECD Europe,1990,_T,Total emissions excluding LULUCF,5591.32,Estimated value
+OECDE,OECD Europe,1991,_T,Total emissions excluding LULUCF,5573.659,Estimated value
+OECDE,OECD Europe,1992,_T,Total emissions excluding LULUCF,5430.463,Estimated value
+OECDE,OECD Europe,1993,_T,Total emissions excluding LULUCF,5349.504,Estimated value
+OECDE,OECD Europe,1994,_T,Total emissions excluding LULUCF,5317.815,Estimated value
+OECDE,OECD Europe,1995,_T,Total emissions excluding LULUCF,5370.333,Estimated value
+OECDE,OECD Europe,1996,_T,Total emissions excluding LULUCF,5502.19,Estimated value
+OECDE,OECD Europe,1997,_T,Total emissions excluding LULUCF,5426.567,Estimated value
+OECDE,OECD Europe,1998,_T,Total emissions excluding LULUCF,5411.753,Estimated value
+OECDE,OECD Europe,1999,_T,Total emissions excluding LULUCF,5329.766,Estimated value
+OECDE,OECD Europe,2000,_T,Total emissions excluding LULUCF,5349.206,Estimated value
+OECDE,OECD Europe,2001,_T,Total emissions excluding LULUCF,5376.118,Estimated value
+OECDE,OECD Europe,2002,_T,Total emissions excluding LULUCF,5345.82,Estimated value
+OECDE,OECD Europe,2003,_T,Total emissions excluding LULUCF,5439.311,Estimated value
+OECDE,OECD Europe,2004,_T,Total emissions excluding LULUCF,5452.437,Estimated value
+OECDE,OECD Europe,2005,_T,Total emissions excluding LULUCF,5444.273,Estimated value
+OECDE,OECD Europe,2006,_T,Total emissions excluding LULUCF,5460.643,Estimated value
+OECDE,OECD Europe,2007,_T,Total emissions excluding LULUCF,5425.443,Estimated value
+OECDE,OECD Europe,2008,_T,Total emissions excluding LULUCF,5312.143,Estimated value
+OECDE,OECD Europe,2009,_T,Total emissions excluding LULUCF,4981.292,Estimated value
+OECDE,OECD Europe,2010,_T,Total emissions excluding LULUCF,5092.493,Estimated value
+OECDE,OECD Europe,2011,_T,Total emissions excluding LULUCF,4946.968,Estimated value
+OECDE,OECD Europe,2012,_T,Total emissions excluding LULUCF,4922.848,Estimated value
+OECDE,OECD Europe,2013,_T,Total emissions excluding LULUCF,4837.483,Estimated value
+OECDE,OECD Europe,2014,_T,Total emissions excluding LULUCF,4664.313,Estimated value
+OECDE,OECD Europe,2015,_T,Total emissions excluding LULUCF,4701.914,Estimated value
+OECDE,OECD Europe,2016,_T,Total emissions excluding LULUCF,4705.408,Estimated value
+OECDE,OECD Europe,2017,_T,Total emissions excluding LULUCF,4737.348,Estimated value
+OECDE,OECD Europe,2018,_T,Total emissions excluding LULUCF,4642.961,Estimated value
+OECDSO,OECD Asia Oceania,1990,_T,Total emissions excluding LULUCF,2138.878,Estimated value
+OECDSO,OECD Asia Oceania,1991,_T,Total emissions excluding LULUCF,2185.061,Estimated value
+OECDSO,OECD Asia Oceania,1992,_T,Total emissions excluding LULUCF,2228.466,Estimated value
+OECDSO,OECD Asia Oceania,1993,_T,Total emissions excluding LULUCF,2259.764,Estimated value
+OECDSO,OECD Asia Oceania,1994,_T,Total emissions excluding LULUCF,2349.458,Estimated value
+OECDSO,OECD Asia Oceania,1995,_T,Total emissions excluding LULUCF,2411.17,Estimated value
+OECDSO,OECD Asia Oceania,1996,_T,Total emissions excluding LULUCF,2469.731,Estimated value
+OECDSO,OECD Asia Oceania,1997,_T,Total emissions excluding LULUCF,2502.593,Estimated value
+OECDSO,OECD Asia Oceania,1998,_T,Total emissions excluding LULUCF,2402.76,Estimated value
+OECDSO,OECD Asia Oceania,1999,_T,Total emissions excluding LULUCF,2477.338,Estimated value
+OECDSO,OECD Asia Oceania,2000,_T,Total emissions excluding LULUCF,2545.868,Estimated value
+OECDSO,OECD Asia Oceania,2001,_T,Total emissions excluding LULUCF,2549.722,Estimated value
+OECDSO,OECD Asia Oceania,2002,_T,Total emissions excluding LULUCF,2598.299,Estimated value
+OECDSO,OECD Asia Oceania,2003,_T,Total emissions excluding LULUCF,2622.676,Estimated value
+OECDSO,OECD Asia Oceania,2004,_T,Total emissions excluding LULUCF,2640.573,Estimated value
+OECDSO,OECD Asia Oceania,2005,_T,Total emissions excluding LULUCF,2657.222,Estimated value
+OECDSO,OECD Asia Oceania,2006,_T,Total emissions excluding LULUCF,2650.84,Estimated value
+OECDSO,OECD Asia Oceania,2007,_T,Total emissions excluding LULUCF,2700.339,Estimated value
+OECDSO,OECD Asia Oceania,2008,_T,Total emissions excluding LULUCF,2646.975,Estimated value
+OECDSO,OECD Asia Oceania,2009,_T,Total emissions excluding LULUCF,2574.278,Estimated value
+OECDSO,OECD Asia Oceania,2010,_T,Total emissions excluding LULUCF,2681.946,Estimated value
+OECDSO,OECD Asia Oceania,2011,_T,Total emissions excluding LULUCF,2766.618,Estimated value
+OECDSO,OECD Asia Oceania,2012,_T,Total emissions excluding LULUCF,2816.082,Estimated value
+OECDSO,OECD Asia Oceania,2013,_T,Total emissions excluding LULUCF,2821.808,Estimated value
+OECDSO,OECD Asia Oceania,2014,_T,Total emissions excluding LULUCF,2756.865,Estimated value
+OECDSO,OECD Asia Oceania,2015,_T,Total emissions excluding LULUCF,2732.913,Estimated value
+OECDSO,OECD Asia Oceania,2016,_T,Total emissions excluding LULUCF,2730.567,Estimated value
+OECDSO,OECD Asia Oceania,2017,_T,Total emissions excluding LULUCF,2745.673,Estimated value
+OECDSO,OECD Asia Oceania,2018,_T,Total emissions excluding LULUCF,2724.201,Estimated value
+PAN,Panama,2000,_T,Total emissions excluding LULUCF,9.6202903912612,Normal value
+PAN,Panama,2001,_T,Total emissions excluding LULUCF,10.930005348098,Normal value
+PAN,Panama,2002,_T,Total emissions excluding LULUCF,10.224326970111,Normal value
+PAN,Panama,2003,_T,Total emissions excluding LULUCF,10.719748133298001,Normal value
+PAN,Panama,2004,_T,Total emissions excluding LULUCF,10.460153909216,Normal value
+PAN,Panama,2005,_T,Total emissions excluding LULUCF,10.757033190964,Normal value
+PAN,Panama,2006,_T,Total emissions excluding LULUCF,11.377279287631,Normal value
+PAN,Panama,2007,_T,Total emissions excluding LULUCF,12.183710813316,Normal value
+PAN,Panama,2008,_T,Total emissions excluding LULUCF,12.385732099340002,Normal value
+PAN,Panama,2009,_T,Total emissions excluding LULUCF,13.80178163211,Normal value
+PAN,Panama,2010,_T,Total emissions excluding LULUCF,14.927393469096,Normal value
+PAN,Panama,2011,_T,Total emissions excluding LULUCF,16.427189962529,Normal value
+PAN,Panama,2012,_T,Total emissions excluding LULUCF,16.399218885847,Normal value
+PAN,Panama,2013,_T,Total emissions excluding LULUCF,16.378050863861997,Normal value
+PAN,Panama,2014,_T,Total emissions excluding LULUCF,16.365501986268,Normal value
+PAN,Panama,2015,_T,Total emissions excluding LULUCF,17.79436090244,Normal value
+PAN,Panama,2016,_T,Total emissions excluding LULUCF,18.000973860777997,Normal value
+PAN,Panama,2017,_T,Total emissions excluding LULUCF,17.938822004002,Normal value
+PAN,Panama,2018,_T,Total emissions excluding LULUCF,18.1820189556,Normal value
+PER,Peru,2000,_T,Total emissions excluding LULUCF,70.113015263869,Normal value
+PER,Peru,2001,_T,Total emissions excluding LULUCF,70.113015263869,Normal value
+PER,Peru,2002,_T,Total emissions excluding LULUCF,71.85029135477001,Normal value
+PER,Peru,2003,_T,Total emissions excluding LULUCF,72.86433469283999,Normal value
+PER,Peru,2004,_T,Total emissions excluding LULUCF,74.21111703448402,Normal value
+PER,Peru,2005,_T,Total emissions excluding LULUCF,77.359726221433,Normal value
+PER,Peru,2006,_T,Total emissions excluding LULUCF,76.69543176654801,Normal value
+PER,Peru,2007,_T,Total emissions excluding LULUCF,84.970662264168,Normal value
+PER,Peru,2008,_T,Total emissions excluding LULUCF,82.47031149375799,Normal value
+PER,Peru,2009,_T,Total emissions excluding LULUCF,88.046407198715,Normal value
+PER,Peru,2010,_T,Total emissions excluding LULUCF,93.36034227117699,Normal value
+PER,Peru,2011,_T,Total emissions excluding LULUCF,90.20441537702,Normal value
+PER,Peru,2012,_T,Total emissions excluding LULUCF,90.783469853862,Normal value
+PER,Peru,2013,_T,Total emissions excluding LULUCF,91.69899116076499,Normal value
+PER,Peru,2014,_T,Total emissions excluding LULUCF,97.078317519856,Normal value
+PER,Peru,2015,_T,Total emissions excluding LULUCF,97.808888803038,Normal value
+PER,Peru,2016,_T,Total emissions excluding LULUCF,100.90579436589002,Normal value
+PER,Peru,2017,_T,Total emissions excluding LULUCF,101.19882610155,Normal value
+PER,Peru,2018,_T,Total emissions excluding LULUCF,101.72468565351,Normal value
+PHL,Philippines,1994,_T,Total emissions excluding LULUCF,100.86661,Normal value
+PHL,Philippines,2000,_T,Total emissions excluding LULUCF,126.87871,Normal value
+POL,Poland,1990,_T,Total emissions excluding LULUCF,475.66300679625,Normal value
+POL,Poland,1991,_T,Total emissions excluding LULUCF,463.47179438225004,Normal value
+POL,Poland,1992,_T,Total emissions excluding LULUCF,450.58942154052994,Normal value
+POL,Poland,1993,_T,Total emissions excluding LULUCF,450.04175461264003,Normal value
+POL,Poland,1994,_T,Total emissions excluding LULUCF,444.37354753665,Normal value
+POL,Poland,1995,_T,Total emissions excluding LULUCF,445.99935446399996,Normal value
+POL,Poland,1996,_T,Total emissions excluding LULUCF,459.5354576375099,Normal value
+POL,Poland,1997,_T,Total emissions excluding LULUCF,449.48612494911,Normal value
+POL,Poland,1998,_T,Total emissions excluding LULUCF,418.59988857068,Normal value
+POL,Poland,1999,_T,Total emissions excluding LULUCF,406.90873439508005,Normal value
+POL,Poland,2000,_T,Total emissions excluding LULUCF,393.14194770508,Normal value
+POL,Poland,2001,_T,Total emissions excluding LULUCF,389.42398385760004,Normal value
+POL,Poland,2002,_T,Total emissions excluding LULUCF,380.5529207176,Normal value
+POL,Poland,2003,_T,Total emissions excluding LULUCF,393.58331832896,Normal value
+POL,Poland,2004,_T,Total emissions excluding LULUCF,398.82820176125995,Normal value
+POL,Poland,2005,_T,Total emissions excluding LULUCF,398.84674066919,Normal value
+POL,Poland,2006,_T,Total emissions excluding LULUCF,413.58459186076,Normal value
+POL,Poland,2007,_T,Total emissions excluding LULUCF,412.79234637175,Normal value
+POL,Poland,2008,_T,Total emissions excluding LULUCF,405.53188830064,Normal value
+POL,Poland,2009,_T,Total emissions excluding LULUCF,387.47539989331995,Normal value
+POL,Poland,2010,_T,Total emissions excluding LULUCF,404.47767408933004,Normal value
+POL,Poland,2011,_T,Total emissions excluding LULUCF,403.09330559368004,Normal value
+POL,Poland,2012,_T,Total emissions excluding LULUCF,395.56755206909,Normal value
+POL,Poland,2013,_T,Total emissions excluding LULUCF,391.373132421,Normal value
+POL,Poland,2014,_T,Total emissions excluding LULUCF,378.74371447747006,Normal value
+POL,Poland,2015,_T,Total emissions excluding LULUCF,381.27399288058,Normal value
+POL,Poland,2016,_T,Total emissions excluding LULUCF,392.02091561320003,Normal value
+POL,Poland,2017,_T,Total emissions excluding LULUCF,406.43319301621995,Normal value
+POL,Poland,2018,_T,Total emissions excluding LULUCF,406.36005273989997,Normal value
+PRT,Portugal,1990,_T,Total emissions excluding LULUCF,58.816293347917004,Normal value
+PRT,Portugal,1991,_T,Total emissions excluding LULUCF,60.572638522628004,Normal value
+PRT,Portugal,1992,_T,Total emissions excluding LULUCF,64.552595585335,Normal value
+PRT,Portugal,1993,_T,Total emissions excluding LULUCF,63.003274276094004,Normal value
+PRT,Portugal,1994,_T,Total emissions excluding LULUCF,63.914861496875,Normal value
+PRT,Portugal,1995,_T,Total emissions excluding LULUCF,68.61086952411901,Normal value
+PRT,Portugal,1996,_T,Total emissions excluding LULUCF,66.40470073458799,Normal value
+PRT,Portugal,1997,_T,Total emissions excluding LULUCF,69.640856440011,Normal value
+PRT,Portugal,1998,_T,Total emissions excluding LULUCF,74.557898845919,Normal value
+PRT,Portugal,1999,_T,Total emissions excluding LULUCF,82.75484863100401,Normal value
+PRT,Portugal,2000,_T,Total emissions excluding LULUCF,81.91657780964898,Normal value
+PRT,Portugal,2001,_T,Total emissions excluding LULUCF,81.553205902263,Normal value
+PRT,Portugal,2002,_T,Total emissions excluding LULUCF,85.91663102445,Normal value
+PRT,Portugal,2003,_T,Total emissions excluding LULUCF,80.76396161055901,Normal value
+PRT,Portugal,2004,_T,Total emissions excluding LULUCF,83.927211756355,Normal value
+PRT,Portugal,2005,_T,Total emissions excluding LULUCF,85.785667320287,Normal value
+PRT,Portugal,2006,_T,Total emissions excluding LULUCF,80.927941162993,Normal value
+PRT,Portugal,2007,_T,Total emissions excluding LULUCF,78.607484091844,Normal value
+PRT,Portugal,2008,_T,Total emissions excluding LULUCF,76.12595798079599,Normal value
+PRT,Portugal,2009,_T,Total emissions excluding LULUCF,73.056578237515,Normal value
+PRT,Portugal,2010,_T,Total emissions excluding LULUCF,68.70185337930201,Normal value
+PRT,Portugal,2011,_T,Total emissions excluding LULUCF,67.276472773283,Normal value
+PRT,Portugal,2012,_T,Total emissions excluding LULUCF,65.139657375394,Normal value
+PRT,Portugal,2013,_T,Total emissions excluding LULUCF,63.259692646301,Normal value
+PRT,Portugal,2014,_T,Total emissions excluding LULUCF,63.098549044608994,Normal value
+PRT,Portugal,2015,_T,Total emissions excluding LULUCF,67.312677196575,Normal value
+PRT,Portugal,2016,_T,Total emissions excluding LULUCF,65.476102909596,Normal value
+PRT,Portugal,2017,_T,Total emissions excluding LULUCF,70.59145683781699,Normal value
+PRT,Portugal,2018,_T,Total emissions excluding LULUCF,66.87633047892601,Normal value
+ROU,Romania,1990,_T,Total emissions excluding LULUCF,254.85954576574,Normal value
+ROU,Romania,1991,_T,Total emissions excluding LULUCF,208.34185588718,Normal value
+ROU,Romania,1992,_T,Total emissions excluding LULUCF,192.39299804455,Normal value
+ROU,Romania,1993,_T,Total emissions excluding LULUCF,182.06622836576997,Normal value
+ROU,Romania,1994,_T,Total emissions excluding LULUCF,179.24716152277003,Normal value
+ROU,Romania,1995,_T,Total emissions excluding LULUCF,185.55874055473,Normal value
+ROU,Romania,1996,_T,Total emissions excluding LULUCF,188.72970734659,Normal value
+ROU,Romania,1997,_T,Total emissions excluding LULUCF,175.78139168651,Normal value
+ROU,Romania,1998,_T,Total emissions excluding LULUCF,158.61095958894,Normal value
+ROU,Romania,1999,_T,Total emissions excluding LULUCF,140.60797486719,Normal value
+ROU,Romania,2000,_T,Total emissions excluding LULUCF,134.12560699743997,Normal value
+ROU,Romania,2001,_T,Total emissions excluding LULUCF,138.77505107585,Normal value
+ROU,Romania,2002,_T,Total emissions excluding LULUCF,139.47494542100998,Normal value
+ROU,Romania,2003,_T,Total emissions excluding LULUCF,144.77729659395,Normal value
+ROU,Romania,2004,_T,Total emissions excluding LULUCF,143.52326109059,Normal value
+ROU,Romania,2005,_T,Total emissions excluding LULUCF,141.90563563512,Normal value
+ROU,Romania,2006,_T,Total emissions excluding LULUCF,143.96810788073,Normal value
+ROU,Romania,2007,_T,Total emissions excluding LULUCF,142.25112509398,Normal value
+ROU,Romania,2008,_T,Total emissions excluding LULUCF,136.38104255564,Normal value
+ROU,Romania,2009,_T,Total emissions excluding LULUCF,126.14100554576,Normal value
+ROU,Romania,2010,_T,Total emissions excluding LULUCF,114.10618097182,Normal value
+ROU,Romania,2011,_T,Total emissions excluding LULUCF,118.39054025115999,Normal value
+ROU,Romania,2012,_T,Total emissions excluding LULUCF,116.30966143797,Normal value
+ROU,Romania,2013,_T,Total emissions excluding LULUCF,106.46765852346999,Normal value
+ROU,Romania,2014,_T,Total emissions excluding LULUCF,106.30384458757,Normal value
+ROU,Romania,2015,_T,Total emissions excluding LULUCF,106.70449117455999,Normal value
+ROU,Romania,2016,_T,Total emissions excluding LULUCF,104.94461782034001,Normal value
+ROU,Romania,2017,_T,Total emissions excluding LULUCF,108.37728040188,Normal value
+ROU,Romania,2018,_T,Total emissions excluding LULUCF,109.12518391912,Normal value
+RWA,Rwanda,2006,_T,Total emissions excluding LULUCF,6.5263866100919,Normal value
+RWA,Rwanda,2007,_T,Total emissions excluding LULUCF,6.787506772853999,Normal value
+RWA,Rwanda,2008,_T,Total emissions excluding LULUCF,7.3304103309745,Normal value
+RWA,Rwanda,2009,_T,Total emissions excluding LULUCF,7.905690766212301,Normal value
+RWA,Rwanda,2010,_T,Total emissions excluding LULUCF,8.323028069710698,Normal value
+RWA,Rwanda,2011,_T,Total emissions excluding LULUCF,7.9774312786512,Normal value
+RWA,Rwanda,2012,_T,Total emissions excluding LULUCF,7.7247671349377,Normal value
+RWA,Rwanda,2013,_T,Total emissions excluding LULUCF,8.062816398110499,Normal value
+RWA,Rwanda,2014,_T,Total emissions excluding LULUCF,8.340393370708,Normal value
+RWA,Rwanda,2015,_T,Total emissions excluding LULUCF,9.5598866260246,Normal value
+RWA,Rwanda,2016,_T,Total emissions excluding LULUCF,9.084186147321999,Normal value
+RWA,Rwanda,2017,_T,Total emissions excluding LULUCF,9.4823760075427,Normal value
+RWA,Rwanda,2018,_T,Total emissions excluding LULUCF,9.963857618714899,Normal value
+SGP,Singapore,2000,_T,Total emissions excluding LULUCF,39.69271146232,Normal value
+SGP,Singapore,2001,_T,Total emissions excluding LULUCF,40.652308278175,Normal value
+SGP,Singapore,2002,_T,Total emissions excluding LULUCF,42.36597722075,Normal value
+SGP,Singapore,2003,_T,Total emissions excluding LULUCF,42.373559582747006,Normal value
+SGP,Singapore,2004,_T,Total emissions excluding LULUCF,43.957903832618,Normal value
+SGP,Singapore,2005,_T,Total emissions excluding LULUCF,43.227663280359,Normal value
+SGP,Singapore,2006,_T,Total emissions excluding LULUCF,44.70700384760699,Normal value
+SGP,Singapore,2007,_T,Total emissions excluding LULUCF,44.545888564637,Normal value
+SGP,Singapore,2008,_T,Total emissions excluding LULUCF,44.114682631159,Normal value
+SGP,Singapore,2009,_T,Total emissions excluding LULUCF,44.281357231956,Normal value
+SGP,Singapore,2010,_T,Total emissions excluding LULUCF,48.959298629803,Normal value
+SGP,Singapore,2011,_T,Total emissions excluding LULUCF,52.136748691606996,Normal value
+SGP,Singapore,2012,_T,Total emissions excluding LULUCF,51.323030059901996,Normal value
+SGP,Singapore,2013,_T,Total emissions excluding LULUCF,51.591118169503005,Normal value
+SGP,Singapore,2014,_T,Total emissions excluding LULUCF,52.593930365759,Normal value
+SGP,Singapore,2015,_T,Total emissions excluding LULUCF,54.326718351919006,Normal value
+SGP,Singapore,2016,_T,Total emissions excluding LULUCF,54.176673473014006,Normal value
+SGP,Singapore,2017,_T,Total emissions excluding LULUCF,56.050690845325,Normal value
+SGP,Singapore,2018,_T,Total emissions excluding LULUCF,56.832999289452,Normal value
+SLB,Solomon Islands,1994,_T,Total emissions excluding LULUCF,0.29877478911484,Normal value
+SLB,Solomon Islands,2000,_T,Total emissions excluding LULUCF,0.26175399857393,Normal value
+SLB,Solomon Islands,2005,_T,Total emissions excluding LULUCF,0.29864176853342,Normal value
+SLB,Solomon Islands,2010,_T,Total emissions excluding LULUCF,0.41835959317024,Normal value
+SLB,Solomon Islands,2011,_T,Total emissions excluding LULUCF,0.5209105763733001,Normal value
+SLB,Solomon Islands,2012,_T,Total emissions excluding LULUCF,0.55834521098484,Normal value
+SLB,Solomon Islands,2013,_T,Total emissions excluding LULUCF,0.59623929365432,Normal value
+SLB,Solomon Islands,2014,_T,Total emissions excluding LULUCF,0.52644256684781,Normal value
+SLB,Solomon Islands,2015,_T,Total emissions excluding LULUCF,0.51939897778376,Normal value
+SLB,Solomon Islands,2016,_T,Total emissions excluding LULUCF,0.59755482365411,Normal value
+SLB,Solomon Islands,2017,_T,Total emissions excluding LULUCF,0.60161117690535,Normal value
+SLB,Solomon Islands,2018,_T,Total emissions excluding LULUCF,0.59488569632508,Normal value
+SRB,Serbia,1990,_T,Total emissions excluding LULUCF,83.62473464033401,Normal value
+SRB,Serbia,1991,_T,Total emissions excluding LULUCF,73.189086705582,Normal value
+SRB,Serbia,1992,_T,Total emissions excluding LULUCF,68.777392840362,Normal value
+SRB,Serbia,1993,_T,Total emissions excluding LULUCF,60.483675665418,Normal value
+SRB,Serbia,1994,_T,Total emissions excluding LULUCF,55.990151627834,Normal value
+SRB,Serbia,1995,_T,Total emissions excluding LULUCF,63.28478937546,Normal value
+SRB,Serbia,1996,_T,Total emissions excluding LULUCF,71.147271063617,Normal value
+SRB,Serbia,1997,_T,Total emissions excluding LULUCF,76.64718570639201,Normal value
+SRB,Serbia,1998,_T,Total emissions excluding LULUCF,75.80922685571299,Normal value
+SRB,Serbia,1999,_T,Total emissions excluding LULUCF,56.965240733301,Normal value
+SRB,Serbia,2000,_T,Total emissions excluding LULUCF,61.184717053189004,Normal value
+SRB,Serbia,2001,_T,Total emissions excluding LULUCF,63.417459564027,Normal value
+SRB,Serbia,2002,_T,Total emissions excluding LULUCF,67.822412738132,Normal value
+SRB,Serbia,2003,_T,Total emissions excluding LULUCF,70.750273897928,Normal value
+SRB,Serbia,2004,_T,Total emissions excluding LULUCF,77.099721674697,Normal value
+SRB,Serbia,2005,_T,Total emissions excluding LULUCF,69.725401013934,Normal value
+SRB,Serbia,2006,_T,Total emissions excluding LULUCF,73.14034356293101,Normal value
+SRB,Serbia,2007,_T,Total emissions excluding LULUCF,73.72085136936201,Normal value
+SRB,Serbia,2008,_T,Total emissions excluding LULUCF,72.97685036522101,Normal value
+SRB,Serbia,2009,_T,Total emissions excluding LULUCF,66.042054481882,Normal value
+SRB,Serbia,2010,_T,Total emissions excluding LULUCF,64.32009626418801,Normal value
+SRB,Serbia,2011,_T,Total emissions excluding LULUCF,69.544080628641,Normal value
+SRB,Serbia,2012,_T,Total emissions excluding LULUCF,62.855424666047,Normal value
+SRB,Serbia,2013,_T,Total emissions excluding LULUCF,63.909685931847,Normal value
+SRB,Serbia,2014,_T,Total emissions excluding LULUCF,55.055869579477005,Normal value
+SRB,Serbia,2015,_T,Total emissions excluding LULUCF,62.825855911779,Normal value
+SRB,Serbia,2016,_T,Total emissions excluding LULUCF,64.327853750988,Normal value
+SRB,Serbia,2017,_T,Total emissions excluding LULUCF,65.002883869296,Normal value
+SRB,Serbia,2018,_T,Total emissions excluding LULUCF,63.33611453444401,Normal value
+SVK,Slovak Republic,1990,_T,Total emissions excluding LULUCF,74.16661636924,Normal value
+SVK,Slovak Republic,1991,_T,Total emissions excluding LULUCF,64.692160837505,Normal value
+SVK,Slovak Republic,1992,_T,Total emissions excluding LULUCF,59.862382947282,Normal value
+SVK,Slovak Republic,1993,_T,Total emissions excluding LULUCF,56.219841586498,Normal value
+SVK,Slovak Republic,1994,_T,Total emissions excluding LULUCF,53.773864629247,Normal value
+SVK,Slovak Republic,1995,_T,Total emissions excluding LULUCF,54.307257090465,Normal value
+SVK,Slovak Republic,1996,_T,Total emissions excluding LULUCF,54.213443570612,Normal value
+SVK,Slovak Republic,1997,_T,Total emissions excluding LULUCF,54.085238927317,Normal value
+SVK,Slovak Republic,1998,_T,Total emissions excluding LULUCF,53.399718514513,Normal value
+SVK,Slovak Republic,1999,_T,Total emissions excluding LULUCF,52.08331766351,Normal value
+SVK,Slovak Republic,2000,_T,Total emissions excluding LULUCF,50.227935571916,Normal value
+SVK,Slovak Republic,2001,_T,Total emissions excluding LULUCF,52.486704106076004,Normal value
+SVK,Slovak Republic,2002,_T,Total emissions excluding LULUCF,51.213108954525005,Normal value
+SVK,Slovak Republic,2003,_T,Total emissions excluding LULUCF,51.34780470923501,Normal value
+SVK,Slovak Republic,2004,_T,Total emissions excluding LULUCF,51.985315669733,Normal value
+SVK,Slovak Republic,2005,_T,Total emissions excluding LULUCF,51.997884867218005,Normal value
+SVK,Slovak Republic,2006,_T,Total emissions excluding LULUCF,51.522531745170006,Normal value
+SVK,Slovak Republic,2007,_T,Total emissions excluding LULUCF,49.65921862904899,Normal value
+SVK,Slovak Republic,2008,_T,Total emissions excluding LULUCF,50.20494823298401,Normal value
+SVK,Slovak Republic,2009,_T,Total emissions excluding LULUCF,45.871902732038,Normal value
+SVK,Slovak Republic,2010,_T,Total emissions excluding LULUCF,47.088824385123,Normal value
+SVK,Slovak Republic,2011,_T,Total emissions excluding LULUCF,45.5238906883,Normal value
+SVK,Slovak Republic,2012,_T,Total emissions excluding LULUCF,43.120117168747996,Normal value
+SVK,Slovak Republic,2013,_T,Total emissions excluding LULUCF,43.045379592955,Normal value
+SVK,Slovak Republic,2014,_T,Total emissions excluding LULUCF,41.044978329303,Normal value
+SVK,Slovak Republic,2015,_T,Total emissions excluding LULUCF,41.374671313349,Normal value
+SVK,Slovak Republic,2016,_T,Total emissions excluding LULUCF,42.201928093474,Normal value
+SVK,Slovak Republic,2017,_T,Total emissions excluding LULUCF,43.190157175601996,Normal value
+SVK,Slovak Republic,2018,_T,Total emissions excluding LULUCF,42.812118852931995,Normal value
+SVN,Slovenia,1990,_T,Total emissions excluding LULUCF,18.859932516059,Normal value
+SVN,Slovenia,1991,_T,Total emissions excluding LULUCF,17.503842034035998,Normal value
+SVN,Slovenia,1992,_T,Total emissions excluding LULUCF,17.491309858161,Normal value
+SVN,Slovenia,1993,_T,Total emissions excluding LULUCF,17.730065531885003,Normal value
+SVN,Slovenia,1994,_T,Total emissions excluding LULUCF,18.132615734562002,Normal value
+SVN,Slovenia,1995,_T,Total emissions excluding LULUCF,18.909684432964,Normal value
+SVN,Slovenia,1996,_T,Total emissions excluding LULUCF,19.496199461812,Normal value
+SVN,Slovenia,1997,_T,Total emissions excluding LULUCF,20.037481630161004,Normal value
+SVN,Slovenia,1998,_T,Total emissions excluding LULUCF,19.6266706195,Normal value
+SVN,Slovenia,1999,_T,Total emissions excluding LULUCF,19.010172642504,Normal value
+SVN,Slovenia,2000,_T,Total emissions excluding LULUCF,18.786111985827,Normal value
+SVN,Slovenia,2001,_T,Total emissions excluding LULUCF,20.055052931027,Normal value
+SVN,Slovenia,2002,_T,Total emissions excluding LULUCF,20.328964055376,Normal value
+SVN,Slovenia,2003,_T,Total emissions excluding LULUCF,19.996351202158,Normal value
+SVN,Slovenia,2004,_T,Total emissions excluding LULUCF,20.392440554026,Normal value
+SVN,Slovenia,2005,_T,Total emissions excluding LULUCF,20.645124259487996,Normal value
+SVN,Slovenia,2006,_T,Total emissions excluding LULUCF,20.817816914825,Normal value
+SVN,Slovenia,2007,_T,Total emissions excluding LULUCF,20.998564091167996,Normal value
+SVN,Slovenia,2008,_T,Total emissions excluding LULUCF,21.717821952413,Normal value
+SVN,Slovenia,2009,_T,Total emissions excluding LULUCF,19.548581034111,Normal value
+SVN,Slovenia,2010,_T,Total emissions excluding LULUCF,19.773309910161,Normal value
+SVN,Slovenia,2011,_T,Total emissions excluding LULUCF,19.695230686687,Normal value
+SVN,Slovenia,2012,_T,Total emissions excluding LULUCF,19.062046470137002,Normal value
+SVN,Slovenia,2013,_T,Total emissions excluding LULUCF,18.360926276646996,Normal value
+SVN,Slovenia,2014,_T,Total emissions excluding LULUCF,16.703294595234002,Normal value
+SVN,Slovenia,2015,_T,Total emissions excluding LULUCF,16.900643775096,Normal value
+SVN,Slovenia,2016,_T,Total emissions excluding LULUCF,17.798043801770003,Normal value
+SVN,Slovenia,2017,_T,Total emissions excluding LULUCF,17.896274316422,Normal value
+SVN,Slovenia,2018,_T,Total emissions excluding LULUCF,17.744898766308,Normal value
+SWE,Sweden,1990,_T,Total emissions excluding LULUCF,71.255654823243,Normal value
+SWE,Sweden,1991,_T,Total emissions excluding LULUCF,71.384002534156,Normal value
+SWE,Sweden,1992,_T,Total emissions excluding LULUCF,71.062493980232,Normal value
+SWE,Sweden,1993,_T,Total emissions excluding LULUCF,71.281957403884,Normal value
+SWE,Sweden,1994,_T,Total emissions excluding LULUCF,73.769624261519,Normal value
+SWE,Sweden,1995,_T,Total emissions excluding LULUCF,73.138256154973,Normal value
+SWE,Sweden,1996,_T,Total emissions excluding LULUCF,77.039124200807,Normal value
+SWE,Sweden,1997,_T,Total emissions excluding LULUCF,72.134855829199,Normal value
+SWE,Sweden,1998,_T,Total emissions excluding LULUCF,72.518092260287,Normal value
+SWE,Sweden,1999,_T,Total emissions excluding LULUCF,69.35832380322,Normal value
+SWE,Sweden,2000,_T,Total emissions excluding LULUCF,68.101735838721,Normal value
+SWE,Sweden,2001,_T,Total emissions excluding LULUCF,68.87013631885999,Normal value
+SWE,Sweden,2002,_T,Total emissions excluding LULUCF,69.48776800301,Normal value
+SWE,Sweden,2003,_T,Total emissions excluding LULUCF,69.81966802986801,Normal value
+SWE,Sweden,2004,_T,Total emissions excluding LULUCF,69.159323528636,Normal value
+SWE,Sweden,2005,_T,Total emissions excluding LULUCF,66.252028732659,Normal value
+SWE,Sweden,2006,_T,Total emissions excluding LULUCF,65.89945905821001,Normal value
+SWE,Sweden,2007,_T,Total emissions excluding LULUCF,64.740042430543,Normal value
+SWE,Sweden,2008,_T,Total emissions excluding LULUCF,62.349704729333006,Normal value
+SWE,Sweden,2009,_T,Total emissions excluding LULUCF,58.125449747760996,Normal value
+SWE,Sweden,2010,_T,Total emissions excluding LULUCF,64.113921757286,Normal value
+SWE,Sweden,2011,_T,Total emissions excluding LULUCF,59.73629588145901,Normal value
+SWE,Sweden,2012,_T,Total emissions excluding LULUCF,56.822586251715,Normal value
+SWE,Sweden,2013,_T,Total emissions excluding LULUCF,55.201662664969994,Normal value
+SWE,Sweden,2014,_T,Total emissions excluding LULUCF,53.458035787127,Normal value
+SWE,Sweden,2015,_T,Total emissions excluding LULUCF,53.250645903889996,Normal value
+SWE,Sweden,2016,_T,Total emissions excluding LULUCF,53.160797579092005,Normal value
+SWE,Sweden,2017,_T,Total emissions excluding LULUCF,52.2489742121,Normal value
+SWE,Sweden,2018,_T,Total emissions excluding LULUCF,51.430252345173,Normal value
+THA,Thailand,2000,_T,Total emissions excluding LULUCF,226.086,Normal value
+THA,Thailand,2001,_T,Total emissions excluding LULUCF,238.303,Normal value
+THA,Thailand,2002,_T,Total emissions excluding LULUCF,249.798,Normal value
+THA,Thailand,2003,_T,Total emissions excluding LULUCF,261.886,Normal value
+THA,Thailand,2004,_T,Total emissions excluding LULUCF,279.133,Normal value
+THA,Thailand,2005,_T,Total emissions excluding LULUCF,287.728,Normal value
+THA,Thailand,2006,_T,Total emissions excluding LULUCF,290.984,Normal value
+THA,Thailand,2007,_T,Total emissions excluding LULUCF,301.055,Normal value
+THA,Thailand,2008,_T,Total emissions excluding LULUCF,303.027,Normal value
+THA,Thailand,2009,_T,Total emissions excluding LULUCF,304.459,Normal value
+THA,Thailand,2010,_T,Total emissions excluding LULUCF,314.92,Normal value
+THA,Thailand,2011,_T,Total emissions excluding LULUCF,314.272,Normal value
+THA,Thailand,2012,_T,Total emissions excluding LULUCF,324.78,Normal value
+THA,Thailand,2013,_T,Total emissions excluding LULUCF,318.6609,Normal value
+TUR,Türkiye,1990,_T,Total emissions excluding LULUCF,228.92369092293,Normal value
+TUR,Türkiye,1991,_T,Total emissions excluding LULUCF,236.41949820271,Normal value
+TUR,Türkiye,1992,_T,Total emissions excluding LULUCF,242.70600880616,Normal value
+TUR,Türkiye,1993,_T,Total emissions excluding LULUCF,250.01102404117,Normal value
+TUR,Türkiye,1994,_T,Total emissions excluding LULUCF,243.64136196087,Normal value
+TUR,Türkiye,1995,_T,Total emissions excluding LULUCF,257.40814905339,Normal value
+TUR,Türkiye,1996,_T,Total emissions excluding LULUCF,276.86232050542,Normal value
+TUR,Türkiye,1997,_T,Total emissions excluding LULUCF,287.65818418551,Normal value
+TUR,Türkiye,1998,_T,Total emissions excluding LULUCF,289.21487059359004,Normal value
+TUR,Türkiye,1999,_T,Total emissions excluding LULUCF,286.72195416051,Normal value
+TUR,Türkiye,2000,_T,Total emissions excluding LULUCF,307.51710486069,Normal value
+TUR,Türkiye,2001,_T,Total emissions excluding LULUCF,288.65728273183,Normal value
+TUR,Türkiye,2002,_T,Total emissions excluding LULUCF,293.46815392386003,Normal value
+TUR,Türkiye,2003,_T,Total emissions excluding LULUCF,313.18906042816,Normal value
+TUR,Türkiye,2004,_T,Total emissions excluding LULUCF,322.74217623187,Normal value
+TUR,Türkiye,2005,_T,Total emissions excluding LULUCF,345.77478064094004,Normal value
+TUR,Türkiye,2006,_T,Total emissions excluding LULUCF,366.22345233931003,Normal value
+TUR,Türkiye,2007,_T,Total emissions excluding LULUCF,400.09445756802,Normal value
+TUR,Türkiye,2008,_T,Total emissions excluding LULUCF,395.90648034875,Normal value
+TUR,Türkiye,2009,_T,Total emissions excluding LULUCF,402.61048758864,Normal value
+TUR,Türkiye,2010,_T,Total emissions excluding LULUCF,406.40721360092,Normal value
+TUR,Türkiye,2011,_T,Total emissions excluding LULUCF,435.84887944613,Normal value
+TUR,Türkiye,2012,_T,Total emissions excluding LULUCF,456.25107632153,Normal value
+TUR,Türkiye,2013,_T,Total emissions excluding LULUCF,448.45116201598,Normal value
+TUR,Türkiye,2014,_T,Total emissions excluding LULUCF,467.34399268777,Normal value
+TUR,Türkiye,2015,_T,Total emissions excluding LULUCF,483.93201567004,Normal value
+TUR,Türkiye,2016,_T,Total emissions excluding LULUCF,508.28198741457,Normal value
+TUR,Türkiye,2017,_T,Total emissions excluding LULUCF,535.15774489155,Normal value
+TUR,Türkiye,2018,_T,Total emissions excluding LULUCF,533.46738642454,Normal value
+UKR,Ukraine,1990,_T,Total emissions excluding LULUCF,964.31895721821,Normal value
+UKR,Ukraine,1991,_T,Total emissions excluding LULUCF,877.63436620721,Normal value
+UKR,Ukraine,1992,_T,Total emissions excluding LULUCF,821.7294345303201,Normal value
+UKR,Ukraine,1993,_T,Total emissions excluding LULUCF,730.55352544052,Normal value
+UKR,Ukraine,1994,_T,Total emissions excluding LULUCF,623.712460791,Normal value
+UKR,Ukraine,1995,_T,Total emissions excluding LULUCF,579.43483097944,Normal value
+UKR,Ukraine,1996,_T,Total emissions excluding LULUCF,532.43245952525,Normal value
+UKR,Ukraine,1997,_T,Total emissions excluding LULUCF,514.59008745912,Normal value
+UKR,Ukraine,1998,_T,Total emissions excluding LULUCF,496.24093605566003,Normal value
+UKR,Ukraine,1999,_T,Total emissions excluding LULUCF,465.30427842150004,Normal value
+UKR,Ukraine,2000,_T,Total emissions excluding LULUCF,441.69812986693,Normal value
+UKR,Ukraine,2001,_T,Total emissions excluding LULUCF,459.76052304005003,Normal value
+UKR,Ukraine,2002,_T,Total emissions excluding LULUCF,443.8133551305,Normal value
+UKR,Ukraine,2003,_T,Total emissions excluding LULUCF,453.09269716991,Normal value
+UKR,Ukraine,2004,_T,Total emissions excluding LULUCF,455.2561348229,Normal value
+UKR,Ukraine,2005,_T,Total emissions excluding LULUCF,453.86646846044,Normal value
+UKR,Ukraine,2006,_T,Total emissions excluding LULUCF,471.29083135702,Normal value
+UKR,Ukraine,2007,_T,Total emissions excluding LULUCF,474.75792543687004,Normal value
+UKR,Ukraine,2008,_T,Total emissions excluding LULUCF,460.72305558226003,Normal value
+UKR,Ukraine,2009,_T,Total emissions excluding LULUCF,400.33664657906,Normal value
+UKR,Ukraine,2010,_T,Total emissions excluding LULUCF,417.2014497204,Normal value
+UKR,Ukraine,2011,_T,Total emissions excluding LULUCF,437.70721681009,Normal value
+UKR,Ukraine,2012,_T,Total emissions excluding LULUCF,426.14744860299004,Normal value
+UKR,Ukraine,2013,_T,Total emissions excluding LULUCF,416.52073631103997,Normal value
+UKR,Ukraine,2014,_T,Total emissions excluding LULUCF,369.09914925032996,Normal value
+UKR,Ukraine,2015,_T,Total emissions excluding LULUCF,324.79068020097,Normal value
+UKR,Ukraine,2016,_T,Total emissions excluding LULUCF,343.27695125855,Normal value
+UKR,Ukraine,2017,_T,Total emissions excluding LULUCF,328.81509055904,Normal value
+UKR,Ukraine,2018,_T,Total emissions excluding LULUCF,345.00225083017,Normal value
+URY,Uruguay,1990,_T,Total emissions excluding LULUCF,29.544193764501003,Normal value
+USA,United States,1990,_T,Total emissions excluding LULUCF,6536.91468,Normal value
+USA,United States,1991,_T,Total emissions excluding LULUCF,6472.68935,Normal value
+USA,United States,1992,_T,Total emissions excluding LULUCF,6576.35169,Normal value
+USA,United States,1993,_T,Total emissions excluding LULUCF,6686.45554,Normal value
+USA,United States,1994,_T,Total emissions excluding LULUCF,6782.63878,Normal value
+USA,United States,1995,_T,Total emissions excluding LULUCF,6862.13729,Normal value
+USA,United States,1996,_T,Total emissions excluding LULUCF,7056.25838,Normal value
+USA,United States,1997,_T,Total emissions excluding LULUCF,7108.97997,Normal value
+USA,United States,1998,_T,Total emissions excluding LULUCF,7178.98629,Normal value
+USA,United States,1999,_T,Total emissions excluding LULUCF,7218.63297,Normal value
+USA,United States,2000,_T,Total emissions excluding LULUCF,7419.88111,Normal value
+USA,United States,2001,_T,Total emissions excluding LULUCF,7287.31695,Normal value
+USA,United States,2002,_T,Total emissions excluding LULUCF,7329.89811,Normal value
+USA,United States,2003,_T,Total emissions excluding LULUCF,7386.88704,Normal value
+USA,United States,2004,_T,Total emissions excluding LULUCF,7492.32876,Normal value
+USA,United States,2005,_T,Total emissions excluding LULUCF,7494.6371,Normal value
+USA,United States,2006,_T,Total emissions excluding LULUCF,7429.17814,Normal value
+USA,United States,2007,_T,Total emissions excluding LULUCF,7529.90474,Normal value
+USA,United States,2008,_T,Total emissions excluding LULUCF,7326.35259,Normal value
+USA,United States,2009,_T,Total emissions excluding LULUCF,6866.91873,Normal value
+USA,United States,2010,_T,Total emissions excluding LULUCF,7066.00741,Normal value
+USA,United States,2011,_T,Total emissions excluding LULUCF,6911.76848,Normal value
+USA,United States,2012,_T,Total emissions excluding LULUCF,6660.90512,Normal value
+USA,United States,2013,_T,Total emissions excluding LULUCF,6845.40307,Normal value
+USA,United States,2014,_T,Total emissions excluding LULUCF,6905.85134,Normal value
+USA,United States,2015,_T,Total emissions excluding LULUCF,6736.21678,Normal value
+USA,United States,2016,_T,Total emissions excluding LULUCF,6580.03597,Normal value
+USA,United States,2017,_T,Total emissions excluding LULUCF,6551.02715,Normal value
+USA,United States,2018,_T,Total emissions excluding LULUCF,6752.74972,Normal value
+UZB,Uzbekistan,1990,_T,Total emissions excluding LULUCF,158.66127867343,Normal value
+UZB,Uzbekistan,1991,_T,Total emissions excluding LULUCF,160.81661191033,Normal value
+UZB,Uzbekistan,1992,_T,Total emissions excluding LULUCF,154.95475386789,Normal value
+UZB,Uzbekistan,1993,_T,Total emissions excluding LULUCF,156.70120562034003,Normal value
+UZB,Uzbekistan,1994,_T,Total emissions excluding LULUCF,153.51897537667998,Normal value
+UZB,Uzbekistan,1995,_T,Total emissions excluding LULUCF,155.50983804836,Normal value
+UZB,Uzbekistan,1996,_T,Total emissions excluding LULUCF,158.81901971941,Normal value
+UZB,Uzbekistan,1997,_T,Total emissions excluding LULUCF,158.62882804439,Normal value
+UZB,Uzbekistan,1998,_T,Total emissions excluding LULUCF,158.97762708325,Normal value
+UZB,Uzbekistan,1999,_T,Total emissions excluding LULUCF,163.7373266663,Normal value
+UZB,Uzbekistan,2000,_T,Total emissions excluding LULUCF,169.4171252149,Normal value
+UZB,Uzbekistan,2001,_T,Total emissions excluding LULUCF,168.62431182134,Normal value
+UZB,Uzbekistan,2002,_T,Total emissions excluding LULUCF,173.97672254481,Normal value
+UZB,Uzbekistan,2003,_T,Total emissions excluding LULUCF,168.60519091121,Normal value
+UZB,Uzbekistan,2004,_T,Total emissions excluding LULUCF,169.91446088198,Normal value
+UZB,Uzbekistan,2005,_T,Total emissions excluding LULUCF,166.30377709038999,Normal value
+UZB,Uzbekistan,2006,_T,Total emissions excluding LULUCF,170.72469938646998,Normal value
+UZB,Uzbekistan,2007,_T,Total emissions excluding LULUCF,171.2490263071,Normal value
+UZB,Uzbekistan,2008,_T,Total emissions excluding LULUCF,176.25938207687003,Normal value
+UZB,Uzbekistan,2009,_T,Total emissions excluding LULUCF,174.31268868984,Normal value
+UZB,Uzbekistan,2010,_T,Total emissions excluding LULUCF,172.48676233075997,Normal value
+UZB,Uzbekistan,2011,_T,Total emissions excluding LULUCF,170.49820667846,Normal value
+UZB,Uzbekistan,2012,_T,Total emissions excluding LULUCF,166.51962948996,Normal value
+UZB,Uzbekistan,2013,_T,Total emissions excluding LULUCF,169.59944183891,Normal value
+UZB,Uzbekistan,2014,_T,Total emissions excluding LULUCF,170.77814929112998,Normal value
+UZB,Uzbekistan,2015,_T,Total emissions excluding LULUCF,166.99572268057,Normal value
+UZB,Uzbekistan,2016,_T,Total emissions excluding LULUCF,171.34980074811,Normal value
+UZB,Uzbekistan,2017,_T,Total emissions excluding LULUCF,171.74091238256,Normal value
+UZB,Uzbekistan,2018,_T,Total emissions excluding LULUCF,187.85106900523002,Normal value
+VAT,Holy See,2011,_T,Total emissions excluding LULUCF,0.019325673786721002,Normal value
+VAT,Holy See,2012,_T,Total emissions excluding LULUCF,0.017203028631371003,Normal value
+VAT,Holy See,2013,_T,Total emissions excluding LULUCF,0.018078060653019,Normal value
+VAT,Holy See,2014,_T,Total emissions excluding LULUCF,0.017647524525926,Normal value
+VAT,Holy See,2015,_T,Total emissions excluding LULUCF,0.017299764883509,Normal value
+VAT,Holy See,2016,_T,Total emissions excluding LULUCF,0.016501051295395003,Normal value
+VAT,Holy See,2017,_T,Total emissions excluding LULUCF,0.017037877458295998,Normal value
+VAT,Holy See,2018,_T,Total emissions excluding LULUCF,0.016026792225144,Normal value
+VEN,Venezuela,1990,_T,Total emissions excluding LULUCF,127.38210188094999,Normal value
+VEN,Venezuela,1991,_T,Total emissions excluding LULUCF,131.17877827869,Normal value
+VEN,Venezuela,1992,_T,Total emissions excluding LULUCF,133.15721664904,Normal value
+VEN,Venezuela,1993,_T,Total emissions excluding LULUCF,135.86800175768,Normal value
+VEN,Venezuela,1994,_T,Total emissions excluding LULUCF,137.17602909535,Normal value
+VEN,Venezuela,1995,_T,Total emissions excluding LULUCF,145.91276001974,Normal value
+VEN,Venezuela,1996,_T,Total emissions excluding LULUCF,148.20172673728,Normal value
+VEN,Venezuela,1997,_T,Total emissions excluding LULUCF,145.82402548516,Normal value
+VEN,Venezuela,1998,_T,Total emissions excluding LULUCF,150.32223597554002,Normal value
+VEN,Venezuela,1999,_T,Total emissions excluding LULUCF,143.46487663503,Normal value
+VEN,Venezuela,2000,_T,Total emissions excluding LULUCF,153.81060017067,Normal value
+VEN,Venezuela,2001,_T,Total emissions excluding LULUCF,168.56647526655001,Normal value
+VEN,Venezuela,2002,_T,Total emissions excluding LULUCF,172.7251650983,Normal value
+VEN,Venezuela,2003,_T,Total emissions excluding LULUCF,165.93343439383997,Normal value
+VEN,Venezuela,2004,_T,Total emissions excluding LULUCF,176.61388173177002,Normal value
+VEN,Venezuela,2005,_T,Total emissions excluding LULUCF,188.83405972111,Normal value
+VEN,Venezuela,2006,_T,Total emissions excluding LULUCF,213.31484529796,Normal value
+VEN,Venezuela,2007,_T,Total emissions excluding LULUCF,221.36059768773,Normal value
+VEN,Venezuela,2008,_T,Total emissions excluding LULUCF,235.52701930752,Normal value
+VEN,Venezuela,2009,_T,Total emissions excluding LULUCF,247.01823967745997,Normal value
+VEN,Venezuela,2010,_T,Total emissions excluding LULUCF,217.78554367833001,Normal value
+VEN,Venezuela,2011,_T,Total emissions excluding LULUCF,230.62855920477,Normal value
+VEN,Venezuela,2012,_T,Total emissions excluding LULUCF,255.72914076301,Normal value
+VEN,Venezuela,2013,_T,Total emissions excluding LULUCF,233.21338995488,Normal value
+VEN,Venezuela,2014,_T,Total emissions excluding LULUCF,253.16029643165,Normal value
+VEN,Venezuela,2015,_T,Total emissions excluding LULUCF,232.70695388802,Normal value
+VEN,Venezuela,2016,_T,Total emissions excluding LULUCF,227.45270466724,Normal value
+VEN,Venezuela,2017,_T,Total emissions excluding LULUCF,216.60857429458002,Normal value
+VEN,Venezuela,2018,_T,Total emissions excluding LULUCF,184.56548938566002,Normal value
+ZAF,South Africa,2000,_T,Total emissions excluding LULUCF,488.34777074701,Normal value
+ZAF,South Africa,2001,_T,Total emissions excluding LULUCF,487.57741513571,Normal value
+ZAF,South Africa,2002,_T,Total emissions excluding LULUCF,496.39080112865,Normal value
+ZAF,South Africa,2003,_T,Total emissions excluding LULUCF,511.93796066799996,Normal value
+ZAF,South Africa,2004,_T,Total emissions excluding LULUCF,523.6527481794,Normal value
+ZAF,South Africa,2005,_T,Total emissions excluding LULUCF,521.26175580916,Normal value
+ZAF,South Africa,2006,_T,Total emissions excluding LULUCF,511.91865889564,Normal value
+ZAF,South Africa,2007,_T,Total emissions excluding LULUCF,533.53258979163,Normal value
+ZAF,South Africa,2008,_T,Total emissions excluding LULUCF,530.6602359327401,Normal value
+ZAF,South Africa,2009,_T,Total emissions excluding LULUCF,546.11604085663,Normal value
+ZAF,South Africa,2010,_T,Total emissions excluding LULUCF,524.67379860083,Normal value
+ZAF,South Africa,2011,_T,Total emissions excluding LULUCF,524.1710715148901,Normal value
+ZAF,South Africa,2012,_T,Total emissions excluding LULUCF,533.4474875556499,Normal value
+ZAF,South Africa,2013,_T,Total emissions excluding LULUCF,521.44690322122,Normal value
+ZAF,South Africa,2014,_T,Total emissions excluding LULUCF,521.91521199393,Normal value
+ZAF,South Africa,2015,_T,Total emissions excluding LULUCF,512.49905914015,Normal value
+ZAF,South Africa,2016,_T,Total emissions excluding LULUCF,508.13787463242994,Normal value
+ZAF,South Africa,2017,_T,Total emissions excluding LULUCF,500.16419329017003,Normal value
+ZAF,South Africa,2018,_T,Total emissions excluding LULUCF,500.38498425553,Normal value
+ZWE,Zimbabwe,1990,_T,Total emissions excluding LULUCF,23.446665513235,Normal value
+ZWE,Zimbabwe,1991,_T,Total emissions excluding LULUCF,23.723692054299,Normal value
+ZWE,Zimbabwe,1992,_T,Total emissions excluding LULUCF,22.863694805014003,Normal value
+ZWE,Zimbabwe,1993,_T,Total emissions excluding LULUCF,23.021774202282998,Normal value
+ZWE,Zimbabwe,1994,_T,Total emissions excluding LULUCF,23.955627830351002,Normal value
+ZWE,Zimbabwe,1995,_T,Total emissions excluding LULUCF,24.853085956925998,Normal value
+ZWE,Zimbabwe,1996,_T,Total emissions excluding LULUCF,25.391771534868,Normal value
+ZWE,Zimbabwe,1997,_T,Total emissions excluding LULUCF,26.134838869123,Normal value
+ZWE,Zimbabwe,1998,_T,Total emissions excluding LULUCF,27.344820101039,Normal value
+ZWE,Zimbabwe,1999,_T,Total emissions excluding LULUCF,28.468175724781997,Normal value
+ZWE,Zimbabwe,2000,_T,Total emissions excluding LULUCF,27.006845525149004,Normal value
+ZWE,Zimbabwe,2001,_T,Total emissions excluding LULUCF,28.967372360892,Normal value
+ZWE,Zimbabwe,2002,_T,Total emissions excluding LULUCF,28.082878469706,Normal value
+ZWE,Zimbabwe,2003,_T,Total emissions excluding LULUCF,25.682415850477998,Normal value
+ZWE,Zimbabwe,2004,_T,Total emissions excluding LULUCF,26.503214720087996,Normal value
+ZWE,Zimbabwe,2005,_T,Total emissions excluding LULUCF,27.047015367560004,Normal value
+ZWE,Zimbabwe,2006,_T,Total emissions excluding LULUCF,27.670174762591998,Normal value
+ZWE,Zimbabwe,2007,_T,Total emissions excluding LULUCF,28.543076997208004,Normal value
+ZWE,Zimbabwe,2008,_T,Total emissions excluding LULUCF,28.334706615775,Normal value
+ZWE,Zimbabwe,2009,_T,Total emissions excluding LULUCF,27.148024790558,Normal value
+ZWE,Zimbabwe,2010,_T,Total emissions excluding LULUCF,28.004816955145003,Normal value
+ZWE,Zimbabwe,2011,_T,Total emissions excluding LULUCF,30.839760139550002,Normal value
+ZWE,Zimbabwe,2012,_T,Total emissions excluding LULUCF,29.391775411930002,Normal value
+ZWE,Zimbabwe,2013,_T,Total emissions excluding LULUCF,29.700209252623,Normal value
+ZWE,Zimbabwe,2014,_T,Total emissions excluding LULUCF,30.043291968389997,Normal value
+ZWE,Zimbabwe,2015,_T,Total emissions excluding LULUCF,29.997960780141998,Normal value
+ZWE,Zimbabwe,2016,_T,Total emissions excluding LULUCF,29.414035384753,Normal value
+ZWE,Zimbabwe,2017,_T,Total emissions excluding LULUCF,30.431750238867,Normal value
+ZWE,Zimbabwe,2018,_T,Total emissions excluding LULUCF,31.001117906917,Normal value
